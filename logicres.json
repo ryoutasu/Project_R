@@ -1,0 +1,3071 @@
+{
+    "1024": {
+        "10039": [
+            10039, 
+            "SpawnPoint", 
+            -291901865984, 
+            0, 
+            -327685259264, 
+            true
+        ]
+    }, 
+    "2048": {}, 
+    "4096": {}, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 30.0, 
+            "far": 1000.0, 
+            "focus_max_dist": 400.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": -32.0, 
+            "focus_y": 0.0, 
+            "focus_z": -32.0, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "Initial Camera", 
+            "pitch": 0.9773843811168246, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": null, 
+            "type": 32768, 
+            "yaw": 0.0
+        }
+    }, 
+    "65536": {}, 
+    "131072": {
+        "10002": [
+            10002, 
+            "Point Light", 
+            {
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": null, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392156862745, 
+                        0.3137254901960784, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0.2, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -71.36880111694336, 
+                        3.2399988174438477, 
+                        -79.4365005493164
+                    ]
+                }, 
+                "relative_height": 0.2, 
+                "roll": 0.0, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.2612464096167555
+            }
+        ], 
+        "10004": [
+            10004, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10002, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392156862745, 
+                        0.3137254901960784, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -71.09213256835938, 
+                        3.1299991607666016, 
+                        -72.6260757446289
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.569475523990855
+            }
+        ], 
+        "10005": [
+            10005, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10002, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392156862745, 
+                        0.3137254901960784, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -48.555908203125, 
+                        3.2399988174438477, 
+                        -79.42467498779297
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.4795043323771517
+            }
+        ], 
+        "10006": [
+            10006, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10005, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392156862745, 
+                        0.3137254901960784, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -48.593732833862305, 
+                        3.2399988174438477, 
+                        -72.80999374389648
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.3094558835929559
+            }
+        ], 
+        "10007": [
+            10007, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10006, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2823529541492462, 
+                        0.9960784316062927, 
+                        0.7490196228027344
+                    ]
+                }, 
+                "light_intensity": 2222.0, 
+                "light_range": 22.22, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -59.655080795288086, 
+                        0.5000007748603821, 
+                        -76.01015853881836
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.5992977272948712
+            }
+        ], 
+        "10008": [
+            10008, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10005, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -1.0691375732421875, 
+                        3.2399988174438477, 
+                        -65.77485656738281
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.1042412328572524
+            }
+        ], 
+        "10009": [
+            10009, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10008, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.8032735586166382, 
+                        3.2399988174438477, 
+                        -63.03877258300781
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.42298929693608567
+            }
+        ], 
+        "10010": [
+            10010, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10009, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        9.43968391418457, 
+                        3.2399988174438477, 
+                        -70.16645050048828
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -2.498717175064426
+            }
+        ], 
+        "10011": [
+            10011, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10009, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        6.299605369567871, 
+                        3.2399988174438477, 
+                        -73.2902603149414
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.186999802540488
+            }
+        ], 
+        "10012": [
+            10012, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10008, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -15.38911247253418, 
+                        0.8499999642372131, 
+                        -60.23097610473633
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -2.284768788554414
+            }
+        ], 
+        "10013": [
+            10013, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -20.257070541381836, 
+                        0.8499999642372131, 
+                        -64.98155212402344
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10014": [
+            10014, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -18.517860412597656, 
+                        0.8499999642372131, 
+                        -65.47552490234375
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10015": [
+            10015, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -21.674440383911133, 
+                        0.8499999642372131, 
+                        -53.533668518066406
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10016": [
+            10016, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -26.974098205566406, 
+                        0.8499999642372131, 
+                        -56.72308349609375
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10017": [
+            10017, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -23.91904067993164, 
+                        0.8499999642372131, 
+                        -53.3956413269043
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.501876317471545
+            }
+        ], 
+        "10018": [
+            10018, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10012, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -10.555809020996094, 
+                        0.8499999642372131, 
+                        -55.1665153503418
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.18695576137842204
+            }
+        ], 
+        "10019": [
+            10019, 
+            "Point Light", 
+            {
+                "absolute_height": 3.2399988174438477, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10009, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -12.84544563293457, 
+                        3.8999969959259033, 
+                        -67.02884674072266
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10021": [
+            10021, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10019, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -17.905107498168945, 
+                        3.8999969959259033, 
+                        -56.63971710205078
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10022": [
+            10022, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10019, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -23.975732803344727, 
+                        3.8999969959259033, 
+                        -62.56685256958008
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.4483097463893722
+            }
+        ], 
+        "10023": [
+            10023, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10022, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -29.04923987388611, 
+                        3.8999969959259033, 
+                        -76.28019714355469
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10024": [
+            10024, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10021, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -3.912424087524414, 
+                        3.8999969959259033, 
+                        -75.59970092773438
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10025": [
+            10025, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10021, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        12.312362670898438, 
+                        3.8999969959259033, 
+                        -57.87489128112793
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10026": [
+            10026, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10019, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -27.733915328979492, 
+                        3.8999969959259033, 
+                        -51.971900939941406
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10027": [
+            10027, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10021, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -6.768228530883789, 
+                        3.8999969959259033, 
+                        -51.49186325073242
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.1008682873216173
+            }
+        ], 
+        "10028": [
+            10028, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10021, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        7.1497416496276855, 
+                        3.8999969959259033, 
+                        -51.567867279052734
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.14537371930367904
+            }
+        ], 
+        "10029": [
+            10029, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10027, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -0.033611297607421875, 
+                        3.8999969959259033, 
+                        -7.921331405639648
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.0998582268869455
+            }
+        ], 
+        "10031": [
+            10031, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10015, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -4.177633285522461, 
+                        0.8499999642372131, 
+                        -14.493328094482422
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10032": [
+            10032, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10015, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -4.0723724365234375, 
+                        0.8499999642372131, 
+                        -13.737199783325195
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10033": [
+            10033, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10015, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -5.5866851806640625, 
+                        0.9899998307228088, 
+                        -11.248126983642578
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10034": [
+            10034, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10015, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -6.99156379699707, 
+                        0.8499999642372131, 
+                        -10.867996215820312
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10035": [
+            10035, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10032, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        4.041900634765625, 
+                        0.8499999642372131, 
+                        -1.6884689331054688
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10036": [
+            10036, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10032, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        4.0008697509765625, 
+                        0.8499999642372131, 
+                        -2.60406494140625
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10037": [
+            10037, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10032, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        5.64630126953125, 
+                        0.8499999642372131, 
+                        -4.027446746826172
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10038": [
+            10038, 
+            "Point Light", 
+            {
+                "absolute_height": 0.8499999642372131, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10032, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        6.0975494384765625, 
+                        0.8499999642372131, 
+                        -4.624309539794922
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10040": [
+            10040, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -66.84561920166016, 
+                        0.7500000596046448, 
+                        5.620057106018066
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.4341476684227286
+            }
+        ], 
+        "10041": [
+            10041, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -66.1818618774414, 
+                        0.5300000905990601, 
+                        5.163825988769531
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.828200699019658
+            }
+        ], 
+        "10042": [
+            10042, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 3.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -65.30034637451172, 
+                        0.6700001358985901, 
+                        4.342836380004883
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.9725395243943277
+            }
+        ], 
+        "10043": [
+            10043, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -69.0853271484375, 
+                        0.7399998307228088, 
+                        8.124199867248535
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.643094590692816
+            }
+        ], 
+        "10044": [
+            10044, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -69.64790344238281, 
+                        0.779999852180481, 
+                        8.5135498046875
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ], 
+        "10045": [
+            10045, 
+            "Point Light", 
+            {
+                "auto_on_terrain": false, 
+                "entity_id": 10045, 
+                "group_key": 0, 
+                "id": 10045, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -72.09015655517578, 
+                        0.6400001049041748, 
+                        2.2606167793273926
+                    ]
+                }, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.3293966150752314
+            }
+        ], 
+        "10046": [
+            10046, 
+            "Point Light", 
+            {
+                "auto_on_terrain": false, 
+                "entity_id": 10046, 
+                "group_key": 0, 
+                "id": 10046, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -71.56183624267578, 
+                        0.6600000858306885, 
+                        1.9431707859039307
+                    ]
+                }, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.1747985292485676
+            }
+        ], 
+        "10047": [
+            10047, 
+            "Point Light", 
+            {
+                "auto_on_terrain": false, 
+                "entity_id": 10047, 
+                "group_key": 0, 
+                "id": 10047, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -70.85743713378906, 
+                        0.6500001549720764, 
+                        1.0880496501922607
+                    ]
+                }, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.506232882365717
+            }
+        ], 
+        "10050": [
+            10050, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -68.77239227294922, 
+                        0.6200001239776611, 
+                        -0.8570919036865234
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.999139012596651
+            }
+        ], 
+        "10051": [
+            10051, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 5.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -68.23835754394531, 
+                        0.6899999380111694, 
+                        -1.4856090545654297
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 2.59464104530954
+            }
+        ], 
+        "10052": [
+            10052, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -63.43729782104492, 
+                        0.8100003004074097, 
+                        3.6689584255218506
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.028807244393243146
+            }
+        ], 
+        "10053": [
+            10053, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -72.49427795410156, 
+                        0.6800000667572021, 
+                        10.9949312210083
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.4968979809103877
+            }
+        ], 
+        "10054": [
+            10054, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -72.6454849243164, 
+                        0.6899996995925903, 
+                        11.46326732635498
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.1254583324262146
+            }
+        ], 
+        "10055": [
+            10055, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 100.0, 
+                "light_range": 3.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -76.53103637695312, 
+                        0.6599999070167542, 
+                        7.480387210845947
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.4148530911554205
+            }
+        ], 
+        "10056": [
+            10056, 
+            "Point Light", 
+            {
+                "absolute_height": 0.9899998307228088, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10033, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 2.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -76.0418701171875, 
+                        0.3299998641014099, 
+                        7.014006614685059
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -2.7377426846164545
+            }
+        ], 
+        "10062": [
+            10062, 
+            "Point Light", 
+            {
+                "absolute_height": 6.760001182556152, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10061, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.12156862745098039, 
+                        0.8117647058823529, 
+                        0.1450980392156863
+                    ]
+                }, 
+                "light_intensity": 444.0, 
+                "light_range": 10.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -83.69345092773438, 
+                        7.000009536743164, 
+                        -19.196685791015625
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.055979096717868
+            }
+        ], 
+        "10063": [
+            10063, 
+            "Point Light", 
+            {
+                "absolute_height": 7.000009536743164, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10062, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.12156862765550613, 
+                        0.8117647171020508, 
+                        0.14509804546833038
+                    ]
+                }, 
+                "light_intensity": 444.0, 
+                "light_range": 10.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -76.83963012695312, 
+                        7.000009536743164, 
+                        -21.333629608154297
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -3.055979096717868
+            }
+        ], 
+        "10064": [
+            10064, 
+            "Point Light", 
+            {
+                "absolute_height": 7.000009536743164, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10063, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.12156862765550613, 
+                        0.8117647171020508, 
+                        0.14509804546833038
+                    ]
+                }, 
+                "light_intensity": 444.0, 
+                "light_range": 10.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -64.46927642822266, 
+                        1.3100104331970215, 
+                        17.547155380249023
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.9268477149130391
+            }
+        ], 
+        "10065": [
+            10065, 
+            "Point Light", 
+            {
+                "absolute_height": 1.3100104331970215, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10064, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.12156862765550613, 
+                        0.8117647171020508, 
+                        0.14509804546833038
+                    ]
+                }, 
+                "light_intensity": 444.0, 
+                "light_range": 10.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -59.20821762084961, 
+                        1.3100104331970215, 
+                        13.435667991638184
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.9268477149130391
+            }
+        ], 
+        "10066": [
+            10066, 
+            "Point Light", 
+            {
+                "absolute_height": 0.6500001549720764, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10047, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1500.0, 
+                "light_range": 15.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -64.71845245361328, 
+                        3.810000419616699, 
+                        0.39011263847351074
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 1.506232882365717
+            }
+        ], 
+        "10067": [
+            10067, 
+            "Point Light", 
+            {
+                "absolute_height": 0.779999852180481, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10044, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -66.66560363769531, 
+                        0.779999852180481, 
+                        13.397611618041992
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ], 
+        "10068": [
+            10068, 
+            "Point Light", 
+            {
+                "absolute_height": 0.779999852180481, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10044, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -70.65892028808594, 
+                        0.779999852180481, 
+                        12.76093578338623
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ], 
+        "10069": [
+            10069, 
+            "Point Light", 
+            {
+                "absolute_height": 0.779999852180481, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10044, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 500.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -62.873619079589844, 
+                        0.779999852180481, 
+                        7.958314895629883
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ], 
+        "10070": [
+            10070, 
+            "Point Light", 
+            {
+                "absolute_height": 0.779999852180481, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10044, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -78.054443359375, 
+                        0.779999852180481, 
+                        1.307579517364502
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ], 
+        "10072": [
+            10072, 
+            "Point Light", 
+            {
+                "absolute_height": 0.779999852180481, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10044, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 200.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -74.97179412841797, 
+                        0.779999852180481, 
+                        -0.7244892120361328
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -1.432823499196856
+            }
+        ]
+    }, 
+    "262144": {}, 
+    "1048576": {
+        "10000": [
+            10000, 
+            "Localized Fog", 
+            {
+                "delay_add_tree": true, 
+                "density": 0.6, 
+                "entity_id": null, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2823529411764706, 
+                        0.996078431372549, 
+                        0.7490196078431373
+                    ]
+                }, 
+                "fog_density": 0.6, 
+                "fog_speed": 1.0, 
+                "name": "Localized Fog", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        3.5, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -59.978599548339844, 
+                        -3.1299991607666016, 
+                        -76.00569915771484
+                    ]
+                }, 
+                "relative_height": 3.5, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        10.0, 
+                        3.33, 
+                        10.0
+                    ]
+                }, 
+                "type": 1048576, 
+                "yaw": 0.24207716854289174
+            }
+        ]
+    }, 
+    "2097152": {}, 
+    "4194304": {}
+}

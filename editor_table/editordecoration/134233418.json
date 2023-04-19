@@ -1,0 +1,2444 @@
+{
+    "_custom_": true, 
+    "_ref_": 134233418, 
+    "attach_models": [
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203782, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -3.3393, 
+                    0.0, 
+                    5.237000000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    123.76, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.83, 
+                    0.83, 
+                    0.83
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -3.5222, 
+                    0.0, 
+                    5.9029
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -74.09, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.15, 
+                    1.15, 
+                    1.15
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104550, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.064900000000001, 
+                    0.01, 
+                    6.955800000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    4.0, 
+                    4.0, 
+                    4.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 103998, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -8.0374, 
+                    -1.83, 
+                    7.4341
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    7.0, 
+                    7.0, 
+                    7.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202234, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.8198, 
+                    0.0, 
+                    -1.5587
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.5, 
+                    1.5, 
+                    1.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 103998, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -5.5247, 
+                    -1.83, 
+                    4.7684
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    7.0, 
+                    7.0, 
+                    7.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203781, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.29710000000000003, 
+                    0.0, 
+                    -5.217300000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -85.55, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.84, 
+                    0.84, 
+                    0.84
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -1.4988, 
+                    0.0, 
+                    6.0892
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -158.32, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.96, 
+                    0.96, 
+                    0.96
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204821, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.6851, 
+                    0.0, 
+                    9.725800000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.85, 
+                    0.85, 
+                    0.85
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104637, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.4101, 
+                    0.0, 
+                    7.004
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.86, 
+                    0.86, 
+                    0.86
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203784, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.5655, 
+                    0.0, 
+                    2.4791
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -21.95, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.86, 
+                    0.86, 
+                    0.86
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104550, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -8.1784, 
+                    0.01, 
+                    -7.5625
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    4.0, 
+                    4.0, 
+                    4.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204821, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.2549, 
+                    0.0, 
+                    -10.2422
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    -180.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.85, 
+                    0.85, 
+                    0.85
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203782, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.364199999999999, 
+                    0.0, 
+                    -3.8738
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    154.7, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.11, 
+                    1.11, 
+                    1.11
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202234, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.8025, 
+                    0.0, 
+                    -6.5947000000000005
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.5, 
+                    1.5, 
+                    1.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.4289, 
+                    -0.98, 
+                    -11.1358
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203698, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    10.7821, 
+                    -0.36, 
+                    -0.7581
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204040, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    7.763, 
+                    2.58, 
+                    -8.075
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.89, 
+                    0.89, 
+                    0.89
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203698, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.015500000000000002, 
+                    -0.36, 
+                    -11.434000000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203784, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.7785, 
+                    0.0, 
+                    -6.5203
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -125.66, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.09, 
+                    1.09, 
+                    1.09
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -1.9527, 
+                    -0.98, 
+                    11.0828
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    -135.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 201914, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    1.7045, 
+                    0.0, 
+                    -6.728300000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -70.66, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.11, 
+                    1.11, 
+                    1.11
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202234, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -2.492, 
+                    0.0, 
+                    6.4692
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.5, 
+                    1.5, 
+                    1.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203698, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.8203, 
+                    -0.36, 
+                    11.2876
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -1.432, 
+                    0.0, 
+                    5.3088
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -149.15, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.84, 
+                    0.84, 
+                    0.84
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204821, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -10.4503, 
+                    0.0, 
+                    0.6531999999999999
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.85, 
+                    0.85, 
+                    0.85
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203781, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -2.0666, 
+                    0.0, 
+                    7.135
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -48.88, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.06, 
+                    1.06, 
+                    1.06
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104550, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -1.0917000000000001, 
+                    0.01, 
+                    -0.3345
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    4.0, 
+                    4.0, 
+                    4.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104550, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    2.4405, 
+                    0.01, 
+                    3.2995
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    4.0, 
+                    4.0, 
+                    4.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.8727, 
+                    -0.98, 
+                    6.1321
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    -135.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204808, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    2.3843, 
+                    2.5300000000000002, 
+                    2.7310000000000003
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    89.19, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.7006, 
+                    0.0, 
+                    -1.326
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    21.2, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.19, 
+                    1.19, 
+                    1.19
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.1002, 
+                    0.0, 
+                    -5.7719000000000005
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    83.08, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.02, 
+                    1.02, 
+                    1.02
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203781, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.1239, 
+                    0.0, 
+                    -0.2776
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -55.76, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.07, 
+                    1.07, 
+                    1.07
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204808, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -3.6792000000000002, 
+                    2.5300000000000002, 
+                    -3.1946
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    89.19, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    1.6956, 
+                    0.0, 
+                    -6.333500000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -35.71, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.17, 
+                    1.17, 
+                    1.17
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104637, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.8969000000000005, 
+                    0.0, 
+                    -7.203600000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    135.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.86, 
+                    0.86, 
+                    0.86
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    10.1568, 
+                    0.0, 
+                    4.1095999999999995
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -91.28, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.17, 
+                    1.17, 
+                    1.17
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204040, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -8.2924, 
+                    2.58, 
+                    7.9289
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -135.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.89, 
+                    0.89, 
+                    0.89
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203781, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.3179000000000003, 
+                    0.0, 
+                    -7.0726
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    106.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.17, 
+                    1.17, 
+                    1.17
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.363200000000001, 
+                    -0.98, 
+                    -6.1775
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104550, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -4.5882, 
+                    0.01, 
+                    -3.9692000000000003
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    4.0, 
+                    4.0, 
+                    4.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203698, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -11.6171, 
+                    -0.36, 
+                    0.9640000000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.8684, 
+                    0.0, 
+                    2.4183000000000003
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    32.09, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.91, 
+                    0.91, 
+                    0.91
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203781, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.930499999999999, 
+                    0.0, 
+                    -3.2514
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    123.19, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.8, 
+                    0.8, 
+                    0.8
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 104038, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -6.2314, 
+                    0.19, 
+                    1.0108
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    7.92, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.85, 
+                    0.85, 
+                    0.85
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -11.7754, 
+                    -0.98, 
+                    1.1259000000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    -135.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 103998, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    4.2977, 
+                    -1.83, 
+                    -4.6358999999999995
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    7.0, 
+                    7.0, 
+                    7.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 203718, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    10.235100000000001, 
+                    -0.98, 
+                    -1.1518000000000002
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204811, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    5.0985000000000005, 
+                    0.0, 
+                    -0.9373
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 103998, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    6.9243, 
+                    -1.83, 
+                    -7.3212
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    7.0, 
+                    7.0, 
+                    7.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202234, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -7.270499999999999, 
+                    0.0, 
+                    1.6832
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.5, 
+                    1.5, 
+                    1.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": true, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 204821, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    9.6428, 
+                    0.0, 
+                    -0.5014000000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.85, 
+                    0.85, 
+                    0.85
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202280, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    8.9492, 
+                    0.0, 
+                    -9.358600000000001
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 1.0, 
+            "material_change": 0, 
+            "material_color": [
+                255, 
+                255, 
+                255
+            ], 
+            "material_color_intensity": 1.0, 
+            "model": 202280, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -9.0206, 
+                    0.0, 
+                    8.8253
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -45.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    2.0, 
+                    2.0, 
+                    2.0
+                ]
+            }, 
+            "use_physics": false
+        }
+    ], 
+    "cast_shadow": true, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": 968097002, 
+    "effect_list": [
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -3.7299, 
+                    0.54, 
+                    5.987100000000001
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0068000000000000005, 
+                    0.54, 
+                    -5.5686
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    9.9147, 
+                    0.54, 
+                    4.1307
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -1.586, 
+                    0.54, 
+                    5.9387
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.8644999999999998, 
+                    0.54, 
+                    -6.153099999999999
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    4.845899999999999, 
+                    0.54, 
+                    -0.9512
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    7.6364, 
+                    3.5100000000000002, 
+                    -8.0612
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.56, 
+                    0.56, 
+                    0.56
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    -174.85, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -1.386, 
+                    0.54, 
+                    5.4731
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    81.9, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -8.2255, 
+                    3.5100000000000002, 
+                    7.6744
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.56, 
+                    0.56, 
+                    0.56
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -0.0, 
+                    -122.53, 
+                    -0.08
+                ]
+            }, 
+            1.0
+        ], 
+        [
+            101715, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    -6.881799999999999, 
+                    0.66, 
+                    2.2881
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.16, 
+                    0.16, 
+                    0.16
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    8.68, 
+                    -145.25, 
+                    -1.33
+                ]
+            }, 
+            1.0
+        ]
+    ], 
+    "icon": 100000, 
+    "key": 134233418, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 103014, 
+    "name": 901179648, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134233418", 
+    "use_physics": false
+}

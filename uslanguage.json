@@ -1,0 +1,86 @@
+{
+    "-1855741838": {
+        "key": -1855741838, 
+        "value": "ROOM_1"
+    }, 
+    "-1786898492": {
+        "key": -1786898492, 
+        "value": "WALLS"
+    }, 
+    "-1676591497": {
+        "key": -1676591497, 
+        "value": "WALLS"
+    }, 
+    "-1579869200": {
+        "key": -1579869200, 
+        "value": "Template"
+    }, 
+    "-1232327758": {
+        "key": -1232327758, 
+        "value": "ROOM_3(new)"
+    }, 
+    "-212682383": {
+        "key": -212682383, 
+        "value": "ROOM_3"
+    }, 
+    "240594411": {
+        "key": 240594411, 
+        "value": "ROOM_1"
+    }, 
+    "370094987": {
+        "key": 370094987, 
+        "value": "ROOM_2"
+    }, 
+    "502240086": {
+        "key": 502240086, 
+        "value": "ROOM_3(new)"
+    }, 
+    "901179648": {
+        "key": 901179648, 
+        "value": "ROOM_3"
+    }, 
+    "968097002": {
+        "key": 968097002, 
+        "value": "ROOM_3"
+    }, 
+    "1159653740": {
+        "key": 1159653740, 
+        "value": "ROOM_3"
+    }, 
+    "1251042857": {
+        "key": 1251042857, 
+        "value": "ROOM_2"
+    }, 
+    "1861471392": {
+        "key": 1861471392, 
+        "value": "Template"
+    }, 
+    "1890323132": {
+        "key": 1890323132, 
+        "value": "ROOM_3"
+    }, 
+    "2023650366": {
+        "key": 2023650366, 
+        "value": "ROOM_3"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}

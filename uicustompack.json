@@ -1,0 +1,156 @@
+{
+    "1": [
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                256.02178955078125, 
+                568.0217895507812, 
+                525.7841796875, 
+                1085.7841796875
+            ], 
+            "bg_color": {
+                "__tuple__": true, 
+                "items": [
+                    43, 
+                    75, 
+                    255, 
+                    255
+                ]
+            }, 
+            "bg_image": null, 
+            "children": [], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    120, 
+                    1, 
+                    3, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "name": "progress_1", 
+            "percent": 50.0, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    558.0, 
+                    550.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    29.062500000000004, 
+                    50.92592592592593
+                ]
+            }, 
+            "progress_type": 0, 
+            "rotation": -0.4036893883745839, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    308.431640625, 
+                    255.9564208984375
+                ]
+            }, 
+            "type": 5, 
+            "world_pos": {
+                "__tuple__": true, 
+                "items": [
+                    558.0, 
+                    550.0
+                ]
+            }
+        }
+    ], 
+    "KeyButton": [
+        {
+            "children": [
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "", 
+                            67
+                        ]
+                    }, 
+                    "name": "label_44", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            52.0, 
+                            54.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.523809523809526, 
+                            49.202733485193626
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            64.7059326171875, 
+                            68.62744140625
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "1", 
+                            false
+                        ]
+                    }, 
+                    "type": 3
+                }
+            ], 
+            "event_list": [], 
+            "image": 101157, 
+            "name": "\u952e\u76d8_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    -172.0, 
+                    62.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    -171.686279296875, 
+                    62.76470947265625
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    105.0, 
+                    109.75
+                ]
+            }, 
+            "type": 4, 
+            "world_pos": {
+                "__tuple__": true, 
+                "items": [
+                    1091.75, 
+                    626.9375
+                ]
+            }
+        }
+    ]
+}
