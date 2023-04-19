@@ -1,8 +1,8 @@
 {
     "bloom": {
-        "bloom_decay": 0.9999999999999999, 
-        "bloom_open": false, 
-        "bloom_strength": 0.9999999999999999
+        "bloom_decay": 0.30000000000000016, 
+        "bloom_open": true, 
+        "bloom_strength": 0.5000000000000001
     }, 
     "color_grading": {
         "color_grading_type": 8
@@ -96,6 +96,6 @@
     }, 
     "vignetting": {
         "vignetting_open": true, 
-        "vignetting_size": 0.4
+        "vignetting_size": 0.5
     }
 }
