@@ -3474,14 +3474,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    8, 
    "WALLS", 
    16384
@@ -3541,6 +3533,238 @@
    37, 
    "WALLS", 
    16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   6, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   7, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   16, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   18, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   19, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   20, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   21, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   22, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   23, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   24, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   25, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   26, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   49, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   78, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   79, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   81, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   82, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   83, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   84, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   85, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   88, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   101, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   111, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   119, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   121, 
+   "Snow mountain stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   122, 
+   "Snow mountain stone", 
+   16777216
   ]
  }
 ]
