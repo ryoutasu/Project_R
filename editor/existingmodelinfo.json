@@ -3738,14 +3738,6 @@
  {
   "__tuple__": true, 
   "items": [
-   278, 
-   "Chandelier", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    38, 
    "wall_4", 
    16384
@@ -3922,6 +3914,14 @@
  {
   "__tuple__": true, 
   "items": [
+   2, 
+   "Targets", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "Initial Camera", 
    32768
@@ -3930,7 +3930,15 @@
  {
   "__tuple__": true, 
   "items": [
-   2, 
+   1, 
+   "Targets", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
    "Targets", 
    4
   ]
