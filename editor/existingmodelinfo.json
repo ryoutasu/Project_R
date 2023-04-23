@@ -3858,14 +3858,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    466, 
    "Blade aura_Orange", 
    33554432
@@ -3925,6 +3917,22 @@
    500, 
    "Flame_On hit_On hit_Orange", 
    33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "Targets", 
+   4
   ]
  }
 ]

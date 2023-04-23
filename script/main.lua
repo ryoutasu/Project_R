@@ -32,19 +32,23 @@ require 'moveSystem'
 
 local MAP_RECT = GameAPI.get_usable_map_range()
 
-function copy_rect_to(rect, point)
-    
+function GetArgs(func)
+    local args = {}
+    for i = 1, debug.getinfo(func).nparams, 1 do
+        table.insert(args, debug.getlocal(func, i));
+    end
+    return args;
 end
 
-
 up.game:event('Game-Init', function ()
+
     -- up.wait(0, function()
         print 'Game start'
         local point = up.actor_point(10039)
         local player = up.player(1)
         local hero = up.create_unit(134252905, point, 270, player)
         set_player_movement(player, hero)
-
+        
     -- end)
 end)
 

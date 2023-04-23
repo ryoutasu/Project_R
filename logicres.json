@@ -3,9 +3,9 @@
         "10039": [
             10039, 
             "SpawnPoint", 
-            60175671296, 
+            60175498294, 
             8589934592, 
-            -96869957632, 
+            -96869980884, 
             true
         ]
     }, 
@@ -18,18 +18,18 @@
             "far": 1000.0, 
             "focus_max_dist": 400.0, 
             "focus_min_dist": 10.0, 
-            "focus_x": -32.0, 
+            "focus_x": 14.0, 
             "focus_y": 0.0, 
-            "focus_z": -32.0, 
+            "focus_z": -22.55, 
             "fov": 35.0, 
             "fov_disabled": true, 
             "id": 9999, 
             "is_origin_cam": true, 
             "is_ortho": false, 
             "name": "Initial Camera", 
-            "pitch": 0.9773843811168246, 
+            "pitch": 0.9773843865841627, 
             "roll": 0.0, 
-            "set_camera_conf_realtime": null, 
+            "set_camera_conf_realtime": true, 
             "type": 32768, 
             "yaw": 0.0
         }
