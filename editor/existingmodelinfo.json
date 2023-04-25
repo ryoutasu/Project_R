@@ -4522,14 +4522,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    4, 
    "Magma_Waterfall", 
    33554432
@@ -4882,14 +4874,6 @@
  {
   "__tuple__": true, 
   "items": [
-   460, 
-   "Stone carving", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    461, 
    "Stone carving", 
    16777216
@@ -4996,6 +4980,30 @@
   "items": [
    475, 
    "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   446, 
+   "Stone carving", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   464, 
+   "Massif", 
    16777216
   ]
  }
