@@ -1282,38 +1282,6 @@
  {
   "__tuple__": true, 
   "items": [
-   105, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   107, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   108, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   109, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    153, 
    "Wall", 
    16777216
@@ -3970,14 +3938,6 @@
  {
   "__tuple__": true, 
   "items": [
-   11, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    56, 
    "DEVIL_star_last", 
    16384
@@ -5154,14 +5114,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    487, 
    "Carpet", 
    16777216
@@ -5226,54 +5178,6 @@
  {
   "__tuple__": true, 
   "items": [
-   508, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   509, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   510, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   511, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   512, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   513, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    514, 
    "Pillar", 
    16777216
@@ -5285,6 +5189,206 @@
    515, 
    "Pillar", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   460, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   476, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   504, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   506, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   507, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   516, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   517, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   518, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   5, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   6, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   7, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   11, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   12, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   13, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   14, 
+   "PILLAR", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10133, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10134, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10139, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10140, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10141, 
+   "Localized Fog", 
+   1048576
   ]
  }
 ]

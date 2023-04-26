@@ -1,3 +1,697 @@
 {
-    "destructible": {}
+    "destructible": {
+        "4": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -72, 
+                                3003154432
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                11, 
+                                2420424704
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979635
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 4
+        }, 
+        "5": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -78, 
+                                3419668480
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                6, 
+                                893034496
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 5
+        }, 
+        "6": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -69, 
+                                3946119168
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -3, 
+                                1643413504
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 6
+        }, 
+        "7": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -63, 
+                                1391312896
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                2, 
+                                3049971712
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 7
+        }, 
+        "8": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -49, 
+                                4178149376
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                39, 
+                                4202496000
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 8
+        }, 
+        "9": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                4269309952
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                31, 
+                                3949527040
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 9
+        }, 
+        "10": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -32, 
+                                299253760
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                23, 
+                                3674284032
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 10
+        }, 
+        "11": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -39, 
+                                525565952
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                17, 
+                                628482048
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 11
+        }, 
+        "12": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -47, 
+                                655785984
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                25, 
+                                753967104
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 12
+        }, 
+        "13": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -55, 
+                                457539584
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                33, 
+                                363200512
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 13
+        }, 
+        "14": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.5, 
+                        1.5, 
+                        1.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                10, 
+                                1897185280
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -16, 
+                                309149696
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            5, 
+                            2137979767
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134235074, 
+            "name": "PILLAR", 
+            "type": 256, 
+            "unit_id": 14
+        }
+    }
 }
