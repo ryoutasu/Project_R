@@ -594,14 +594,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10029, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    386, 
    "Flame_Smoke_Orange", 
    33554432
@@ -4826,38 +4818,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10096, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10097, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10098, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10099, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10100, 
    "Localized Fog", 
    1048576
@@ -4986,14 +4946,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    446, 
    "Stone carving", 
    16777216
@@ -5004,6 +4956,334 @@
   "items": [
    464, 
    "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10103, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10104, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10105, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   478, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   479, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   480, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   481, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   483, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   484, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   485, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   486, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   488, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   489, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   490, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   491, 
+   "Flame_Smoke_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10106, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10107, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10109, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10111, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10112, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10113, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10114, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10115, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   496, 
+   "Foundation", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   487, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   492, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   493, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   497, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   498, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   501, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   502, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   503, 
+   "Carpet", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   508, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   509, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   510, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   511, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   512, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   513, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   514, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   515, 
+   "Pillar", 
    16777216
   ]
  }
