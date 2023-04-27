@@ -139,7 +139,63 @@
     "keep_dead_body_time": 0.0, 
     "keep_target": false, 
     "key": 134252905, 
-    "kv": {}, 
+    "kv": {
+        "anticipation_end": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "anticipation_end", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 1, 
+            "value": 0.3
+        }, 
+        "anticipation_start": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "anticipation_start", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 0.0
+        }, 
+        "dash_distance": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "dash_distance", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 4, 
+            "type": 1, 
+            "value": 600.0
+        }, 
+        "dash_effect": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "dash_effect", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 2, 
+            "type": 15, 
+            "value": 102462
+        }, 
+        "dash_speed": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "dash_speed", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 1, 
+            "value": 1000.0
+        }
+    }, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 

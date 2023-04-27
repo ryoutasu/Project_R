@@ -1,3 +1,67 @@
 {
-    "destructible": {}
+    "destructible": {
+        "1": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        0.5, 
+                        0.5, 
+                        0.5
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                2, 
+                                3924190208
+                            ], 
+                            [
+                                2, 
+                                0
+                            ], 
+                            [
+                                -12, 
+                                2888990720
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 201359127, 
+            "name": "Door", 
+            "type": 256, 
+            "unit_id": 1
+        }
+    }
 }

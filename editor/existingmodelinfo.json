@@ -3922,17 +3922,25 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
+   2, 
+   "Targets", 
+   4
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   2, 
-   "Targets", 
-   4
+   1, 
+   "Door", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]
