@@ -4,7 +4,7 @@
     "async_effect": false, 
     "description": 4394890, 
     "effect_foes": [
-        101935, 
+        102136, 
         {
             "__tuple__": true, 
             "items": [
@@ -24,15 +24,15 @@
         {
             "__tuple__": true, 
             "items": [
-                1.0, 
-                1.0, 
-                1.0
+                0.6, 
+                0.6, 
+                0.6
             ]
         }, 
         1.0
     ], 
     "effect_friend": [
-        101935, 
+        102136, 
         {
             "__tuple__": true, 
             "items": [
@@ -52,9 +52,9 @@
         {
             "__tuple__": true, 
             "items": [
-                1.0, 
-                1.0, 
-                1.0
+                0.6, 
+                0.6, 
+                0.6
             ]
         }, 
         1.0
@@ -93,7 +93,7 @@
             "remark": "", 
             "sort": 4, 
             "type": 15, 
-            "value": 102141
+            "value": 102137
         }, 
         "distance": {
             "annotation": "", 
@@ -104,7 +104,7 @@
             "remark": "", 
             "sort": 1, 
             "type": 1, 
-            "value": 1500.0
+            "value": 1000.0
         }, 
         "finish_effect": {
             "annotation": "", 
@@ -115,7 +115,7 @@
             "remark": "", 
             "sort": 5, 
             "type": 15, 
-            "value": 102141
+            "value": 102137
         }, 
         "speed": {
             "annotation": "", 
@@ -126,7 +126,7 @@
             "remark": "", 
             "sort": 0, 
             "type": 1, 
-            "value": 1000.0
+            "value": 1500.0
         }
     }, 
     "max_duration": 60, 
