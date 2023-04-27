@@ -778,22 +778,6 @@
  {
   "__tuple__": true, 
   "items": [
-   311, 
-   "Building", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   313, 
-   "Building", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    335, 
    "Chandelier", 
    16777216
@@ -2149,38 +2133,6 @@
    258, 
    "Torch", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10062, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   260, 
-   "Flame_Smoke_Green", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   261, 
-   "Flame_Smoke_Green", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10063, 
-   "Point Light", 
-   131072
   ]
  }, 
  {
@@ -3762,87 +3714,7 @@
  {
   "__tuple__": true, 
   "items": [
-   466, 
-   "Blade aura_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   473, 
-   "Flame_Fan-shaped_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   477, 
-   "Flame_Ballistic trail_Trajectory_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   482, 
-   "Flame_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   494, 
-   "Ranged_Blade aura_Attack_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   495, 
-   "Spreading_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   499, 
-   "Flame_Ballistic trail_Trajectory_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   500, 
-   "Flame_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    2, 
-   "Targets", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   1, 
-   "Targets", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   3, 
    "Targets", 
    4
   ]
@@ -5338,14 +5210,6 @@
  {
   "__tuple__": true, 
   "items": [
-   14, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10133, 
    "Localized Fog", 
    1048576
@@ -5381,14 +5245,6 @@
    10141, 
    "Localized Fog", 
    1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   9999, 
-   "Initial Camera", 
-   32768
   ]
  }, 
  {
@@ -5444,6 +5300,158 @@
   "items": [
    508, 
    "Floor", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   14, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   261, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   311, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   313, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   482, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   494, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   495, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   499, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   500, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   509, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   510, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   511, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   512, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   513, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   519, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   520, 
+   "Can", 
    16777216
   ]
  }

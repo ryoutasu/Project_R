@@ -1,7 +1,7 @@
 {
     "1": 1, 
-    "3": 0.0, 
-    "4": 2.0, 
+    "3": 360.0, 
+    "4": 1.5, 
     "5": 1, 
     "6": 0, 
     "15": 100.0, 
@@ -27,7 +27,7 @@
     "attack_phy_grow": 2.0, 
     "attack_range": 10.0, 
     "attack_range_grow": 0, 
-    "attack_speed": 1000.0, 
+    "attack_speed": 100.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
@@ -149,7 +149,7 @@
             "remark": "", 
             "sort": 1, 
             "type": 1, 
-            "value": 0.3
+            "value": 0.4
         }, 
         "anticipation_start": {
             "annotation": "", 
@@ -171,7 +171,7 @@
             "remark": "", 
             "sort": 4, 
             "type": 1, 
-            "value": 600.0
+            "value": 400.0
         }, 
         "dash_effect": {
             "annotation": "", 
@@ -182,7 +182,7 @@
             "remark": "", 
             "sort": 2, 
             "type": 15, 
-            "value": 102462
+            "value": 103563
         }, 
         "dash_speed": {
             "annotation": "", 
@@ -193,7 +193,7 @@
             "remark": "", 
             "sort": 3, 
             "type": 1, 
-            "value": 1000.0
+            "value": 2000.0
         }
     }, 
     "level": 1, 
@@ -215,7 +215,7 @@
     "name": 1861471392, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 4.0, 
+    "ori_speed": 5.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 

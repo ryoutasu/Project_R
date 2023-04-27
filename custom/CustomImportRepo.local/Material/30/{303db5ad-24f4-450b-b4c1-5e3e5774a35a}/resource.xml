@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+	<Version>2</Version>
+	<SMaterialData>
+		<Root>
+			<Sub/>
+			<Entity type="SMaterialData">
+				<name/>
+				<info>
+					<Layers count="1" ordered="true">
+						<Element index="0">
+							<LayerName>__none___submat</LayerName>
+							<ShaderName>Particle</ShaderName>
+							<Parameters count="5" ordered="true">
+								<Element index="0">
+									<Name>DiffuseTexture</Name>
+									<Value>ffffffff-0100-0000-0100-000047000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>Distortion</Name>
+									<Value>false</Value>
+								</Element>
+								<Element index="2">
+									<Name>Local</Name>
+									<Value>true</Value>
+								</Element>
+								<Element index="3">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="4">
+									<Name>Soft</Name>
+									<Value>false</Value>
+								</Element>
+							</Parameters>
+							<MultiPassMaterials count="0" ordered="true"/>
+						</Element>
+					</Layers>
+				</info>
+				<flags count="1" ordered="true">
+					<Element index="0">1048608</Element>
+				</flags>
+			</Entity>
+		</Root>
+	</SMaterialData>
+</Resource>
