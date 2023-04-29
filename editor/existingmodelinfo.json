@@ -5250,62 +5250,6 @@
  {
   "__tuple__": true, 
   "items": [
-   11, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   105, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   107, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   108, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   109, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   505, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   508, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    1, 
    "Relic Crawler", 
    4
@@ -5338,120 +5282,208 @@
  {
   "__tuple__": true, 
   "items": [
-   261, 
-   "Can", 
+   10143, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   556, 
+   "Chandelier", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   311, 
-   "Can", 
+   557, 
+   "Chandelier", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   313, 
-   "Can", 
+   564, 
+   "Bed", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   482, 
-   "Can", 
+   566, 
+   "Bed", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   494, 
-   "Can", 
+   572, 
+   "Chain", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   495, 
-   "Can", 
+   586, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   499, 
-   "Can", 
+   587, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   500, 
-   "Can", 
+   588, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   509, 
-   "Can", 
+   589, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   510, 
-   "Can", 
+   590, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   511, 
-   "Can", 
+   591, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   512, 
-   "Can", 
+   592, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   513, 
-   "Can", 
+   593, 
+   "Wall", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   519, 
-   "Can", 
+   10145, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   596, 
+   "Brick", 
    16777216
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   520, 
-   "Can", 
+   597, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   598, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   599, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   601, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   602, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   603, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   604, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   605, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   606, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   607, 
+   "Brick", 
    16777216
   ]
  }
