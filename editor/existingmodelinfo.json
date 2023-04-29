@@ -778,22 +778,6 @@
  {
   "__tuple__": true, 
   "items": [
-   311, 
-   "Building", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   313, 
-   "Building", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    335, 
    "Chandelier", 
    16777216
@@ -2149,38 +2133,6 @@
    258, 
    "Torch", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10062, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   260, 
-   "Flame_Smoke_Green", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   261, 
-   "Flame_Smoke_Green", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10063, 
-   "Point Light", 
-   131072
   ]
  }, 
  {
@@ -3762,87 +3714,7 @@
  {
   "__tuple__": true, 
   "items": [
-   466, 
-   "Blade aura_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   473, 
-   "Flame_Fan-shaped_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   477, 
-   "Flame_Ballistic trail_Trajectory_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   482, 
-   "Flame_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   494, 
-   "Ranged_Blade aura_Attack_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   495, 
-   "Spreading_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   499, 
-   "Flame_Ballistic trail_Trajectory_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   500, 
-   "Flame_On hit_On hit_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    2, 
-   "Targets", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   1, 
-   "Targets", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   3, 
    "Targets", 
    4
   ]
@@ -5338,22 +5210,6 @@
  {
   "__tuple__": true, 
   "items": [
-   14, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10133, 
    "Localized Fog", 
    1048576
@@ -5389,6 +5245,246 @@
    10141, 
    "Localized Fog", 
    1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   14, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10143, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   556, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   557, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   564, 
+   "Bed", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   566, 
+   "Bed", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   572, 
+   "Chain", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   586, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   587, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   588, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   589, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   590, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   591, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   592, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   593, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10145, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   596, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   597, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   598, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   599, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   601, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   602, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   603, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   604, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   605, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   606, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   607, 
+   "Brick", 
+   16777216
   ]
  }
 ]
