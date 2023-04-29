@@ -93,8 +93,17 @@ local function create_projectile(player, attack_num, direction)
     end
     local terrain_collide = function()
         -- print('terrain collide')
-        -- local hit_target = up.actor_unit(GameAPI.get_mover_collide_unit())
-        -- hit_target:api_delete()
+        -- local list = GameAPI.get_all_dest_in_point_rng(projectile.api_get_position(), Fix32(radius:float()/100))
+        -- for i in Python.enumerate(list) do
+        --     local d = list[i]
+        --     print(i, d)
+        --     if d.api_is_alive() and d.api_is_attacked() then
+        --         print('is attacked')
+        --         -- d.api_add_hp_cur_value(Fix32(damage))
+        --         d.api_delete()
+        --     end
+        -- end
+
         GameAPI.break_unit_mover(projectile)
     end
     local mover_interrupt = function()
@@ -102,11 +111,11 @@ local function create_projectile(player, attack_num, direction)
     end
     local mover_removed = function()
         -- print('mover removed')
-        projectile:api_delete()
-
         if damage_effect then
             up.particle{ target = up.actor_point(projectile.api_get_position()), model = finish_effect, time = -1}
         end
+        
+        projectile:api_delete()
     end
 
     local angle              = Fix32(direction)
@@ -238,8 +247,8 @@ function set_player_movement(player, unit)
                     state = 'attack'
 
                     local attack_speed = unit:get('attack_speed') / 100
-                    local start = anticipation_start * attack_speed
-                    local fin = anticipation_end * attack_speed
+                    local start = anticipation_start / attack_speed
+                    local fin = anticipation_end / attack_speed
 
                     facing = unit:get_point() / point
                     unit:add_animation({ name = 'attack1', loop = false, speed = attack_speed })
@@ -259,6 +268,8 @@ function set_player_movement(player, unit)
                     end)
                 end
             end
+                
+            local dest_point, moved = get_dest_point(player)
             
             if p.space_pressed then
                 p.space_pressed = false
@@ -266,7 +277,8 @@ function set_player_movement(player, unit)
                     state = 'dash'
 
                     local point = player:get_mouse_pos()
-                    local direction = unit:get_point() / point
+                    -- local direction = unit:get_point() / point
+                    local direction = unit:get_facing()
                     local end_dash = function()
                         state = 'idle'
                         unit:stop_animation()
@@ -276,8 +288,6 @@ function set_player_movement(player, unit)
                 end
             end
             if state ~= 'dash' then
-                
-            
                 if p.rmb_pressed and (state == 'idle' or state == 'walk') then
                     if state ~= 'defend' then
                         state = 'defend'
@@ -299,8 +309,6 @@ function set_player_movement(player, unit)
                     p.unit:add('move_speed', defend_slow, 'AllRatio')
                     unit:stop_animation()
                 end
-                
-                local dest_point, moved = get_dest_point(player)
                 
                 if not unit:can_collide_with_point(dest_point, 25) then
                     if moved then
