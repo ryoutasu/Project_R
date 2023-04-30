@@ -5394,47 +5394,7 @@
  {
   "__tuple__": true, 
   "items": [
-   596, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   597, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    598, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   599, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   601, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   603, 
    "Brick", 
    16777216
   ]
@@ -5474,14 +5434,6 @@
  {
   "__tuple__": true, 
   "items": [
-   107, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    108, 
    "Brick", 
    16777216
@@ -5507,14 +5459,6 @@
   "__tuple__": true, 
   "items": [
    261, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   311, 
    "Brick", 
    16777216
   ]
@@ -5914,9 +5858,441 @@
  {
   "__tuple__": true, 
   "items": [
+   512, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   547, 
+   "Platform", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   558, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   569, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   570, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   571, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   537, 
+   "ZMOBA_Prop_Carpet_A_2", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   539, 
+   "ZMOBA_Prop_Carpet_A_3", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   543, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   311, 
+   "ZMOBA_Prop_Carpet_A_1", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10149, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   15, 
+   "unityPillarWood", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   16, 
+   "unityPillarWood", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   17, 
+   "unityPillarWood", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   18, 
+   "unityPillarWood", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   19, 
+   "unityPillarWood", 
+   256
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   62, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   63, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   64, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   65, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   66, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   67, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   69, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   70, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   74, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   77, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   80, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   81, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   82, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   83, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   551, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   554, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   84, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   85, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   574, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   86, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "Initial Camera", 
    32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   68, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   72, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   73, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   75, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   76, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   78, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   79, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   87, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   89, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   91, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   92, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   93, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   94, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   523, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   525, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   95, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   96, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   97, 
+   "wallStandardLong", 
+   16384
   ]
  }
 ]

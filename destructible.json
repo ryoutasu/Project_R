@@ -629,6 +629,321 @@
             "name": "PILLAR", 
             "type": 256, 
             "unit_id": 13
+        }, 
+        "15": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.0, 
+                        2.0, 
+                        2.0
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -25, 
+                                1306099712
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                53, 
+                                2515140608
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            -1, 
+                            2956072506
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134224559, 
+            "name": "unityPillarWood", 
+            "type": 256, 
+            "unit_id": 15
+        }, 
+        "16": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.0, 
+                        2.0, 
+                        2.0
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                56, 
+                                181247620
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                62, 
+                                543742860
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134224559, 
+            "name": "unityPillarWood", 
+            "type": 256, 
+            "unit_id": 16
+        }, 
+        "17": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.0, 
+                        2.0, 
+                        2.0
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                61, 
+                                4247748608
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                62, 
+                                1089830912
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134224559, 
+            "name": "unityPillarWood", 
+            "type": 256, 
+            "unit_id": 17
+        }, 
+        "18": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.0, 
+                        2.0, 
+                        2.0
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                56, 
+                                1518272512
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                49, 
+                                2529378304
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134224559, 
+            "name": "unityPillarWood", 
+            "type": 256, 
+            "unit_id": 18
+        }, 
+        "19": {
+            "components": {
+                "attr": {}, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        2.0, 
+                        2.0, 
+                        2.0
+                    ]
+                }, 
+                "height_box": {
+                    "alive_height_box_data": null, 
+                    "dead_height_box_data": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                62, 
+                                377061376
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                49, 
+                                1770209280
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134224559, 
+            "name": "unityPillarWood", 
+            "type": 256, 
+            "unit_id": 19
         }
     }
 }

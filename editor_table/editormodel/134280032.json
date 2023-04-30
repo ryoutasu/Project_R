@@ -1,0 +1,10 @@
+{
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.4, 
+            0.4
+        ]
+    }, 
+    "select_effect_scale": 0.4
+}
