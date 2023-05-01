@@ -4643,9 +4643,9 @@
                 "pos": {
                     "__tuple__": true, 
                     "items": [
-                        40.923362731933594, 
+                        34.96316909790039, 
                         -6.109999656677246, 
-                        12.802715301513672
+                        11.814859390258789
                     ]
                 }, 
                 "relative_height": 0, 
@@ -4808,6 +4808,55 @@
                 "stick_to_ground": false, 
                 "type": 1048576, 
                 "yaw": 0.1377516794159785
+            }
+        ], 
+        "10152": [
+            10152, 
+            "Localized Fog", 
+            {
+                "absolute_height": -6.109999656677246, 
+                "delay_add_tree": true, 
+                "entity_id": 10151, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ]
+                }, 
+                "fog_density": 5.0, 
+                "fog_height": 5.0, 
+                "fog_speed": 1.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        83.45716094970703, 
+                        -6.110000133514404, 
+                        45.78409957885742
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        47.89, 
+                        30.39, 
+                        9.07
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 4.71238900674507
             }
         ]
     }, 

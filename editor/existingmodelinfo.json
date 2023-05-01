@@ -5434,38 +5434,6 @@
  {
   "__tuple__": true, 
   "items": [
-   108, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   109, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   260, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   261, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    313, 
    "Brick", 
    16777216
@@ -5922,14 +5890,6 @@
  {
   "__tuple__": true, 
   "items": [
-   543, 
-   "Stairs", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    311, 
    "ZMOBA_Prop_Carpet_A_1", 
    16777216
@@ -5981,30 +5941,6 @@
    19, 
    "unityPillarWood", 
    256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   62, 
-   "wallStandardLong", 
-   16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   63, 
-   "wallStandardLong", 
-   16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   64, 
-   "wallStandardLong", 
-   16384
   ]
  }, 
  {
@@ -6138,22 +6074,6 @@
  {
   "__tuple__": true, 
   "items": [
-   86, 
-   "wallStandardLong", 
-   16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    68, 
    "wallStandardLong", 
    16384
@@ -6163,14 +6083,6 @@
   "__tuple__": true, 
   "items": [
    72, 
-   "wallStandardLong", 
-   16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   73, 
    "wallStandardLong", 
    16384
   ]
@@ -6293,6 +6205,262 @@
    97, 
    "wallStandardLong", 
    16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   71, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   538, 
+   "Stone carving", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   99, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   104, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   105, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   106, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   107, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   108, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10152, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   62, 
+   "+BUILDING1", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   548, 
+   "Tent", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   549, 
+   "ZMOBA_Prop_Carpet_A_3", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   550, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   573, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   575, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   576, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   577, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   578, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   596, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   597, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   599, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   600, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   601, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   603, 
+   "Can", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   607, 
+   "Candle", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   608, 
+   "Candle", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   609, 
+   "Candle", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   610, 
+   "Candle", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   611, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   612, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   613, 
+   "Brick", 
+   16777216
   ]
  }
 ]
