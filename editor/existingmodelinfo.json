@@ -6274,14 +6274,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10152, 
    "Localized Fog", 
    1048576
@@ -6459,6 +6451,54 @@
   "__tuple__": true, 
   "items": [
    613, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   107, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   108, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   109, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   260, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   261, 
    "Brick", 
    16777216
   ]
