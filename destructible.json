@@ -630,69 +630,6 @@
             "type": 256, 
             "unit_id": 13
         }, 
-        "15": {
-            "components": {
-                "attr": {}, 
-                "camp": {
-                    "role_id": 32
-                }, 
-                "display": {
-                    "real_scale": [
-                        2.0, 
-                        2.0, 
-                        2.0
-                    ]
-                }, 
-                "height_box": {
-                    "alive_height_box_data": null, 
-                    "dead_height_box_data": null
-                }, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                -25, 
-                                1306099712
-                            ], 
-                            [
-                                0, 
-                                0
-                            ], 
-                            [
-                                53, 
-                                2515140608
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            6, 
-                            1216271784
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            -1, 
-                            2956072506
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 134224559, 
-            "name": "unityPillarWood", 
-            "type": 256, 
-            "unit_id": 15
-        }, 
         "16": {
             "components": {
                 "attr": {}, 

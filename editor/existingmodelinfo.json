@@ -2,31 +2,7 @@
  {
   "__tuple__": true, 
   "items": [
-   457, 
-   "Platform", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   468, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    469, 
-   "Floor", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   470, 
    "Floor", 
    16777216
   ]
@@ -410,14 +386,6 @@
  {
   "__tuple__": true, 
   "items": [
-   383, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    387, 
    "Massif", 
    16777216
@@ -427,14 +395,6 @@
   "__tuple__": true, 
   "items": [
    388, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   389, 
    "Massif", 
    16777216
   ]
@@ -466,48 +426,8 @@
  {
   "__tuple__": true, 
   "items": [
-   393, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   394, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   395, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   396, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    285, 
    "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   339, 
-   "Brick", 
    16777216
   ]
  }, 
@@ -580,14 +500,6 @@
   "items": [
    381, 
    "Candle", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   382, 
-   "Chandelier", 
    16777216
   ]
  }, 
@@ -900,22 +812,6 @@
   "items": [
    140, 
    "Foundation", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   148, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   149, 
-   "Massif", 
    16777216
   ]
  }, 
@@ -3026,14 +2922,6 @@
  {
   "__tuple__": true, 
   "items": [
-   1, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    2, 
    "Wall", 
    16777216
@@ -3058,14 +2946,6 @@
  {
   "__tuple__": true, 
   "items": [
-   16, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    19, 
    "Pillar", 
    16777216
@@ -3076,14 +2956,6 @@
   "items": [
    20, 
    "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   23, 
-   "Brick", 
    16777216
   ]
  }, 
@@ -3186,22 +3058,6 @@
  {
   "__tuple__": true, 
   "items": [
-   111, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   119, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    121, 
    "Brick", 
    16777216
@@ -3218,55 +3074,7 @@
  {
   "__tuple__": true, 
   "items": [
-   136, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    160, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   161, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   165, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   166, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   168, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   169, 
    "Brick", 
    16777216
   ]
@@ -3330,22 +3138,6 @@
  {
   "__tuple__": true, 
   "items": [
-   307, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   309, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    312, 
    "Brick", 
    16777216
@@ -3355,14 +3147,6 @@
   "__tuple__": true, 
   "items": [
    314, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   316, 
    "Wall", 
    16777216
   ]
@@ -3396,14 +3180,6 @@
   "items": [
    323, 
    "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   18, 
-   "Wall", 
    16777216
   ]
  }, 
@@ -3469,38 +3245,6 @@
    36, 
    "wall_4", 
    16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   124, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   164, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   170, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   190, 
-   "Wall", 
-   16777216
   ]
  }, 
  {
@@ -3573,30 +3317,6 @@
    10082, 
    "Point Light", 
    131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   266, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   267, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   273, 
-   "Pillar", 
-   16777216
   ]
  }, 
  {
@@ -3691,22 +3411,6 @@
   "__tuple__": true, 
   "items": [
    315, 
-   "On hit_On hit_Magma_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   317, 
-   "On hit_On hit_Magma_Orange", 
-   33554432
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   321, 
    "On hit_On hit_Magma_Orange", 
    33554432
   ]
@@ -5298,22 +5002,6 @@
  {
   "__tuple__": true, 
   "items": [
-   564, 
-   "Bed", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   566, 
-   "Bed", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    572, 
    "Chain", 
    16777216
@@ -5339,22 +5027,6 @@
   "__tuple__": true, 
   "items": [
    588, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   589, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   590, 
    "Wall", 
    16777216
   ]
@@ -5906,14 +5578,6 @@
  {
   "__tuple__": true, 
   "items": [
-   15, 
-   "unityPillarWood", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    16, 
    "unityPillarWood", 
    256
@@ -6458,14 +6122,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    107, 
    "Brick", 
    16777216
@@ -6501,6 +6157,654 @@
    261, 
    "Brick", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   321, 
+   "On hit_On hit_Magma_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   317, 
+   "On hit_On hit_Magma_Orange", 
+   33554432
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   394, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   396, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   382, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   148, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   389, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   395, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   383, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   393, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   339, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   149, 
+   "Massif", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   457, 
+   "Platform", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   468, 
+   "Floor", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   470, 
+   "Floor", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   124, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   18, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   111, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   190, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   169, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   266, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   267, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   161, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   165, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   307, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   119, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   16, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   136, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   166, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   309, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   316, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   168, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   23, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   164, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   170, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   273, 
+   "Pillar", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   526, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   540, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   543, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   579, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   580, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   581, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   582, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   583, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   584, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   585, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   589, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   590, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   594, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   595, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   602, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   606, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   614, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   615, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   616, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   617, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   618, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   619, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   620, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   622, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   623, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   624, 
+   "ZMOBA_Prop_Carpet_A_3", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   625, 
+   "ZMOBA_Prop_Carpet_A_3", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   63, 
+   "Template", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   64, 
+   "Template", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   626, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   627, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   629, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   73, 
+   "Template", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   86, 
+   "Template", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   88, 
+   "Template", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   90, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   98, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   100, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   101, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   110, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   111, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   112, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   113, 
+   "Template", 
+   16384
   ]
  }
 ]
