@@ -189,13 +189,13 @@ end
 
 function mt:use_camera(data)
     local h = GameAPI.get_point_ground_height(up.point(data.x,data.y)):float()
-    local c = GameAPI.add_camera_conf(Fix32Vec3(data.x/100, 0, data.y/100),data.dis/100,(data.height/100),data.yaw-90,360-data.pitch,data.fov)
+    local c = GameAPI.add_camera_conf(Fix32Vec3(data.x/100, h, data.y/100),data.dis/100,(data.height/100),data.yaw-90,360-data.pitch,data.fov)
     
     GameAPI.apply_camera_conf(self._base,c,data.time)
 end
 
-function mt:set_camera(point)
-    GameAPI.camera_linear_move_duration(self._base, Fix32Vec3(point.x/100, 0, point.y/100), Fix32(0.1), Fix32(0))
+function mt:set_camera(point, time)
+    GameAPI.camera_linear_move_duration(self._base, Fix32Vec3(point.x/100, 0, point.y/100), Fix32(time or 0.1), Fix32(0))
 end
 
 function mt:set_camera_distance(dis)

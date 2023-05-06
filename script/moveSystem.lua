@@ -208,8 +208,6 @@ end)
 function set_player_movement(player, unit)
     player:set_mouse_click(false)
     player:set_mouse_select(false)
-    
-    player:camera_focus(unit)
 
     local p = {}
     Player[player] = p
@@ -233,6 +231,9 @@ function set_player_movement(player, unit)
     local anticipation_end = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_end'):float()
 
     p.timer = up.loop(tickrate, function ()
+        local unit_point = unit:get_point()
+        player:set_camera(unit_point, 1)
+
         if attack_time > 0 then
             attack_time = attack_time - tickrate
             if attack_time <= 0 then attack_count = 0 end
