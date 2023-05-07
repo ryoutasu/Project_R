@@ -2,7 +2,11 @@
     "unit": {
         "1": {
             "components": {
-                "__attr": {}, 
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
                 "ability": {
                     "1_1": [
                         201347498, 
@@ -37,16 +41,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                53, 
-                                2724200448
+                                67, 
+                                4020174848
                             ], 
                             [
                                 0, 
                                 0
                             ], 
                             [
-                                -20, 
-                                2316910592
+                                37, 
+                                2402582528
                             ]
                         ]
                     }, 
@@ -139,7 +143,11 @@
         }, 
         "3": {
             "components": {
-                "__attr": {}, 
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
                 "ability": {
                     "1_1": [
                         201347498, 
@@ -174,16 +182,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                56, 
-                                2754314240
+                                72, 
+                                277807104
                             ], 
                             [
                                 0, 
                                 0
                             ], 
                             [
-                                -24, 
-                                3597869056
+                                40, 
+                                2878423040
                             ]
                         ]
                     }, 
@@ -210,7 +218,11 @@
         }, 
         "14": {
             "components": {
-                "__attr": {}, 
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
                 "ability": {
                     "1_1": [
                         201347498, 
@@ -245,16 +257,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                60, 
-                                38813696
+                                72, 
+                                1549139968
                             ], 
                             [
-                                0, 
-                                0
+                                -1, 
+                                4274799616
                             ], 
                             [
-                                -25, 
-                                4197990400
+                                35, 
+                                3146334208
                             ]
                         ]
                     }, 
@@ -278,6 +290,274 @@
             "name": "Relic Crawler", 
             "type": 4, 
             "unit_id": 14
+        }, 
+        "18": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                67, 
+                                1073741824
+                            ], 
+                            [
+                                2, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                1073741824
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134228544, 
+            "name": "Pillar Wood", 
+            "type": 2, 
+            "unit_id": 18
+        }, 
+        "19": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                61, 
+                                3221225472
+                            ], 
+                            [
+                                2, 
+                                0
+                            ], 
+                            [
+                                -5, 
+                                1073741824
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134228544, 
+            "name": "Pillar Wood", 
+            "type": 2, 
+            "unit_id": 19
+        }, 
+        "22": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                61, 
+                                1073741824
+                            ], 
+                            [
+                                2, 
+                                0
+                            ], 
+                            [
+                                -14, 
+                                3221225472
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134228544, 
+            "name": "Pillar Wood", 
+            "type": 2, 
+            "unit_id": 22
+        }, 
+        "24": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                66, 
+                                1073741824
+                            ], 
+                            [
+                                2, 
+                                0
+                            ], 
+                            [
+                                -20, 
+                                1073741824
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134228544, 
+            "name": "Pillar Wood", 
+            "type": 2, 
+            "unit_id": 24
         }
     }
 }

@@ -1,0 +1,39 @@
+{
+    "describe": 426157418, 
+    "editor_res": false, 
+    "key": 203125, 
+    "map_name": "X1t1", 
+    "model_id": 504512, 
+    "name": 543430503, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Chinese style", 
+            "code_Three Kingdoms", 
+            "code_Buildings", 
+            "code_Building components", 
+            "code_Stone", 
+            "code_Purple", 
+            "code_Pillar"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            2.86, 
+            12.23
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/203125", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_203125"
+}

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<matrixlayout>column major</matrixlayout>
+	<system>character</system>
+	<mainroot>spike</mainroot>
+	<node>
+		<identifier>Scene Root</identifier>
+		<transform>
+			<row0>1 0 0</row0>
+			<row1>0 1 0</row1>
+			<row2>0 0 1</row2>
+			<row3>0 0 0</row3>
+		</transform>
+		<node>
+			<identifier>spike</identifier>
+			<transform>
+				<row0>100 0 0</row0>
+				<row1>0 100 0.000016</row1>
+				<row2>0 -0.000016 100</row2>
+				<row3>0 -7.046052 0</row3>
+			</transform>
+			<node>
+				<identifier>Bone</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 -0.005027 0.037395</row3>
+				</transform>
+				<node>
+					<identifier>Bone_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.001</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 -0.005027 0.011732</row3>
+				</transform>
+				<node>
+					<identifier>Bone.001_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.002</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 -0.005027 -0.013932</row3>
+				</transform>
+				<node>
+					<identifier>Bone.002_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.003</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 -0.005027 -0.038809</row3>
+				</transform>
+				<node>
+					<identifier>Bone.003_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.004</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 -0.005027 -0.07102</row3>
+				</transform>
+				<node>
+					<identifier>Bone.004_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.005</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 0.057926 -0.095845</row3>
+				</transform>
+				<node>
+					<identifier>Bone.005_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.006</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 0.077599 -0.121927</row3>
+				</transform>
+				<node>
+					<identifier>Bone.006_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>Bone.007</identifier>
+				<transform>
+					<row0>1 0 0</row0>
+					<row1>0 0 -1</row1>
+					<row2>0 1 0</row2>
+					<row3>0 0.077599 -0.147582</row3>
+				</transform>
+				<node>
+					<identifier>Bone.007_end</identifier>
+					<transform>
+						<row0>1 0 0</row0>
+						<row1>0 1 0</row1>
+						<row2>0 0 1</row2>
+						<row3>0 0 0.020054</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<anim>
+		<name>die</name>
+		<res>/die.anim</res>
+		<durationMS>2417</durationMS>
+		<_ModifyTime>1683382233</_ModifyTime>
+	</anim>
+	<anim>
+		<name>idle1</name>
+		<res>/idle1.anim</res>
+		<durationMS>2417</durationMS>
+		<_ModifyTime>1683382229</_ModifyTime>
+	</anim>
+	<anim>
+		<name>walk</name>
+		<res>/walk.anim</res>
+		<durationMS>2417</durationMS>
+		<_ModifyTime>1683382235</_ModifyTime>
+	</anim>
+	<StaticBoundingBox>
+		<min>0 -7.548728 -14.758245</min>
+		<max>0 2.719182 3.739527</max>
+	</StaticBoundingBox>
+</Root>

@@ -118,7 +118,7 @@
     "hit_rate_grow": 0.0, 
     "hp_max": 50.0, 
     "hp_max_grow": 0.0, 
-    "hp_rec": 10, 
+    "hp_rec": 0.0, 
     "hp_rec_grow": 1, 
     "icon": 133748, 
     "idle_anim": "idle1", 

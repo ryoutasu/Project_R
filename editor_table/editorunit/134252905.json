@@ -133,7 +133,7 @@
     "intelligence_grow": 1.0, 
     "is_apply_role_color": false, 
     "is_mini_map_show": true, 
-    "is_open_Xray": false, 
+    "is_open_Xray": true, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
     "keep_dead_body_time": 0.0, 
