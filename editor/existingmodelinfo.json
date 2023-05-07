@@ -5618,22 +5618,6 @@
  {
   "__tuple__": true, 
   "items": [
-   551, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   554, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    84, 
    "wallStandardLong", 
    16384
@@ -5749,22 +5733,6 @@
    94, 
    "wallStandardLong", 
    16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   523, 
-   "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   525, 
-   "Brick", 
-   16777216
   ]
  }, 
  {
@@ -7282,14 +7250,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10157, 
    "Point Light", 
    131072
@@ -7549,6 +7509,54 @@
    24, 
    "Pillar Wood", 
    2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10169, 
+   "Point Light", 
+   131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10175, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10176, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10177, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10178, 
+   "Point Light", 
+   131072
   ]
  }
 ]
