@@ -7514,14 +7514,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10169, 
    "Point Light", 
    131072
@@ -7557,6 +7549,14 @@
    10178, 
    "Point Light", 
    131072
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]
