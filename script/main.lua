@@ -48,7 +48,19 @@ up.game:event('Game-Init', function ()
         local player = up.player(1)
         local hero = up.create_unit(134252905, point, 270, player)
         set_player_movement(player, hero)
-        
+
+
+        for i = 1, 4 do
+            local skill = hero:find_skill('Hero', nil, i)
+            local btn = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.skill_list.skill_btn_' .. i .. '.skill_btn')
+            if skill then
+                GameAPI.set_skill_on_ui_comp(player._base, skill._base, btn)
+                GameAPI.set_ui_comp_visible(player._base, true, btn)
+            else
+                GameAPI.unbind_ui_comp(player._base, btn)
+                GameAPI.set_ui_comp_visible(player._base, false, btn)
+            end
+        end
     -- end)
 end)
 

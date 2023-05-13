@@ -205,6 +205,21 @@ up.game:event('Keyboard-Down', function (_, player, key)
     end
 end)
 
+
+up.game:event('Skill-CSStart', function (_, ability)
+    local player = ability:get_owner():get_player()
+    if not Player[player] then return end
+
+    Player[player].cast_state = 'start'
+end)
+
+up.game:event('Skill-End', function (_, ability)
+    local player = ability:get_owner():get_player()
+    if not Player[player] then return end
+
+    Player[player].cast_state = 'finish'
+end)
+
 function set_player_movement(player, unit)
     player:set_mouse_click(false)
     player:set_mouse_select(false)
@@ -212,10 +227,7 @@ function set_player_movement(player, unit)
     local p = {}
     Player[player] = p
 
-    p.is_attacking = false
-    p.is_defending = false
-    p.animation = 'idle'
-
+    p.cast_state = 'idle'
     p.lmb_pressed = false
     p.rmb_pressed = false
     p.space_pressed = false
@@ -229,6 +241,7 @@ function set_player_movement(player, unit)
 
     local anticipation_start = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_start'):float()
     local anticipation_end = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_end'):float()
+    player:set_camera(unit:get_point(), 0)
 
     p.timer = up.loop(tickrate, function ()
         local unit_point = unit:get_point()
@@ -240,99 +253,113 @@ function set_player_movement(player, unit)
         end
 
         if unit:is_alive() then
+            if p.cast_state == 'start' then
+                state = 'casting'
+            elseif p.cast_state == 'finish' then
+                state = 'idle'
+                p.cast_state = 'none'
+            else
+                if p.lmb_pressed and state ~= 'dash' then
+                    if state ~= 'attack' then
+                        print('attack start')
+                        local point = player:get_mouse_pos()
+                        if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
+                        state = 'attack'
 
-            if p.lmb_pressed and state ~= 'dash' then
-                if state ~= 'attack' then
-                    local point = player:get_mouse_pos()
-                    if state == 'defend' then p.unit:add('move_speed', defend_slow, 'AllRatio') end
-                    state = 'attack'
+                        local attack_speed = unit:get('attack_speed') / 100
+                        local start = anticipation_start / attack_speed
+                        local fin = anticipation_end / attack_speed
 
-                    local attack_speed = unit:get('attack_speed') / 100
-                    local start = anticipation_start / attack_speed
-                    local fin = anticipation_end / attack_speed
+                        facing = unit:get_point() / point
+                        unit:add_animation({ name = 'attack1', loop = false, speed = attack_speed })
+                        unit:add('move_speed', -attack_slow, 'AllRatio')
+                        unit:add_restriction('ForbidAbilities')
 
-                    facing = unit:get_point() / point
-                    unit:add_animation({ name = 'attack1', loop = false, speed = attack_speed })
-                    p.unit:add('move_speed', -attack_slow, 'AllRatio')
+                        up.wait(start, function()
+                            attack_count = attack_count + 1
+                            if attack_count > 3 then attack_count = 1 end
+                            attack_time = time_to_reset_attack
+                            create_projectile(player, attack_count, facing)
 
-                    up.wait(start, function()
-                        attack_count = attack_count + 1
-                        if attack_count > 3 then attack_count = 1 end
-                        attack_time = time_to_reset_attack
-                        create_projectile(player, attack_count, facing)
+                            up.wait(fin, function ()
+                                unit:add('move_speed', attack_slow, 'AllRatio')
+                                unit:remove_restriction('ForbidAbilities')
 
-                        up.wait(fin, function ()
-                            p.unit:add('move_speed', attack_slow, 'AllRatio')
+                                state = 'idle'
+                            end)
+                        end)
+                    end
+                end
+                    
+                local dest_point, moved = get_dest_point(player)
+                
+                if p.space_pressed then
+                    p.space_pressed = false
+                    if state ~= 'dash' and state ~= 'attack' then
+                        if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
+                        state = 'dash'
 
+                        local direction = unit:get_facing()
+                        if moved then
+                            direction = unit:get_point() / dest_point
+                        end
+                        local end_dash = function()
                             state = 'idle'
-                        end)
-                    end)
+                            unit:stop_animation()
+                            unit:remove_restriction('ForbidAbilities')
+                        end
+                        dash(player, direction, end_dash)
+                        unit:add_animation({ name = 'walk', loop = true, speed = 2, })
+                        unit:add_restriction('ForbidAbilities')
+                    end
                 end
-            end
-                
-            local dest_point, moved = get_dest_point(player)
-            
-            if p.space_pressed then
-                p.space_pressed = false
-                if state ~= 'dash' and state ~= 'attack' then
-                    state = 'dash'
 
-                    local point = player:get_mouse_pos()
-                    -- local direction = unit:get_point() / point
-                    local direction = unit:get_facing()
-                    local end_dash = function()
+                if state ~= 'dash' then
+                    if p.rmb_pressed and state ~= 'attack' then
+                        if state ~= 'defend' then
+                            state = 'defend'
+                            unit:add('move_speed', -defend_slow, 'AllRatio')
+                            unit:add_animation({ name = 'defend', init_time = 0, end_time = 0.15, loop = false, speed = 0.5, return_idle = false })
+
+                            up.wait(0.3, function()
+                                if state == 'defend' then
+                                    unit:add_animation({ name = 'defend', init_time = 0.15, end_time = 0.60, loop = true, speed = 0.25, return_idle = false })
+                                end
+                            end)
+                        end
+
+                        facing = unit:get_point() / player:get_mouse_pos()
+                    end
+
+                    if not p.rmb_pressed and state == 'defend' then
                         state = 'idle'
+                        unit:add('move_speed', defend_slow, 'AllRatio')
                         unit:stop_animation()
-                    end
-                    dash(player, direction, end_dash)
-                    unit:add_animation({ name = 'walk', loop = true, speed = 2, })
-                end
-            end
-            if state ~= 'dash' then
-                if p.rmb_pressed and (state == 'idle' or state == 'walk') then
-                    if state ~= 'defend' then
-                        state = 'defend'
-                        p.unit:add('move_speed', -defend_slow, 'AllRatio')
-                        unit:add_animation({ name = 'defend', init_time = 0, end_time = 0.15, loop = false, speed = 0.5, return_idle = false })
-
-                        up.wait(0.3, function()
-                            if state == 'defend' then
-                                unit:add_animation({ name = 'defend', init_time = 0.15, end_time = 0.60, loop = true, speed = 0.25, return_idle = false })
-                            end
-                        end)
-                    end
-
-                    facing = unit:get_point() / player:get_mouse_pos()
-                end
-
-                if not p.rmb_pressed and state == 'defend' then
-                    state = 'idle'
-                    p.unit:add('move_speed', defend_slow, 'AllRatio')
-                    unit:stop_animation()
-                end
-                
-                if not unit:can_collide_with_point(dest_point, 25) then
-                    if moved then
-                        if state == 'idle' then
-                            state = 'walk'
-                            unit:add_animation({ name = 'walk', loop = true, speed = 1, })
-                        end
-
-                        if state == 'walk' then
-                            facing = unit:get_point() / dest_point
-                        end
                     end
                     
-                    unit:set_point(dest_point, true)
-                else
-                    facing = unit:get_point() / player:get_mouse_pos()
-                    if state == 'walk' then
-                        state = 'idle'
-                        unit:stop_animation()
-                    end
-                end
+                    if not unit:can_collide_with_point(dest_point, 25) then
+                        if moved then
+                            if state == 'idle' then
+                                state = 'walk'
+                                unit:add_animation({ name = 'walk', loop = true, speed = 1, })
+                            end
 
-                unit:set_facing(facing)
+                            if state == 'walk' then
+                                facing = unit:get_point() / dest_point
+                            end
+                        end
+                        
+                        unit:set_point(dest_point, true)
+                    else
+                        facing = unit:get_point() / player:get_mouse_pos()
+                        if state == 'walk' then
+                            state = 'idle'
+                            unit:stop_animation()
+                        end
+                    end
+
+                    unit:set_facing(facing)
+                end
             end
         end
     end)

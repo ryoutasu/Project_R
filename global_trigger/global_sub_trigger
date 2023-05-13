@@ -7506,7 +7506,7 @@
         "script": "", 
         "trigger_id": 1023295507, 
         "trigger_name": "on_hero_create", 
-        "valid": true
+        "valid": false
     }, 
     "1257107466": {
         "action": [

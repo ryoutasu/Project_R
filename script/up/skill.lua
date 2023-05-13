@@ -15,6 +15,7 @@ end
 local event_name = {
 	['on_add']          = {20001,EVENT.ABILITY_OBTAIN,'Skill-Get'},
 	['on_remove']       = {20002,EVENT.ABILITY_LOSE,'Skill-Lose'},
+	['on_start']        = {20009,EVENT.ABILITY_CS_START,'Skill-CSStart'},
 	['on_cast_start']   = {20003,EVENT.ABILITY_PS_START,'Skill-PSStart'},
 	['on_cast_channel'] = {20004,EVENT.ABILITY_PS_END,'Skill-PSEnd'},
 	['on_cast_shot']    = {20005,EVENT.ABILITY_SP_END,'Skill-SPEnd'},
@@ -25,7 +26,6 @@ local event_name = {
 	--['on_cast_finish']  = 'Skill-CSTEnd',
 	['on_cast_stop']    = {20008,EVENT.ABILITY_END,'Skill-SkillEnd'},
 	--['is_conditions']	= 'Skill-IsConditions',
-	['on_start']    = {20009,EVENT.ABILITY_CS_START,'Skill-CSStart'},
     ['on_build']        = {20010,EVENT.ABILITY_BUILD_FINISH,'Skill-BuildEnd'},
 }
 
@@ -78,7 +78,7 @@ function up.unit_class.__index.each_skill(self,type)
         end, r
     else
         local r = {}
-        for i = 0,3 do 
+        for i = 0,3 do
             local a = self._base:api_get_abilities_by_type(i)
             for index, value in Python.enumerate(a) do
                 local s = up.actor_skill(value)

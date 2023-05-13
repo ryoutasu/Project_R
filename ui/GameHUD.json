@@ -39923,6 +39923,2548 @@
             "suspend_picture": 903407, 
             "type": 1, 
             "uid": "a06c0e95-daa5-4976-9d46-d3e9ebd1db0f"
+        }, 
+        {
+            "bg_color": null, 
+            "bg_image": 107333, 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                2.0, 
+                                2.0, 
+                                2.0, 
+                                2.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 107333, 
+                                    "name": "bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "87bfec06-4225-4d5c-a5b7-5a1c65a09b12"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 100070, 
+                                    "name": "icon", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "8455e6a5-bad7-47e6-a1bb-72fae87038f5"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": 999, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133819, 
+                                    "name": "cd", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "185ae5b4-e42f-4a7c-92a5-eb8ff215ff21"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "cd_text", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "10", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "5038fa3d-f158-48c7-8902-f6302087cddd"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        false, 
+                                        28.666671752929688, 
+                                        0.0, 
+                                        0.0, 
+                                        18.666656494140625
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "lv", 
+                                            "open_adapter": true, 
+                                            "over_pattern": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.166671752929688, 
+                                                    9.666664123535156
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    55.11363459027565, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    26.333343505859375, 
+                                                    19.333328247070312
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "lv.191", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "6a733751-32f5-4147-bcd2-a7c4bf9ba794"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133820, 
+                                    "name": "lv_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            14.666671752929688, 
+                                            9.666664123535156
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            30.555566151936848, 
+                                            20.138883590698242
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            29.333343505859375, 
+                                            19.333328247070312
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "83fb1267-f04b-4f16-abeb-b1b26866b1cb"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        false, 
+                                        true, 
+                                        31.200000381469728, 
+                                        -3.8146972691777137e-7, 
+                                        20.0, 
+                                        4.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            4, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            14
+                                        ]
+                                    }, 
+                                    "name": "stack", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            32.0, 
+                                            8.399999618530273
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.66666666666666, 
+                                            17.4999992052714
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            16.8
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "5", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "19ca78dc-9e7f-401c-a9a6-b0a29e4beabf"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        -40.0, 
+                                        66.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "disabled_picture": null, 
+                                    "event_list": [], 
+                                    "name": "learn", 
+                                    "normal_picture": 133777, 
+                                    "normal_text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            " ", 
+                                            false
+                                        ]
+                                    }, 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            77.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            160.41666666666669
+                                        ]
+                                    }, 
+                                    "press_picture": 100351, 
+                                    "short_cut": 16, 
+                                    "short_cut_2": 29, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 100350, 
+                                    "type": 1, 
+                                    "uid": "9c4cfffc-a415-4b33-983f-64b1b2220dc8", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        31.0, 
+                                        0.0, 
+                                        31.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                2.0, 
+                                                2.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    12
+                                                ]
+                                            }, 
+                                            "name": "hot_key", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    10.0, 
+                                                    8.5
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    58.82352941176471, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    14.0, 
+                                                    13.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Q", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "0252c237-dab1-46e8-89ab-24beff4ee3b8"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133811, 
+                                    "name": "hot_key_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            8.5, 
+                                            39.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.708333333333336, 
+                                            82.29166666666666
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.0, 
+                                            17.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "4543c2a2-f2bc-4f1e-9bf5-6fdd8a180739"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133821, 
+                                    "name": "out_of_mana", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "3de35d22-e1c7-444f-972e-c7440380e012"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133822, 
+                                    "name": "disable", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "e65340fb-f4ae-4d5e-8791-db78655addf0"
+                                }
+                            ], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "skill_btn", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.0, 
+                                    26.0
+                                ]
+                            }, 
+                            "short_cut": 16, 
+                            "short_cut_smart_cast": 16, 
+                            "short_cut_smart_cast_2": 56, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.0, 
+                                    48.0
+                                ]
+                            }, 
+                            "skill_cd_label": "5038fa3d-f158-48c7-8902-f6302087cddd", 
+                            "skill_cd_progress": "185ae5b4-e42f-4a7c-92a5-eb8ff215ff21", 
+                            "skill_consume_mask_img": "3de35d22-e1c7-444f-972e-c7440380e012", 
+                            "skill_disable_img": "e65340fb-f4ae-4d5e-8791-db78655addf0", 
+                            "skill_frame_img": "87bfec06-4225-4d5c-a5b7-5a1c65a09b12", 
+                            "skill_icon_img": "8455e6a5-bad7-47e6-a1bb-72fae87038f5", 
+                            "skill_level_label": "6a733751-32f5-4147-bcd2-a7c4bf9ba794", 
+                            "skill_shortcut_label": "0252c237-dab1-46e8-89ab-24beff4ee3b8", 
+                            "skill_stack_label": "19ca78dc-9e7f-401c-a9a6-b0a29e4beabf", 
+                            "skill_type": 3, 
+                            "skill_upgrade_btn": "9c4cfffc-a415-4b33-983f-64b1b2220dc8", 
+                            "slot_id": 1, 
+                            "swallow_touches": true, 
+                            "type": 17, 
+                            "uid": "dcd43e30-50e6-4e93-b27d-e16c70a0384a"
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "custom_kv": null, 
+                    "event_list": [], 
+                    "image": 133817, 
+                    "name": "skill_btn_1", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            149.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            62.11595488835695, 
+                            39.90008729800106
+                        ]
+                    }, 
+                    "prefab_key": "0d0f0db3-2c0c-477c-9ede-7cff2268e0f7", 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            52.0, 
+                            52.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "b1e5ae86-2bf7-41a4-8dd0-109af6d709d2"
+                }, 
+                {
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                2.0, 
+                                2.0, 
+                                2.0, 
+                                2.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 107333, 
+                                    "name": "bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ebd2043d-3be2-46e7-944d-a2f6921525f3"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 100070, 
+                                    "name": "icon", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "5d3700f2-f443-4089-a3a1-4cf0e193f2de"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": 999, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133819, 
+                                    "name": "cd", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "815d4b96-a010-4661-9052-888c598c3a32"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "cd_text", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "10", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "63349535-5318-4fb2-8345-bdc92e6c4f92"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        false, 
+                                        28.666671752929688, 
+                                        0.0, 
+                                        0.0, 
+                                        18.666656494140625
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "lv", 
+                                            "open_adapter": true, 
+                                            "over_pattern": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.166671752929688, 
+                                                    9.666664123535156
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    55.11363459027565, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    26.333343505859375, 
+                                                    19.333328247070312
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "lv.191", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "1aac3d48-5aec-411c-a49a-a4e6e586d58c"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133820, 
+                                    "name": "lv_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            14.666671752929688, 
+                                            9.666664123535156
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            30.555566151936848, 
+                                            20.138883590698242
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            29.333343505859375, 
+                                            19.333328247070312
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "eb1d742d-2f39-4f6f-8b35-ac789cb42b02"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        false, 
+                                        true, 
+                                        31.200000381469728, 
+                                        -3.8146972691777137e-7, 
+                                        20.0, 
+                                        4.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            4, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            14
+                                        ]
+                                    }, 
+                                    "name": "stack", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            32.0, 
+                                            8.399999618530273
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.66666666666666, 
+                                            17.4999992052714
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            16.8
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "5", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "c6b5483c-604a-47aa-914c-947a4e2f288a"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        -40.0, 
+                                        66.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "disabled_picture": null, 
+                                    "event_list": [], 
+                                    "name": "learn", 
+                                    "normal_picture": 133777, 
+                                    "normal_text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            " ", 
+                                            false
+                                        ]
+                                    }, 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            77.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            160.41666666666669
+                                        ]
+                                    }, 
+                                    "press_picture": 100351, 
+                                    "short_cut": 16, 
+                                    "short_cut_2": 29, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 100350, 
+                                    "type": 1, 
+                                    "uid": "22301471-e85a-4b5f-a85b-8945112d401c", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        31.0, 
+                                        0.0, 
+                                        31.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                2.0, 
+                                                2.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    12
+                                                ]
+                                            }, 
+                                            "name": "hot_key", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    10.0, 
+                                                    8.5
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    58.82352941176471, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    14.0, 
+                                                    13.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Q", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "cd1b9c57-34ed-4a99-96e9-4185d7b4d822"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133811, 
+                                    "name": "hot_key_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            8.5, 
+                                            39.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.708333333333336, 
+                                            82.29166666666666
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.0, 
+                                            17.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "20ad2261-46ec-4ef1-bcca-22c7e43da46b"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133821, 
+                                    "name": "out_of_mana", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "97ff1964-cb03-45c4-b4e1-da2a389405e0"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133822, 
+                                    "name": "disable", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ff8fb776-f108-4b83-bcb2-a4ec714d455c"
+                                }
+                            ], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "skill_btn", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.0, 
+                                    26.0
+                                ]
+                            }, 
+                            "short_cut": 18, 
+                            "short_cut_smart_cast": 18, 
+                            "short_cut_smart_cast_2": 56, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.0, 
+                                    48.0
+                                ]
+                            }, 
+                            "skill_cd_label": "63349535-5318-4fb2-8345-bdc92e6c4f92", 
+                            "skill_cd_progress": "815d4b96-a010-4661-9052-888c598c3a32", 
+                            "skill_consume_mask_img": "97ff1964-cb03-45c4-b4e1-da2a389405e0", 
+                            "skill_disable_img": "ff8fb776-f108-4b83-bcb2-a4ec714d455c", 
+                            "skill_frame_img": "ebd2043d-3be2-46e7-944d-a2f6921525f3", 
+                            "skill_icon_img": "5d3700f2-f443-4089-a3a1-4cf0e193f2de", 
+                            "skill_level_label": "1aac3d48-5aec-411c-a49a-a4e6e586d58c", 
+                            "skill_shortcut_label": "cd1b9c57-34ed-4a99-96e9-4185d7b4d822", 
+                            "skill_stack_label": "c6b5483c-604a-47aa-914c-947a4e2f288a", 
+                            "skill_type": 3, 
+                            "skill_upgrade_btn": "22301471-e85a-4b5f-a85b-8945112d401c", 
+                            "slot_id": 2, 
+                            "swallow_touches": true, 
+                            "type": 17, 
+                            "uid": "4643685d-6cf0-4310-ba7a-9cb0107bbf01"
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "custom_kv": null, 
+                    "event_list": [], 
+                    "image": 133817, 
+                    "name": "skill_btn_2", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            149.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            62.11595488835695, 
+                            39.90008729800106
+                        ]
+                    }, 
+                    "prefab_key": "0d0f0db3-2c0c-477c-9ede-7cff2268e0f7", 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            52.0, 
+                            52.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "c08ff10e-d07b-4572-8bd1-14cc404ec0c6"
+                }, 
+                {
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                2.0, 
+                                2.0, 
+                                2.0, 
+                                2.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 107333, 
+                                    "name": "bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "f0326bea-9aac-481a-89d2-c2c51dabb5e4"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 100070, 
+                                    "name": "icon", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "1fc77284-2c31-42d6-8b93-f9f717620981"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": 999, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133819, 
+                                    "name": "cd", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "3ba0a489-b306-489d-bf0b-87ef3dccbe4b"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "cd_text", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "10", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "252ab2e3-c15c-4e67-8053-d16b9a8e864b"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        false, 
+                                        28.666671752929688, 
+                                        0.0, 
+                                        0.0, 
+                                        18.666656494140625
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "lv", 
+                                            "open_adapter": true, 
+                                            "over_pattern": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.166671752929688, 
+                                                    9.666664123535156
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    55.11363459027565, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    26.333343505859375, 
+                                                    19.333328247070312
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "lv.191", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "41f1bfad-e210-4617-a9f2-bcc1dfb1d8fb"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133820, 
+                                    "name": "lv_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            14.666671752929688, 
+                                            9.666664123535156
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            30.555566151936848, 
+                                            20.138883590698242
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            29.333343505859375, 
+                                            19.333328247070312
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "513bcee0-b321-4202-ab4d-ddc2e1d1100c"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        false, 
+                                        true, 
+                                        31.200000381469728, 
+                                        -3.8146972691777137e-7, 
+                                        20.0, 
+                                        4.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            4, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            14
+                                        ]
+                                    }, 
+                                    "name": "stack", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            32.0, 
+                                            8.399999618530273
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.66666666666666, 
+                                            17.4999992052714
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            16.8
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "5", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "676e531c-9b6e-49be-8bed-8d1d8cacf65d"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        -40.0, 
+                                        66.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "disabled_picture": null, 
+                                    "event_list": [], 
+                                    "name": "learn", 
+                                    "normal_picture": 133777, 
+                                    "normal_text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            " ", 
+                                            false
+                                        ]
+                                    }, 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            77.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            160.41666666666669
+                                        ]
+                                    }, 
+                                    "press_picture": 100351, 
+                                    "short_cut": 16, 
+                                    "short_cut_2": 29, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 100350, 
+                                    "type": 1, 
+                                    "uid": "e4e8375b-d956-4a40-9d92-464b2d5765f9", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        31.0, 
+                                        0.0, 
+                                        31.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                2.0, 
+                                                2.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    12
+                                                ]
+                                            }, 
+                                            "name": "hot_key", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    10.0, 
+                                                    8.5
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    58.82352941176471, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    14.0, 
+                                                    13.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Q", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "135d9a95-8d52-457a-a3ad-9c3fdbf2c225"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133811, 
+                                    "name": "hot_key_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            8.5, 
+                                            39.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.708333333333336, 
+                                            82.29166666666666
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.0, 
+                                            17.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "04565a23-e098-40b3-be22-9c0f50ae6510"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133821, 
+                                    "name": "out_of_mana", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ba02082b-98e5-4f30-be72-2c27d1f5713d"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133822, 
+                                    "name": "disable", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "313342dd-15b0-4bf1-8848-c5c774689134"
+                                }
+                            ], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "skill_btn", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.0, 
+                                    26.0
+                                ]
+                            }, 
+                            "short_cut": 19, 
+                            "short_cut_smart_cast": 19, 
+                            "short_cut_smart_cast_2": 56, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.0, 
+                                    48.0
+                                ]
+                            }, 
+                            "skill_cd_label": "252ab2e3-c15c-4e67-8053-d16b9a8e864b", 
+                            "skill_cd_progress": "3ba0a489-b306-489d-bf0b-87ef3dccbe4b", 
+                            "skill_consume_mask_img": "ba02082b-98e5-4f30-be72-2c27d1f5713d", 
+                            "skill_disable_img": "313342dd-15b0-4bf1-8848-c5c774689134", 
+                            "skill_frame_img": "f0326bea-9aac-481a-89d2-c2c51dabb5e4", 
+                            "skill_icon_img": "1fc77284-2c31-42d6-8b93-f9f717620981", 
+                            "skill_level_label": "41f1bfad-e210-4617-a9f2-bcc1dfb1d8fb", 
+                            "skill_shortcut_label": "135d9a95-8d52-457a-a3ad-9c3fdbf2c225", 
+                            "skill_stack_label": "676e531c-9b6e-49be-8bed-8d1d8cacf65d", 
+                            "skill_type": 3, 
+                            "skill_upgrade_btn": "e4e8375b-d956-4a40-9d92-464b2d5765f9", 
+                            "slot_id": 3, 
+                            "swallow_touches": true, 
+                            "type": 17, 
+                            "uid": "74c3db5f-e740-429f-8a4a-7cf8d2595b19"
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "custom_kv": null, 
+                    "event_list": [], 
+                    "image": 133817, 
+                    "name": "skill_btn_3", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            149.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            62.11595488835695, 
+                            39.90008729800106
+                        ]
+                    }, 
+                    "prefab_key": "0d0f0db3-2c0c-477c-9ede-7cff2268e0f7", 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            52.0, 
+                            52.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "8e1ca7ec-55ab-40c4-9968-3ef310985e23"
+                }, 
+                {
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                2.0, 
+                                2.0, 
+                                2.0, 
+                                2.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 107333, 
+                                    "name": "bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "8c6015c7-1d3e-45d7-b0d8-79b8476fe648"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 100070, 
+                                    "name": "icon", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "47759a0f-1ece-465e-9a1b-5aa40b893957"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "bg_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            255, 
+                                            255, 
+                                            255, 
+                                            0
+                                        ]
+                                    }, 
+                                    "bg_image": 999, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133819, 
+                                    "name": "cd", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "progress_type": 0, 
+                                    "reverse": true, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 5, 
+                                    "uid": "9ac23665-7813-4ca2-9340-87864691c139"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            20
+                                        ]
+                                    }, 
+                                    "name": "cd_text", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "10", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "75de73f8-edb2-45d6-b5ac-adf7568df407"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        false, 
+                                        28.666671752929688, 
+                                        0.0, 
+                                        0.0, 
+                                        18.666656494140625
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "lv", 
+                                            "open_adapter": true, 
+                                            "over_pattern": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.166671752929688, 
+                                                    9.666664123535156
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    55.11363459027565, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    26.333343505859375, 
+                                                    19.333328247070312
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "lv.191", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "5f685407-ac7a-4c8c-b57a-b164ef77d805"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133820, 
+                                    "name": "lv_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            14.666671752929688, 
+                                            9.666664123535156
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            30.555566151936848, 
+                                            20.138883590698242
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            29.333343505859375, 
+                                            19.333328247070312
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "ed4aaf73-62a8-447c-9743-876cc82cf0cd"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        false, 
+                                        true, 
+                                        31.200000381469728, 
+                                        -3.8146972691777137e-7, 
+                                        20.0, 
+                                        4.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            4, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            14
+                                        ]
+                                    }, 
+                                    "name": "stack", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            32.0, 
+                                            8.399999618530273
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            66.66666666666666, 
+                                            17.4999992052714
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            16.8
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "5", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "557696e9-28c8-4026-8951-899786f52b36"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        -40.0, 
+                                        66.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "disabled_picture": null, 
+                                    "event_list": [], 
+                                    "name": "learn", 
+                                    "normal_picture": 133777, 
+                                    "normal_text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            " ", 
+                                            false
+                                        ]
+                                    }, 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            77.0
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            50.0, 
+                                            160.41666666666669
+                                        ]
+                                    }, 
+                                    "press_picture": 100351, 
+                                    "short_cut": 16, 
+                                    "short_cut_2": 29, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            22.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 100350, 
+                                    "type": 1, 
+                                    "uid": "bd7bae60-d947-4c1c-8666-269c768086a6", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0, 
+                                        31.0, 
+                                        0.0, 
+                                        31.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                2.0, 
+                                                2.0, 
+                                                3.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "comp_anims": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    12
+                                                ]
+                                            }, 
+                                            "name": "hot_key", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    10.0, 
+                                                    8.5
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    58.82352941176471, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    14.0, 
+                                                    13.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Q", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "6c7655b4-176b-4b60-a244-3345910980d0"
+                                        }
+                                    ], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133811, 
+                                    "name": "hot_key_bg", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            8.5, 
+                                            39.5
+                                        ]
+                                    }, 
+                                    "pos_percent": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.708333333333336, 
+                                            82.29166666666666
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            17.0, 
+                                            17.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "1cf4a4b2-d151-4f3a-9a6c-3016fd1b8e59"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133821, 
+                                    "name": "out_of_mana", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "6a0e0a2c-f055-4232-a564-518700c6481d"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "comp_anims": [], 
+                                    "event_list": [], 
+                                    "image": 133822, 
+                                    "name": "disable", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            24.0, 
+                                            24.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            48.0, 
+                                            48.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "30eebd18-0309-440f-b713-64f87d282cc3"
+                                }
+                            ], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "skill_btn", 
+                            "open_adapter": true, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    26.0, 
+                                    26.0
+                                ]
+                            }, 
+                            "short_cut": 33, 
+                            "short_cut_smart_cast": 33, 
+                            "short_cut_smart_cast_2": 56, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    48.0, 
+                                    48.0
+                                ]
+                            }, 
+                            "skill_cd_label": "75de73f8-edb2-45d6-b5ac-adf7568df407", 
+                            "skill_cd_progress": "9ac23665-7813-4ca2-9340-87864691c139", 
+                            "skill_consume_mask_img": "6a0e0a2c-f055-4232-a564-518700c6481d", 
+                            "skill_disable_img": "30eebd18-0309-440f-b713-64f87d282cc3", 
+                            "skill_frame_img": "8c6015c7-1d3e-45d7-b0d8-79b8476fe648", 
+                            "skill_icon_img": "47759a0f-1ece-465e-9a1b-5aa40b893957", 
+                            "skill_level_label": "5f685407-ac7a-4c8c-b57a-b164ef77d805", 
+                            "skill_shortcut_label": "6c7655b4-176b-4b60-a244-3345910980d0", 
+                            "skill_stack_label": "557696e9-28c8-4026-8951-899786f52b36", 
+                            "skill_type": 3, 
+                            "skill_upgrade_btn": "bd7bae60-d947-4c1c-8666-269c768086a6", 
+                            "slot_id": 4, 
+                            "swallow_touches": true, 
+                            "type": 17, 
+                            "uid": "95150f0a-6dd0-4445-ac1f-341ace41a902"
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "custom_kv": null, 
+                    "event_list": [], 
+                    "image": 133817, 
+                    "name": "skill_btn_4", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            149.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            62.11595488835695, 
+                            39.90008729800106
+                        ]
+                    }, 
+                    "prefab_key": "0d0f0db3-2c0c-477c-9ede-7cff2268e0f7", 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            52.0, 
+                            52.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "5bf3b570-f286-44bb-99c5-21550b9b4e87"
+                }
+            ], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "margin": 9.0, 
+            "name": "skill_list", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    63.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    5.833333333333333
+                ]
+            }, 
+            "scroll_bar_enable": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    239.87395874023446, 
+                    125.31300903320312
+                ]
+            }, 
+            "type": 10, 
+            "uid": "1017edcc-0df7-45a1-92cb-74fc736a454f"
         }
     ], 
     "editor_visible": false, 

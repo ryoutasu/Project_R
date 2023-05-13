@@ -3,6 +3,10 @@
         "key": -2123441221, 
         "value": "Template"
     }, 
+    "-2107751307": {
+        "key": -2107751307, 
+        "value": "Description"
+    }, 
     "-2090207331": {
         "key": -2090207331, 
         "value": "unityPillarWood"
@@ -78,6 +82,10 @@
     "-969644625": {
         "key": -969644625, 
         "value": "wall_4"
+    }, 
+    "-951583051": {
+        "key": -951583051, 
+        "value": "Hammer"
     }, 
     "-866456493": {
         "key": -866456493, 
@@ -265,7 +273,7 @@
     }, 
     "1861471392": {
         "key": 1861471392, 
-        "value": "Template"
+        "value": "Hero"
     }, 
     "1870780546": {
         "key": 1870780546, 
@@ -286,6 +294,22 @@
     "2027898073": {
         "key": 2027898073, 
         "value": "attack 1"
+    }, 
+    "#2b8f0ae8-2da9-489e-843d-82d7a8876d20#text": {
+        "key": "#2b8f0ae8-2da9-489e-843d-82d7a8876d20#text", 
+        "value": "G"
+    }, 
+    "#3c379499-bd22-49d0-831c-444fa76d6d9f#text": {
+        "key": "#3c379499-bd22-49d0-831c-444fa76d6d9f#text", 
+        "value": "F"
+    }, 
+    "#6c034e07-ce4f-4997-8e56-749152eff935#text": {
+        "key": "#6c034e07-ce4f-4997-8e56-749152eff935#text", 
+        "value": "R"
+    }, 
+    "#ae2f2aa1-60a2-49bd-afd3-b37a2ae19e37#text": {
+        "key": "#ae2f2aa1-60a2-49bd-afd3-b37a2ae19e37#text", 
+        "value": "E"
     }, 
     "$faction 1": {
         "key": "$faction 1", 

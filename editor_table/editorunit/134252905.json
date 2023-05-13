@@ -116,10 +116,12 @@
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
-    "hero_ability_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "hero_ability_list": [
+        [
+            134279476, 
+            1
+        ]
+    ], 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
     "hp_max": 1000.0, 
@@ -214,7 +216,7 @@
     "mp_rec_grow": 2, 
     "name": 1861471392, 
     "need_preview_billboard": true, 
-    "ori_bits": 0, 
+    "ori_bits": 2, 
     "ori_speed": 5.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {

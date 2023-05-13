@@ -67,7 +67,7 @@ function up.ui:set_scale(name,scale,player)
 end
 
 function up.ui:active_skill(name,bool,player)
-    GameAPI.set_skill_btn_action_effect(player._base, name,bool) 
+    GameAPI.set_skill_btn_action_effect(player._base, name,bool)
 end
 
 
@@ -112,7 +112,7 @@ function up.ui:set_opacity(name,opacity,player)
 end
 
 function up.ui:unbind_skill(name,player)
-    GameAPI.cancel_bind_skill(player._base,name)
+    GameAPI.unbind_ui_comp(player._base,name)
 end
 
 function up.ui:bind_skill(name,skill,player)
