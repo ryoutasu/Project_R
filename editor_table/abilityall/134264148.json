@@ -16,7 +16,7 @@
         ]
     }, 
     "ability_cast_type": 2, 
-    "ability_channel_time": 5.0, 
+    "ability_channel_time": 2.0, 
     "ability_cost": {
         "__tuple__": true, 
         "items": [
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 100508, 
+    "ability_icon": 107014, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -209,7 +209,7 @@
             "remark": "", 
             "sort": 3, 
             "type": 1, 
-            "value": 0.5
+            "value": 0.1
         }, 
         "radius": {
             "annotation": "", 

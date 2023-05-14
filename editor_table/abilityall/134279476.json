@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 100508, 
+    "ability_icon": 120498, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -212,9 +212,9 @@
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(10)", 
+                    "lambda unit: Fix32(3)", 
                     [], 
-                    "lambda unit: Fix32(10)", 
+                    "lambda unit: Fix32(3)", 
                     {}, 
                     []
                 ]
