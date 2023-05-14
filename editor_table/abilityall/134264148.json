@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134279476, 
+    "_ref_": 134264148, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -16,7 +16,7 @@
         ]
     }, 
     "ability_cast_type": 2, 
-    "ability_channel_time": 0.0, 
+    "ability_channel_time": 5.0, 
     "ability_cost": {
         "__tuple__": true, 
         "items": [
@@ -126,7 +126,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "description": -2107751307, 
+    "description": 124679257, 
     "end_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -158,7 +158,7 @@
     "is_charge_ability": false, 
     "is_immediate": false, 
     "is_meele": false, 
-    "key": 134279476, 
+    "key": 134264148, 
     "kv": {
         "damage": {
             "annotation": "", 
@@ -167,7 +167,7 @@
             "key": "damage", 
             "prop_cls": "PInt", 
             "remark": "", 
-            "sort": 1, 
+            "sort": 0, 
             "type": 24, 
             "value": {
                 "__tuple__": true, 
@@ -180,11 +180,11 @@
                 ]
             }
         }, 
-        "damage_per_second": {
+        "damage_radius": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "damage_per_second", 
+            "key": "damage_radius", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 2, 
@@ -192,29 +192,40 @@
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(20)", 
+                    "lambda unit: Fix32(100)", 
                     [], 
-                    "lambda unit: Fix32(20)", 
+                    "lambda unit: Fix32(100)", 
                     {}, 
                     []
                 ]
             }
         }, 
-        "pool_duration": {
+        "period": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "pool_duration", 
+            "key": "period", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 1, 
+            "value": 0.5
+        }, 
+        "radius": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "radius", 
             "prop_cls": "PInt", 
             "remark": "", 
-            "sort": 0, 
+            "sort": 1, 
             "type": 24, 
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(10)", 
+                    "lambda unit: Fix32(800) ", 
                     [], 
-                    "lambda unit: Fix32(10)", 
+                    "lambda unit: Fix32(800) ", 
                     {}, 
                     []
                 ]
@@ -225,7 +236,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "name": -951583051, 
+    "name": 977158815, 
     "need_turn_to_target": true, 
     "pick_count": 1, 
     "player_props_cost": {}, 
@@ -271,7 +282,7 @@
             "10"
         ]
     }, 
-    "sight_type": 3, 
+    "sight_type": 0, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []
@@ -291,5 +302,5 @@
         "items": []
     }, 
     "target_attribute": 0, 
-    "uid": "134279476"
+    "uid": "134264148"
 }

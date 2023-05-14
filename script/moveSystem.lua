@@ -210,6 +210,7 @@ up.game:event('Skill-CSStart', function (_, ability)
     local player = ability:get_owner():get_player()
     if not Player[player] then return end
 
+    Player[player].unit:stop_animation()
     Player[player].cast_state = 'start'
 end)
 

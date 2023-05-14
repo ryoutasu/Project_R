@@ -1,14 +1,14 @@
 {
     "_custom_": true, 
-    "_ref_": 134279476, 
+    "_ref_": 134236860, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
             "50"
         ]
     }, 
-    "ability_bw_point": 0.5, 
-    "ability_cast_point": 0.2, 
+    "ability_bw_point": 0.0, 
+    "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -126,7 +126,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "description": -2107751307, 
+    "description": 877265663, 
     "end_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -158,53 +158,13 @@
     "is_charge_ability": false, 
     "is_immediate": false, 
     "is_meele": false, 
-    "key": 134279476, 
+    "key": 134236860, 
     "kv": {
-        "damage": {
+        "duration": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "damage", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 1, 
-            "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit: Fix32(100)", 
-                    [], 
-                    "lambda unit: Fix32(100)", 
-                    {}, 
-                    []
-                ]
-            }
-        }, 
-        "damage_per_second": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "damage_per_second", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 2, 
-            "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit: Fix32(20)", 
-                    [], 
-                    "lambda unit: Fix32(20)", 
-                    {}, 
-                    []
-                ]
-            }
-        }, 
-        "pool_duration": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "pool_duration", 
+            "key": "duration", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 0, 
@@ -225,7 +185,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "name": -951583051, 
+    "name": -1391065808, 
     "need_turn_to_target": true, 
     "pick_count": 1, 
     "player_props_cost": {}, 
@@ -271,7 +231,7 @@
             "10"
         ]
     }, 
-    "sight_type": 3, 
+    "sight_type": 0, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []
@@ -291,5 +251,5 @@
         "items": []
     }, 
     "target_attribute": 0, 
-    "uid": "134279476"
+    "uid": "134236860"
 }
