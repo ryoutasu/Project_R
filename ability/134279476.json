@@ -5,7 +5,8 @@
                 "FLOAT": {
                     "damage": 0.0, 
                     "damage_per_second": 0.0, 
-                    "pool_duration": 0.0
+                    "pool_duration": 0.0, 
+                    "radius": 0.0
                 }, 
                 "NEW_TIMER": {
                     "timer": -1
@@ -19,6 +20,7 @@
                 "damage_per_second": 0, 
                 "effect": 0, 
                 "pool_duration": 0, 
+                "radius": 0, 
                 "timer": 0
             }, 
             "variable_type_dict": {
@@ -26,6 +28,7 @@
                 "damage_per_second": false, 
                 "effect": false, 
                 "pool_duration": false, 
+                "radius": false, 
                 "timer": false
             }
         }
@@ -33,6 +36,43 @@
     "trigger_dict": {
         "1068068865": {
             "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "radius", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "radius"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_FORMULA_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1068068865000203, 
+                    "enable": true
+                }, 
                 {
                     "action_type": "SET_VARIABLE", 
                     "args_list": [
@@ -351,70 +391,13 @@
                                                         {
                                                             "arg_type": 100000, 
                                                             "args_list": [
-                                                                {
-                                                                    "arg_type": 100039, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100014, 
-                                                                            "args_list": [], 
-                                                                            "sub_type": "CUR_ABILITY"
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "ABILITY_NAME_OF_ABILITY"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100249, 
-                                                                    "args_list": [
-                                                                        "sector_radius"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100002, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100014, 
-                                                                            "args_list": [], 
-                                                                            "sub_type": "CUR_ABILITY"
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100079, 
-                                                                            "args_list": [
-                                                                                "ability_level"
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "GET_ABILITY_INT_ATTR"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100002, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100014, 
-                                                                            "args_list": [], 
-                                                                            "sub_type": "CUR_ABILITY"
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100079, 
-                                                                            "args_list": [
-                                                                                "cur_stack_count"
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "GET_ABILITY_INT_ATTR"
-                                                                }
+                                                                [
+                                                                    "FLOAT", 
+                                                                    "radius", 
+                                                                    "local"
+                                                                ]
                                                             ], 
-                                                            "op_arg": [
-                                                                null, 
-                                                                null
-                                                            ], 
-                                                            "op_arg_enable": [
-                                                                false, 
-                                                                false
-                                                            ], 
-                                                            "sub_type": "GET_ABILITY_CONF_FORMULA_ATTR"
+                                                            "sub_type": 2
                                                         }
                                                     ], 
                                                     "sub_type": "CONST_CIRCULAR_SHAPE"
@@ -698,70 +681,13 @@
                                                                         {
                                                                             "arg_type": 100000, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "arg_type": 100039, 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100014, 
-                                                                                            "args_list": [], 
-                                                                                            "sub_type": "CUR_ABILITY"
-                                                                                        }
-                                                                                    ], 
-                                                                                    "sub_type": "ABILITY_NAME_OF_ABILITY"
-                                                                                }, 
-                                                                                {
-                                                                                    "arg_type": 100249, 
-                                                                                    "args_list": [
-                                                                                        "sector_radius"
-                                                                                    ], 
-                                                                                    "sub_type": 1
-                                                                                }, 
-                                                                                {
-                                                                                    "arg_type": 100002, 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100014, 
-                                                                                            "args_list": [], 
-                                                                                            "sub_type": "CUR_ABILITY"
-                                                                                        }, 
-                                                                                        {
-                                                                                            "arg_type": 100079, 
-                                                                                            "args_list": [
-                                                                                                "ability_level"
-                                                                                            ], 
-                                                                                            "sub_type": 1
-                                                                                        }
-                                                                                    ], 
-                                                                                    "sub_type": "GET_ABILITY_INT_ATTR"
-                                                                                }, 
-                                                                                {
-                                                                                    "arg_type": 100002, 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100014, 
-                                                                                            "args_list": [], 
-                                                                                            "sub_type": "CUR_ABILITY"
-                                                                                        }, 
-                                                                                        {
-                                                                                            "arg_type": 100079, 
-                                                                                            "args_list": [
-                                                                                                "cur_stack_count"
-                                                                                            ], 
-                                                                                            "sub_type": 1
-                                                                                        }
-                                                                                    ], 
-                                                                                    "sub_type": "GET_ABILITY_INT_ATTR"
-                                                                                }
+                                                                                [
+                                                                                    "FLOAT", 
+                                                                                    "radius", 
+                                                                                    "local"
+                                                                                ]
                                                                             ], 
-                                                                            "op_arg": [
-                                                                                null, 
-                                                                                null
-                                                                            ], 
-                                                                            "op_arg_enable": [
-                                                                                false, 
-                                                                                false
-                                                                            ], 
-                                                                            "sub_type": "GET_ABILITY_CONF_FORMULA_ATTR"
+                                                                            "sub_type": 2
                                                                         }
                                                                     ], 
                                                                     "sub_type": "CONST_CIRCULAR_SHAPE"

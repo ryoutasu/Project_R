@@ -246,7 +246,7 @@ function set_player_movement(player, unit)
 
     p.timer = up.loop(tickrate, function ()
         local unit_point = unit:get_point()
-        player:set_camera(unit_point, 1)
+        player:set_camera(unit_point, 0.25)
 
         if attack_time > 0 then
             attack_time = attack_time - tickrate

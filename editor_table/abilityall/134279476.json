@@ -98,7 +98,7 @@
     "circle_radius": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "5.0"
         ]
     }, 
     "cold_down_time": {
@@ -215,6 +215,26 @@
                     "lambda unit: Fix32(10)", 
                     [], 
                     "lambda unit: Fix32(10)", 
+                    {}, 
+                    []
+                ]
+            }
+        }, 
+        "radius": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "radius", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 24, 
+            "value": {
+                "__tuple__": true, 
+                "items": [
+                    "lambda unit: Fix32(500)", 
+                    [], 
+                    "lambda unit: Fix32(500)", 
                     {}, 
                     []
                 ]

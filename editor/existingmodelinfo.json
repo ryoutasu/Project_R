@@ -7558,5 +7558,29 @@
    "Initial Camera", 
    32768
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   15, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   16, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   17, 
+   "Relic Crawler", 
+   4
+  ]
  }
 ]
