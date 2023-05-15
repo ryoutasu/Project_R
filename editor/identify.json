@@ -58,10 +58,10 @@
   "skill_list": 1361406603, 
   "hp_value": 1538198320, 
   "hp_recover": 1060696717, 
-  "main_hp_bar": 1923528856, 
+  "main_hp_bar": 1659903839, 
   "mp_value": 1825198111, 
   "mp_recover": 1419367012, 
-  "main_mp_bar": 1443338498, 
+  "main_mp_bar": 1422027923, 
   "equip_slot_1": 1420696710, 
   "equip_slot_bg_1": 1379686143, 
   "equip_slot_bg_2": 1308011624, 
@@ -169,7 +169,7 @@
   "layout_4": 1284612793, 
   "layout_3": 1955374672, 
   "layout_2": 1221017102, 
-  "layout_1": 1189886789, 
+  "layout_1": 1267634939, 
   "SceneUI": 1517707145, 
   "image_8": 1569136318, 
   "button_6": 1306180725, 
@@ -256,7 +256,8 @@
   "image_27": 1602861264, 
   "ui_view_draging_comp_1": 2017679065, 
   "chat_box_1": 1128511775, 
-  "ui_view_draging_comp_2": 1306434348
+  "ui_view_draging_comp_2": 1306434348, 
+  "main_panel": 2079243513
  }, 
  "tv1": {
   "UI_widget": 2023802187, 
