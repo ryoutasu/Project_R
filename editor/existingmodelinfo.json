@@ -7722,14 +7722,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    523, 
    "Moss stone", 
    16777216
@@ -7805,6 +7797,22 @@
    670, 
    "ZMOBA_Prop_Carpet_A_1", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   40, 
+   "Targets", 
+   4
   ]
  }
 ]

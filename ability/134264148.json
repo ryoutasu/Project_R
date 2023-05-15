@@ -47,6 +47,43 @@
                             "args_list": [
                                 [
                                     "FLOAT", 
+                                    "duration", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "duration"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_FORMULA_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1225216002000113, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
                                     "damage", 
                                     "local"
                                 ]
@@ -573,6 +610,54 @@
                         {}, 
                         {}
                     ]
+                }, 
+                {
+                    "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "duration", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 2
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "DELETE_TIMER", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100181, 
+                                            "args_list": [
+                                                [
+                                                    "NEW_TIMER", 
+                                                    "timer", 
+                                                    "actor"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1225216002000126, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1225216002000120, 
+                    "enable": true, 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ]
                 }
             ], 
             "comment_str": {}, 
@@ -591,59 +676,6 @@
             "script": "", 
             "trigger_id": 1225216002, 
             "trigger_name": "New Trigger_2", 
-            "valid": true
-        }, 
-        "1412415491": {
-            "action": [
-                {
-                    "action_type": "DELETE_TIMER", 
-                    "args_list": [
-                        {
-                            "arg_type": 100181, 
-                            "args_list": [
-                                [
-                                    "NEW_TIMER", 
-                                    "timer", 
-                                    "actor"
-                                ]
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1412415491000018, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "STOP_CUR_ANIMATION", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "ABILITY_OWNER"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1412415491000027, 
-                    "enable": true
-                }
-            ], 
-            "comment_str": {}, 
-            "condition": [], 
-            "enabled": true, 
-            "event": [
-                {
-                    "args_list": [], 
-                    "element_id": 1412415491000002, 
-                    "enable": true, 
-                    "event_type": "ABILITY_END"
-                }
-            ], 
-            "group_id": 134264148, 
-            "p_trigger_id": null, 
-            "script": "", 
-            "trigger_id": 1412415491, 
-            "trigger_name": "New Trigger_3", 
             "valid": true
         }, 
         "1879343105": {

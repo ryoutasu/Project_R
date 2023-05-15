@@ -23,7 +23,7 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 100.0, 
+    "attack_phy": 10.0, 
     "attack_phy_grow": 2.0, 
     "attack_range": 10.0, 
     "attack_range_grow": 0, 
@@ -128,6 +128,10 @@
         [
             134236860, 
             1
+        ], 
+        [
+            134273532, 
+            1
         ]
     ], 
     "hit_rate": 100.0, 
@@ -218,10 +222,10 @@
     "move_type": 40, 
     "mp_color": "Blue", 
     "mp_key": "MP", 
-    "mp_max": 600.0, 
-    "mp_max_grow": 50.0, 
-    "mp_rec": 10, 
-    "mp_rec_grow": 2, 
+    "mp_max": 100.0, 
+    "mp_max_grow": 0.0, 
+    "mp_rec": 0.0, 
+    "mp_rec_grow": 0.0, 
     "name": 1861471392, 
     "need_preview_billboard": true, 
     "ori_bits": 2, 

@@ -1,6 +1,6 @@
 {
     "_custom_": true, 
-    "_ref_": 134264148, 
+    "_ref_": 134273532, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -20,13 +20,13 @@
     "ability_cost": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "100.0"
         ]
     }, 
     "ability_damage": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "ability_damage_range": {
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 107014, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -126,7 +126,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "description": 124679257, 
+    "description": 318258080, 
     "end_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -158,13 +158,13 @@
     "is_charge_ability": false, 
     "is_immediate": false, 
     "is_meele": false, 
-    "key": 134264148, 
+    "key": 134273532, 
     "kv": {
-        "damage": {
+        "attack_speed": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "damage", 
+            "key": "attack_speed", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 0, 
@@ -180,62 +180,11 @@
                 ]
             }
         }, 
-        "damage_radius": {
+        "damage_bonus": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "damage_radius", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 2, 
-            "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit: Fix32(100)", 
-                    [], 
-                    "lambda unit: Fix32(100)", 
-                    {}, 
-                    []
-                ]
-            }
-        }, 
-        "duration": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "duration", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 4, 
-            "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit: Fix32(5)", 
-                    [], 
-                    "lambda unit: Fix32(5)", 
-                    {}, 
-                    []
-                ]
-            }
-        }, 
-        "period": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "period", 
-            "prop_cls": "PFloat", 
-            "remark": "", 
-            "sort": 3, 
-            "type": 1, 
-            "value": 0.1
-        }, 
-        "radius": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "radius", 
+            "key": "damage_bonus", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 1, 
@@ -243,9 +192,9 @@
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(800) ", 
+                    "lambda unit: Fix32(100)", 
                     [], 
-                    "lambda unit: Fix32(800) ", 
+                    "lambda unit: Fix32(100)", 
                     {}, 
                     []
                 ]
@@ -256,7 +205,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "name": 977158815, 
+    "name": 1729444257, 
     "need_turn_to_target": true, 
     "pick_count": 1, 
     "player_props_cost": {}, 
@@ -322,5 +271,5 @@
         "items": []
     }, 
     "target_attribute": 0, 
-    "uid": "134264148"
+    "uid": "134273532"
 }

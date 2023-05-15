@@ -1,0 +1,390 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1082429442": {
+            "action": [
+                {
+                    "action_type": "ADD_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BONUS"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "attack_speed"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        [
+                                            "FLOAT", 
+                                            "attack_speed", 
+                                            "actor"
+                                        ]
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000015, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ADD_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE_RATIO"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "attack_phy"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        -1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        [
+                                            "FLOAT", 
+                                            "damage_bunus", 
+                                            "actor"
+                                        ]
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000037, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1082429442000002, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 134241695, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1082429442, 
+            "trigger_name": "New Trigger_2", 
+            "valid": true
+        }, 
+        "1333714945": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "attack_speed", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100076, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                                        }
+                                    ], 
+                                    "sub_type": "RELATED_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "attack_speed"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_FORMULA_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000006, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "damage_bunus", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100076, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                                        }
+                                    ], 
+                                    "sub_type": "RELATED_ABILITY"
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "damage_bonus"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_FORMULA_KV"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000030, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ADD_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BONUS"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "attack_speed"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        [
+                                            "FLOAT", 
+                                            "attack_speed", 
+                                            "actor"
+                                        ]
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ADD_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE_RATIO"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "attack_phy"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        1.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        [
+                                            "FLOAT", 
+                                            "damage_bunus", 
+                                            "actor"
+                                        ]
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1333714945000037, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1333714945000002, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134241695, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1333714945, 
+            "trigger_name": "New Trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "FLOAT": {
+            "attack_speed": 0.0, 
+            "damage_bunus": 0.0
+        }
+    }, 
+    "variable_group_info": [
+        [
+            "attack_speed", 
+            "attack_speed"
+        ], 
+        [
+            "damage_bunus", 
+            "damage_bunus"
+        ]
+    ], 
+    "variable_length_dict": {
+        "attack_speed": 0, 
+        "damage_bunus": 0
+    }, 
+    "variable_type_dict": {
+        "attack_speed": false, 
+        "damage_bunus": false
+    }
+}
