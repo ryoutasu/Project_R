@@ -55,6 +55,17 @@
         "enable_ue4_csm": false, 
         "fix_sun_shadow_range": 20.0
     }, 
+    "sky_box": {
+        "sky_box_choose_list": {
+            "__tuple__": true, 
+            "items": [
+                100000, 
+                100001, 
+                100010
+            ]
+        }, 
+        "sky_box_type": 100010
+    }, 
     "terrain": {
         "terrain_version": 2, 
         "water_materials": [

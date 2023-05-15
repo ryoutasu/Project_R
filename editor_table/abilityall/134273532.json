@@ -7,8 +7,8 @@
             "50"
         ]
     }, 
-    "ability_bw_point": 0.5, 
-    "ability_cast_point": 0.2, 
+    "ability_bw_point": 0.0, 
+    "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 100508, 
+    "ability_icon": 120814, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 

@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 107014, 
+    "ability_icon": 120507, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -212,9 +212,9 @@
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(5)", 
+                    "lambda unit: Fix32(2)", 
                     [], 
-                    "lambda unit: Fix32(5)", 
+                    "lambda unit: Fix32(2)", 
                     {}, 
                     []
                 ]
@@ -229,7 +229,7 @@
             "remark": "", 
             "sort": 3, 
             "type": 1, 
-            "value": 0.1
+            "value": 0.15
         }, 
         "radius": {
             "annotation": "", 

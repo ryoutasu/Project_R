@@ -1,4 +1,5 @@
 {
+    "4": 2.0, 
     "_custom_": true, 
     "_ref_": 134241695, 
     "attach_model_list": {
@@ -10,7 +11,7 @@
     "disappear_when_dead": true, 
     "get_effect_list": [
         [
-            101254, 
+            102969, 
             {
                 "__tuple__": true, 
                 "items": [
@@ -35,7 +36,7 @@
                     1.0
                 ]
             }, 
-            1.0, 
+            0.4, 
             "origin", 
             true, 
             0
@@ -57,17 +58,14 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "material_alpha": 0, 
-    "material_change": 0, 
-    "material_color": {
-        "__tuple__": true, 
-        "items": [
-            255, 
-            255, 
-            255
-        ]
-    }, 
-    "material_color_intensity": 0, 
+    "material_alpha": 1.0, 
+    "material_change": 11, 
+    "material_color": [
+        196, 
+        22, 
+        0
+    ], 
+    "material_color_intensity": 4.0, 
     "modifier_cover_type": 3, 
     "modifier_effect": 2, 
     "modifier_icon": 100008, 
