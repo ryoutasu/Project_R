@@ -39925,36 +39925,6 @@
             "uid": "a06c0e95-daa5-4976-9d46-d3e9ebd1db0f"
         }, 
         {
-            "children": [], 
-            "comp_anims": [], 
-            "event_list": [], 
-            "image": 134230172, 
-            "name": "image_3", 
-            "pos": {
-                "__tuple__": true, 
-                "items": [
-                    960.0, 
-                    56.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
-                    50.0, 
-                    5.185185185185185
-                ]
-            }, 
-            "size": {
-                "__tuple__": true, 
-                "items": [
-                    675.6428527832031, 
-                    111.35711669921875
-                ]
-            }, 
-            "type": 4, 
-            "uid": "ddb25990-b044-4710-a254-5df9b9bf4e44"
-        }, 
-        {
             "children": [
                 {
                     "adapter_option": [
