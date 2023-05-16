@@ -7994,14 +7994,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    551, 
    "Brick", 
    16777216
@@ -8509,6 +8501,30 @@
    751, 
    "Brick", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   41, 
+   "Relic Believer", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   42, 
+   "Targets", 
+   4
   ]
  }
 ]

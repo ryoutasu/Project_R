@@ -72,15 +72,18 @@ local function create_projectile(player, attack_num, direction)
     local speed = GameAPI.get_projectile_key_float_kv(projectile:api_get_key(), 'speed')
     local distance = GameAPI.get_projectile_key_float_kv(projectile:api_get_key(), 'distance')
     local radius = GameAPI.get_projectile_key_float_kv(projectile:api_get_key(), 'collision_radius')
-    local damage = GameAPI.get_projectile_key_float_kv(projectile:api_get_key(), 'damage'):float()
+    local proj_damage = GameAPI.get_projectile_key_float_kv(projectile:api_get_key(), 'damage'):float()
+    local phy_damage = unit:get('attack_phy')
     local damage_effect = GameAPI.get_projectile_key_model_kv(projectile:api_get_key(), 'damage_effect')
     local finish_effect = GameAPI.get_projectile_key_model_kv(projectile:api_get_key(), 'finish_effect')
+    local mana_regen = GameAPI.get_unit_key_float_kv(unit:get_key(), 'mana_regen')
 
+    local damage = phy_damage * proj_damage
     local unit_collide = function()
         -- print('unit collide')
         local hit_target = up.actor_unit(GameAPI.get_mover_collide_unit())
-        unit:damage{ target = hit_target, damage = damage * unit:get('attack_phy') }
-        unit:add('mp_cur', 10)
+        unit:damage{ target = hit_target, damage = damage, type = 1 }
+        unit:add('mp_cur', mana_regen)
 
         if damage_effect then
             up.particle{ target = hit_target, model = damage_effect, time = -1}
