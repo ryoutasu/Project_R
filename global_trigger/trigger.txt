@@ -265,6 +265,20 @@
                 210653238, 
                 "on_unit_delete"
             ]
+        }, 
+        "39": {
+            "__tuple__": true, 
+            "items": [
+                798892089, 
+                "show_skill_tip"
+            ]
+        }, 
+        "40": {
+            "__tuple__": true, 
+            "items": [
+                1772101690, 
+                "hide_tip"
+            ]
         }
     }
 }

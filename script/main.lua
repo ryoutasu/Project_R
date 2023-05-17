@@ -47,6 +47,7 @@ up.game:event('Game-Init', function ()
         local point = up.actor_point(10039)
         local player = up.player(1)
         local hero = up.create_unit(134252905, point, 270, player)
+        -- GameAPI.set_trigger_variable_unit_entity('hero', hero._base)
         set_player_movement(player, hero)
 
         local main_panel = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel')
@@ -56,6 +57,7 @@ up.game:event('Game-Init', function ()
             if skill then
                 GameAPI.set_skill_on_ui_comp(player._base, skill._base, btn)
                 GameAPI.set_ui_comp_visible(player._base, true, btn)
+                -- GameAPI.set_role_key_float_kv(player._base, 'skill_btn_'..i, skill._base)
             else
                 GameAPI.unbind_ui_comp(player._base, btn)
                 GameAPI.set_ui_comp_visible(player._base, false, btn)

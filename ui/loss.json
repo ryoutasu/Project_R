@@ -30,15 +30,7 @@
         {
             "children": [], 
             "comp_anims": [], 
-            "event_list": [
-                {
-                    "action_list": [], 
-                    "enabled": true, 
-                    "name": "Defeat_Back_Hall", 
-                    "sound_id": null, 
-                    "type": 11
-                }
-            ], 
+            "event_list": [], 
             "name": "button_8", 
             "normal_picture": 100372, 
             "normal_text": {

@@ -6064,7 +6064,7 @@
             "script": "", 
             "trigger_id": 1039151122, 
             "trigger_name": "move tips to mouse position", 
-            "valid": true
+            "valid": false
         }, 
         "1270726670": {
             "action": [

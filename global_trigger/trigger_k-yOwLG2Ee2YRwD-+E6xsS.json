@@ -4524,7 +4524,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1496309785715182, 
-                    "enable": true
+                    "enable": false
                 }, 
                 651300900, 
                 1859280934, 
@@ -5090,6 +5090,164 @@
             "trigger_id": 1496309785, 
             "trigger_name": "Init UIEvent", 
             "valid": true
+        }, 
+        "1636982840": {
+            "action": [
+                {
+                    "action_type": "PICK_PLAYER_DO_ACTION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100027, 
+                            "args_list": [], 
+                            "sub_type": "ALL_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "ITER_UI_COMP_DO", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100025, 
+                                            "args_list": [], 
+                                            "sub_type": "PICKED_PLAYER"
+                                        }, 
+                                        {
+                                            "arg_type": 100070, 
+                                            "args_list": [
+                                                "1017edcc-0df7-45a1-92cb-74fc736a454f"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "CREATE_UI_COMP_EVENT_EX_EX", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100070, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100025, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "PICKED_PLAYER"
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100070, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "FOR_EACH_UI_COMP"
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "skill_btn.icon"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "sub_type": "GET_UI_COMP_BY_PATH"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100072, 
+                                                            "args_list": [
+                                                                24
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "show_skill_tip"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1496309785715215, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "action_type": "CREATE_UI_COMP_EVENT_EX_EX", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100070, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100025, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "PICKED_PLAYER"
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100070, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "FOR_EACH_UI_COMP"
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "skill_btn.icon"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "sub_type": "GET_UI_COMP_BY_PATH"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100072, 
+                                                            "args_list": [
+                                                                25
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "hide_tip"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1496309785715222, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1496309785715211, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1496309785715182, 
+                    "enable": true
+                }, 
+                798892089, 
+                1772101690
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1636982840000002, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": "k-yOwLG2Ee2YRwD-+E6xsS", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1636982840, 
+            "trigger_name": "Tips", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -5121,6 +5279,13 @@
                 "items": [
                     1496309785, 
                     "Init UIEvent"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1636982840, 
+                    "Tips"
                 ]
             }
         ], 

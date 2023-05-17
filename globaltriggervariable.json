@@ -338,6 +338,19 @@
                 "trig": false
             }
         }, 
+        "798892089": {
+            "variable_dict": {
+                "UI_COMP": {
+                    "parent": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "parent": 0
+            }, 
+            "variable_type_dict": {
+                "parent": false
+            }
+        }, 
         "828813355": {
             "variable_dict": {
                 "FLOAT": {
