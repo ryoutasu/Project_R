@@ -3,13 +3,78 @@
         "10039": [
             10039, 
             "SpawnPoint", 
-            322396848128, 
+            -363251138560, 
+            -295936, 
+            600101421056, 
+            true
+        ], 
+        "10202": [
+            10202, 
+            "Point", 
+            110074068992, 
             0, 
-            4794441728, 
+            -541862133760, 
+            true
+        ], 
+        "10203": [
+            10203, 
+            "Point", 
+            111601811456, 
+            0, 
+            -593258741760, 
+            true
+        ], 
+        "10204": [
+            10204, 
+            "Point", 
+            58367344640, 
+            0, 
+            -593279123456, 
+            true
+        ], 
+        "10205": [
+            10205, 
+            "Point", 
+            59769675776, 
+            0, 
+            -541199499264, 
             true
         ]
     }, 
-    "2048": {}, 
+    "2048": {
+        "10196": [
+            10196, 
+            "Rectangle", 
+            100336918528, 
+            -4096, 
+            -513365704704, 
+            33498783744, 
+            -10885529600, 
+            0, 
+            null, 
+            null
+        ], 
+        "10252": [
+            10252, 
+            "Rectangle", 
+            -480060879667, 
+            19004682240, 
+            47489755382, 
+            614824568422, 
+            615812410900, 
+            3, 
+            134249320, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    171, 
+                    221, 
+                    255, 
+                    1
+                ]
+            }
+        ]
+    }, 
     "4096": {}, 
     "8192": {}, 
     "32768": {
@@ -4730,6 +4795,355 @@
                 "use_lumens": true, 
                 "yaw": 0.5508306078862384
             }
+        ], 
+        "10195": [
+            10195, 
+            "Point Light", 
+            {
+                "absolute_height": 3.8999969959259033, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10025, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.6980392336845398, 
+                        0.3137255012989044, 
+                        0.0
+                    ]
+                }, 
+                "light_intensity": 1000.0, 
+                "light_range": 8.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        23.13184928894043, 
+                        3.8999969959259033, 
+                        -115.61500549316406
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": -0.15437978020238613
+            }
+        ], 
+        "10245": [
+            10245, 
+            "Point Light", 
+            {
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": null, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411764705882, 
+                        0.5137254901960784, 
+                        0.00392156862745098
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 6.0, 
+                "name": "Point Light", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0.2, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -32.892391204833984, 
+                        3.908327579498291, 
+                        113.62797546386719
+                    ]
+                }, 
+                "relative_height": 0.2, 
+                "roll": 0.0, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
+        ], 
+        "10246": [
+            10246, 
+            "Point Light", 
+            {
+                "absolute_height": 3.908327579498291, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10245, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411792755127, 
+                        0.5137255191802979, 
+                        0.003921568859368563
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 4.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -65.09902954101562, 
+                        3.908327579498291, 
+                        108.95458984375
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
+        ], 
+        "10247": [
+            10247, 
+            "Point Light", 
+            {
+                "absolute_height": 3.908327579498291, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10245, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411792755127, 
+                        0.5137255191802979, 
+                        0.003921568859368563
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 6.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -37.020015716552734, 
+                        3.5183279514312744, 
+                        98.69918060302734
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
+        ], 
+        "10249": [
+            10249, 
+            "Point Light", 
+            {
+                "absolute_height": 3.908327579498291, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10245, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411792755127, 
+                        0.5137255191802979, 
+                        0.003921568859368563
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 6.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -49.4608154296875, 
+                        5.7383294105529785, 
+                        78.88028717041016
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
+        ], 
+        "10250": [
+            10250, 
+            "Point Light", 
+            {
+                "absolute_height": 5.7383294105529785, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10249, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411792755127, 
+                        0.5137255191802979, 
+                        0.003921568859368563
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 6.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -32.73666763305664, 
+                        5.558327674865723, 
+                        64.15882873535156
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
+        ], 
+        "10251": [
+            10251, 
+            "Point Light", 
+            {
+                "absolute_height": 5.558327674865723, 
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": 10250, 
+                "group_key": 0, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9529411792755127, 
+                        0.5137255191802979, 
+                        0.003921568859368563
+                    ]
+                }, 
+                "light_intensity": 400.0, 
+                "light_range": 6.0, 
+                "name": "Point Light", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -13.008537292480469, 
+                        7.9683332443237305, 
+                        86.97523498535156
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 131072, 
+                "use_lumens": true, 
+                "yaw": 0.0
+            }
         ]
     }, 
     "262144": {}, 
@@ -5989,7 +6403,7 @@
                     "__tuple__": true, 
                     "items": [
                         75.66049194335938, 
-                        -6.109999656677246, 
+                        -2.6899988651275635, 
                         89.98089599609375
                     ]
                 }, 
@@ -6055,6 +6469,741 @@
                 "stick_to_ground": false, 
                 "type": 1048576, 
                 "yaw": 0.1377516794159785
+            }
+        ], 
+        "10194": [
+            10194, 
+            "Localized Fog", 
+            {
+                "absolute_height": -6.109999656677246, 
+                "delay_add_tree": true, 
+                "entity_id": 10141, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ]
+                }, 
+                "fog_density": 5.0, 
+                "fog_height": 5.0, 
+                "fog_speed": 1.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -6.646200000075623, 
+                        -3.1100000001024455, 
+                        -128.97479999996722
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        47.89, 
+                        3.79, 
+                        47.89
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.137706478824839
+            }
+        ], 
+        "10206": [
+            10206, 
+            "Localized Fog", 
+            {
+                "absolute_height": -6.109999656677246, 
+                "delay_add_tree": true, 
+                "entity_id": 10194, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ]
+                }, 
+                "fog_density": 5.0, 
+                "fog_height": 5.0, 
+                "fog_speed": 1.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        34.63724899291992, 
+                        -3.2999978065490723, 
+                        -123.7547836303711
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        47.885695846800104, 
+                        3.793722779223788, 
+                        47.885695846800104
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.1377516794159785
+            }
+        ], 
+        "10208": [
+            10208, 
+            "Localized Fog", 
+            {
+                "absolute_height": -3.109999895095825, 
+                "delay_add_tree": true, 
+                "entity_id": 10194, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ]
+                }, 
+                "fog_density": 5.0, 
+                "fog_height": 5.0, 
+                "fog_speed": 1.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -70.65264892578125, 
+                        -3.109999895095825, 
+                        -97.93548583984375
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        47.89, 
+                        3.79, 
+                        47.89
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.137706478824839
+            }
+        ], 
+        "10209": [
+            10209, 
+            "Localized Fog", 
+            {
+                "delay_add_tree": true, 
+                "density": 0.6, 
+                "entity_id": null, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_speed": 7.0, 
+                "name": "Localized Fog", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        3.5, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -46.234256744384766, 
+                        0.09019999951124191, 
+                        69.25922393798828
+                    ]
+                }, 
+                "relative_height": 3.5, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        21.13, 
+                        5.08, 
+                        21.13
+                    ]
+                }, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10230": [
+            10230, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10209, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -20.175634384155273, 
+                        0.09019999951124191, 
+                        47.0850944519043
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10232": [
+            10232, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -48.10820007324219, 
+                        0.09019999951124191, 
+                        42.57103729248047
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10234": [
+            10234, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -71.65564727783203, 
+                        0.09019999951124191, 
+                        79.03433227539062
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10235": [
+            10235, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -66.96711730957031, 
+                        0.09019999951124191, 
+                        54.864566802978516
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10236": [
+            10236, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -11.594504356384277, 
+                        0.09019999951124191, 
+                        113.71142578125
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10237": [
+            10237, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -32.61968994140625, 
+                        0.09019999951124191, 
+                        135.9418182373047
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10238": [
+            10238, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -54.35580825805664, 
+                        0.09019999951124191, 
+                        128.132080078125
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10241": [
+            10241, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -32.724063873291016, 
+                        0.09019999951124191, 
+                        98.60520935058594
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10242": [
+            10242, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        9.114442825317383, 
+                        0.09019999951124191, 
+                        100.34809112548828
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10243": [
+            10243, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        23.865406036376953, 
+                        0.09019999951124191, 
+                        75.31290435791016
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
+            }
+        ], 
+        "10244": [
+            10244, 
+            "Localized Fog", 
+            {
+                "absolute_height": 0.09019999951124191, 
+                "delay_add_tree": true, 
+                "entity_id": 10230, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.2235294117647059, 
+                        0.984313725490196, 
+                        0.6823529411764706
+                    ]
+                }, 
+                "fog_density": 0.08, 
+                "fog_height": 5.0, 
+                "fog_speed": 7.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        16.04072380065918, 
+                        0.09019999951124191, 
+                        55.54425811767578
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        26.088269919396463, 
+                        5.08, 
+                        27.015924086107383
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": 0.0
             }
         ]
     }, 

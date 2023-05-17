@@ -68,7 +68,7 @@
     "same_origin_cover": true, 
     "shield_change_of_cover": 2, 
     "shield_type": 2, 
-    "shield_value": 100.0, 
+    "shield_value": 600, 
     "show_on_ui": true, 
     "sound_event_list": {
         "__tuple__": true, 

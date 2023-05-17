@@ -20,6 +20,9 @@
         }, 
         "height_fog_end": 22.0
     }, 
+    "fog_war": {
+        "fog_war_put_gray_noise_enable": true
+    }, 
     "post_style": {
         "post_style_shader_params": {
             "1": {

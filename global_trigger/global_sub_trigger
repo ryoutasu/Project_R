@@ -9022,6 +9022,235 @@
         "trigger_name": "sell_item", 
         "valid": true
     }, 
+    "1743667255": {
+        "action": [
+            {
+                "action_type": "NEW_CAMERA_SHAKE", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            0.2
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            2.0
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            1.0
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100218, 
+                        "args_list": [
+                            4
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1743667255000024, 
+                "enable": true
+            }, 
+            {
+                "action_type": "CREATE_SFX_ON_POINT", 
+                "args_list": [
+                    {
+                        "arg_type": 100066, 
+                        "args_list": [
+                            102538
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10202
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1743667255000032, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "CREATE_SFX_ON_POINT", 
+                "args_list": [
+                    {
+                        "arg_type": 100066, 
+                        "args_list": [
+                            102538
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10203
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1743667255000036, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "CREATE_SFX_ON_POINT", 
+                "args_list": [
+                    {
+                        "arg_type": 100066, 
+                        "args_list": [
+                            102538
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10204
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1743667255000040, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "CREATE_SFX_ON_POINT", 
+                "args_list": [
+                    {
+                        "arg_type": 100066, 
+                        "args_list": [
+                            102538
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10205
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1743667255000044, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }
+        ], 
+        "comment_str": {}, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100009, 
+                        "args_list": [
+                            10196
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1743667255000005, 
+                "enable": true, 
+                "event_type": "UNIT_ANY_REGION_EVENT"
+            }, 
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            15.0
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1743667255000012, 
+                "enable": true, 
+                "event_type": "GAME_ELAPSE_REPEAT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "script": "", 
+        "trigger_id": 1743667255, 
+        "trigger_name": "BossFight", 
+        "valid": true
+    }, 
     "1743675404": {
         "action": [
             {
@@ -9502,7 +9731,7 @@
                     {
                         "arg_type": 100084, 
                         "args_list": [
-                            134225740
+                            134249320
                         ], 
                         "sub_type": 1
                     }, 
@@ -9536,6 +9765,27 @@
                 "element_id": 1875570739000038, 
                 "enable": true, 
                 "event_type": "INIT_FINISHED"
+            }, 
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100044, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100009, 
+                        "args_list": [
+                            10252
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1875570739000064, 
+                "enable": true, 
+                "event_type": "UNIT_ANY_REGION_EVENT"
             }
         ], 
         "group_id": 0, 

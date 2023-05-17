@@ -65,7 +65,8 @@
         22, 
         0
     ], 
-    "material_color_intensity": 4.0, 
+    "material_color_intensity": 3.0, 
+    "model": 3123, 
     "modifier_cover_type": 3, 
     "modifier_effect": 2, 
     "modifier_icon": 100008, 

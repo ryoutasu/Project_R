@@ -6,7 +6,14 @@
             "comment_str": {}, 
             "condition": [], 
             "enabled": true, 
-            "event": [], 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2119835649000003, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
             "group_id": 134252208, 
             "p_trigger_id": null, 
             "script": "", 
