@@ -41,7 +41,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                83, 
+                                51, 
                                 4020174848
                             ], 
                             [
@@ -116,7 +116,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                88, 
+                                56, 
                                 277807104
                             ], 
                             [
@@ -191,7 +191,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                88, 
+                                56, 
                                 1549139968
                             ], 
                             [
@@ -266,7 +266,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                21, 
+                                -11, 
                                 3995369472
                             ], 
                             [
@@ -341,7 +341,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                16, 
+                                -16, 
                                 896573440
                             ], 
                             [
@@ -375,274 +375,6 @@
             "type": 4, 
             "unit_id": 17
         }, 
-        "18": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                83, 
-                                1073741824
-                            ], 
-                            [
-                                2, 
-                                0
-                            ], 
-                            [
-                                -64, 
-                                1073741824
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 134228544, 
-            "name": "Pillar Wood", 
-            "type": 2, 
-            "unit_id": 18
-        }, 
-        "19": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                77, 
-                                3221225472
-                            ], 
-                            [
-                                2, 
-                                0
-                            ], 
-                            [
-                                -69, 
-                                1073741824
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 134228544, 
-            "name": "Pillar Wood", 
-            "type": 2, 
-            "unit_id": 19
-        }, 
-        "22": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                77, 
-                                1073741824
-                            ], 
-                            [
-                                2, 
-                                0
-                            ], 
-                            [
-                                -78, 
-                                3221225472
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 134228544, 
-            "name": "Pillar Wood", 
-            "type": 2, 
-            "unit_id": 22
-        }, 
-        "24": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                82, 
-                                1073741824
-                            ], 
-                            [
-                                2, 
-                                0
-                            ], 
-                            [
-                                -84, 
-                                1073741824
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 134228544, 
-            "name": "Pillar Wood", 
-            "type": 2, 
-            "unit_id": 24
-        }, 
         "40": {
             "components": {
                 "__attr": {}, 
@@ -671,7 +403,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                70, 
+                                38, 
                                 3748233216
                             ], 
                             [
@@ -742,7 +474,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                20, 
+                                -12, 
                                 1611227136
                             ], 
                             [
@@ -804,7 +536,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                73, 
+                                41, 
                                 1346306048
                             ], 
                             [
@@ -875,7 +607,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                5, 
+                                -27, 
                                 4271513600
                             ], 
                             [
@@ -946,7 +678,7 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                5, 
+                                -27, 
                                 4166975488
                             ], 
                             [
