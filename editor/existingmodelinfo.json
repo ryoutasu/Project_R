@@ -2738,46 +2738,6 @@
  {
   "__tuple__": true, 
   "items": [
-   52, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   125, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   126, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   141, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   143, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    145, 
    "Brick", 
    16777216
@@ -4674,70 +4634,6 @@
  {
   "__tuple__": true, 
   "items": [
-   487, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   492, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   493, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   497, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   498, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   501, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   502, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   503, 
-   "Carpet", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    514, 
    "Pillar", 
    16777216
@@ -4748,70 +4644,6 @@
   "items": [
    515, 
    "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   460, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   476, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   504, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   506, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   507, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   516, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   517, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   518, 
-   "Massif", 
    16777216
   ]
  }, 
@@ -6498,14 +6330,6 @@
  {
   "__tuple__": true, 
   "items": [
-   625, 
-   "ZMOBA_Prop_Carpet_A_3", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    63, 
    "Template", 
    16384
@@ -7485,14 +7309,6 @@
    670, 
    "ZMOBA_Prop_Carpet_A_1", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   40, 
-   "Targets", 
-   4
   ]
  }, 
  {
@@ -10668,62 +10484,6 @@
   "items": [
    864, 
    "9vm_vampire_retainingwall01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   757, 
-   "9vm_vampire_curb_long01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   794, 
-   "9vm_vampire_curb_long01_broken01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   806, 
-   "9vm_vampire_curb_45curve01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   755, 
-   "9vm_vampire_curb01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   871, 
-   "9vm_vampire_curb_45curve01_broken01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   878, 
-   "9vm_vampire_curb01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   879, 
-   "9vm_vampire_curb_long01_broken01", 
    16777216
   ]
  }, 
@@ -14525,6 +14285,174 @@
    9999, 
    "Initial Camera", 
    32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1420, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1421, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1422, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1423, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1424, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1425, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1426, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1427, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1428, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1429, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1430, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1431, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1432, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1433, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1434, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1435, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1436, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1437, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1438, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1451, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1452, 
+   "Door", 
+   16777216
   ]
  }
 ]
