@@ -75,7 +75,19 @@
             }
         ]
     }, 
-    "4096": {}, 
+    "4096": {
+        "10333": [
+            10333, 
+            "DUNGEON ENTRY [START]", 
+            -119570423808, 
+            21300891648, 
+            197452513280, 
+            12857726464, 
+            0, 
+            null, 
+            null
+        ]
+    }, 
     "8192": {}, 
     "32768": {
         "9999": {
@@ -5546,7 +5558,53 @@
             }
         ]
     }, 
-    "262144": {}, 
+    "262144": {
+        "10330": [
+            10330, 
+            "Spot Light", 
+            {
+                "auto_on_terrain": false, 
+                "delay_add_tree": true, 
+                "entity_id": null, 
+                "light_cast_shadow": true, 
+                "light_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.30196078431372547, 
+                        0.8156862745098039, 
+                        0.611764705882353
+                    ]
+                }, 
+                "light_inner_angle": 60.0, 
+                "light_intensity": 2105.34, 
+                "light_out_angle": 64.0, 
+                "light_range": 11.956600000000002, 
+                "name": "Spot Light", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0.2, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.7853981633974483, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -27.37873077392578, 
+                        8.093382835388184, 
+                        45.69607925415039
+                    ]
+                }, 
+                "relative_height": 0.2, 
+                "roll": 0.7853981633974483, 
+                "type": 262144, 
+                "use_lumens": true, 
+                "yaw": -3.0238867206140494
+            }
+        ]
+    }, 
     "1048576": {
         "10000": [
             10000, 
@@ -8094,6 +8152,153 @@
                 "stick_to_ground": false, 
                 "type": 1048576, 
                 "yaw": 4.23102719639428
+            }
+        ], 
+        "10325": [
+            10325, 
+            "Localized Fog", 
+            {
+                "delay_add_tree": true, 
+                "density": 0.6, 
+                "entity_id": null, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "fog_density": 0.6, 
+                "fog_speed": 1.0, 
+                "name": "Localized Fog", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        3.5, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        50.984771728515625, 
+                        -1.73703134059906, 
+                        134.8975830078125
+                    ]
+                }, 
+                "relative_height": 3.5, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        10.0, 
+                        3.33, 
+                        10.0
+                    ]
+                }, 
+                "type": 1048576, 
+                "yaw": -2.278225063708086
+            }
+        ], 
+        "10328": [
+            10328, 
+            "Localized Fog", 
+            {
+                "absolute_height": -1.73703134059906, 
+                "delay_add_tree": true, 
+                "entity_id": 10325, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "fog_density": 0.6, 
+                "fog_height": 5.0, 
+                "fog_speed": 1.0, 
+                "group_key": 0, 
+                "name": "Localized Fog", 
+                "offset": [
+                    0.0, 
+                    0, 
+                    0.0
+                ], 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        50.90385055541992, 
+                        -1.4070316553115845, 
+                        121.11933898925781
+                    ]
+                }, 
+                "relative_height": 0, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        10.0, 
+                        3.33, 
+                        10.0
+                    ]
+                }, 
+                "stick_to_ground": false, 
+                "type": 1048576, 
+                "yaw": -2.278225063708086
+            }
+        ], 
+        "10329": [
+            10329, 
+            "Localized Fog", 
+            {
+                "delay_add_tree": true, 
+                "density": 0.6, 
+                "entity_id": null, 
+                "fog_color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.30196078431372547, 
+                        0.8156862745098039, 
+                        0.611764705882353
+                    ]
+                }, 
+                "fog_density": 0.3, 
+                "fog_speed": 7.0, 
+                "name": "Localized Fog", 
+                "offset": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        3.5, 
+                        0
+                    ]
+                }, 
+                "pitch": 0.0, 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        -30.119001388549805, 
+                        8.458298683166504, 
+                        48.4107780456543
+                    ]
+                }, 
+                "relative_height": 3.5, 
+                "roll": 0.0, 
+                "scale": {
+                    "__tuple__": true, 
+                    "items": [
+                        2.59, 
+                        4.77, 
+                        7.9
+                    ]
+                }, 
+                "type": 1048576, 
+                "yaw": 5.497787174535915
             }
         ]
     }, 

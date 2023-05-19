@@ -122,14 +122,6 @@
  {
   "__tuple__": true, 
   "items": [
-   213, 
-   "Door", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    218, 
    "Brick", 
    16777216
@@ -9994,54 +9986,6 @@
  {
   "__tuple__": true, 
   "items": [
-   240, 
-   "9vm_vampire_stonewalllarge02_destroyed", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   523, 
-   "9vm_vampire_stonewalllarge01_destroyed", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   525, 
-   "9vm_vampire_stonewalllarge02_destroyed", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   586, 
-   "9vm_vampire_retainingwall01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   659, 
-   "9vm_vampire_retainingwall01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   660, 
-   "9vm_vampire_retainingwall01", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    667, 
    "Flame_Smoke_Orange", 
    33554432
@@ -14282,14 +14226,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    1420, 
    "Brick", 
    16777216
@@ -14453,6 +14389,918 @@
    1452, 
    "Door", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   52, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   125, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   126, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   141, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   143, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   460, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   476, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   487, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   492, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   175, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   176, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   177, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   178, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   179, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   180, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   181, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   182, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   183, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   184, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   185, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   187, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   188, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   189, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   190, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   191, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   192, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   193, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   194, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   195, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   196, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   498, 
+   "Chandelier", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   197, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   198, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   199, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   200, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   201, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   202, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   203, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   204, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   205, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   206, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   207, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   208, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   209, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   210, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   211, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   501, 
+   "Foundation", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   502, 
+   "Foundation", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10325, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10328, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   213, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   214, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   215, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   216, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   217, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   218, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   219, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   220, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   240, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   186, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   212, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   493, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   504, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   506, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   507, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   516, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   517, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   518, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   523, 
+   "Floor", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   525, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   586, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   625, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   659, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   755, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   757, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   794, 
+   "Foundation", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   806, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   871, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   878, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   879, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1439, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1440, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1445, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1446, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1454, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1457, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1460, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   213, 
+   "Foundation", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   497, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   503, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   660, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1461, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1463, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1466, 
+   "Stone carving", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1467, 
+   "Stone carving", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10329, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10330, 
+   "Spot Light", 
+   262144
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10333, 
+   "DUNGEON ENTRY [START]", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   18, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   19, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   20, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   21, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   22, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   23, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   24, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   25, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   26, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   27, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   28, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   29, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   30, 
+   "Relic Crawler", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   31, 
+   "Relic Crawler", 
+   4
   ]
  }
 ]
