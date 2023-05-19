@@ -1,14 +1,14 @@
 {
     "bloom": {
         "bloom_decay": 0.3, 
-        "bloom_open": true, 
+        "bloom_open": false, 
         "bloom_strength": 0.3
     }, 
     "color_grading": {
-        "color_grading_type": 8
+        "color_grading_type": 1
     }, 
     "fog": {
-        "height_fog": true, 
+        "height_fog": false, 
         "height_fog_color": {
             "__tuple__": true, 
             "items": [
@@ -118,7 +118,7 @@
         ]
     }, 
     "vignetting": {
-        "vignetting_open": true, 
-        "vignetting_size": 0.5
+        "vignetting_open": false, 
+        "vignetting_size": 0.4
     }
 }

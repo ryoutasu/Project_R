@@ -175,6 +175,10 @@
         "key": -96884384, 
         "value": "Create New Projectile"
     }, 
+    "1338758": {
+        "key": 1338758, 
+        "value": "wallStandardLong"
+    }, 
     "4394890": {
         "key": 4394890, 
         "value": "Create New Projectile"
@@ -334,6 +338,10 @@
     "1748776479": {
         "key": 1748776479, 
         "value": "Template"
+    }, 
+    "1768283002": {
+        "key": 1768283002, 
+        "value": "wallALPHA"
     }, 
     "1789848371": {
         "key": 1789848371, 
