@@ -5304,7 +5304,7 @@
         "script": "", 
         "trigger_id": 790257733, 
         "trigger_name": "Start dungeon", 
-        "valid": false
+        "valid": true
     }, 
     "798892089": {
         "action": [

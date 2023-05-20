@@ -37,21 +37,21 @@
                                 {
                                     "arg_type": 100004, 
                                     "args_list": [
-                                        10387
+                                        10366
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100023, 
                                     "args_list": [
-                                        10388
+                                        10367
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100004, 
                                     "args_list": [
-                                        10389
+                                        10368
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -100,7 +100,7 @@
             "script": "", 
             "trigger_id": 152723527, 
             "trigger_name": "Boss rooms", 
-            "valid": false
+            "valid": true
         }, 
         "857366595": {
             "action": [
@@ -123,7 +123,7 @@
             "script": "", 
             "trigger_id": 857366595, 
             "trigger_name": "Init", 
-            "valid": false
+            "valid": true
         }, 
         "1209688134": {
             "action": [
@@ -159,7 +159,7 @@
                         {
                             "arg_type": 100009, 
                             "args_list": [
-                                10383
+                                10360
                             ], 
                             "sub_type": 1
                         }, 
@@ -181,7 +181,7 @@
                         {
                             "arg_type": 100009, 
                             "args_list": [
-                                10384
+                                10361
                             ], 
                             "sub_type": 1
                         }, 
@@ -203,7 +203,7 @@
                         {
                             "arg_type": 100009, 
                             "args_list": [
-                                10385
+                                10362
                             ], 
                             "sub_type": 1
                         }, 
@@ -220,6 +220,28 @@
                     "enable": true
                 }, 
                 {
+                    "action_type": "ADD_AREA_TAG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                10363
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "room 1"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1209688134000008, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "CALL_TRIGGER_FUNC", 
                     "args_list": [
                         {
@@ -228,21 +250,21 @@
                                 {
                                     "arg_type": 100004, 
                                     "args_list": [
-                                        10376
+                                        10359
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100023, 
                                     "args_list": [
-                                        10377
+                                        10364
                                     ], 
                                     "sub_type": 1
                                 }, 
                                 {
                                     "arg_type": 100023, 
                                     "args_list": [
-                                        10378
+                                        10365
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -288,7 +310,7 @@
             "script": "", 
             "trigger_id": 1209688134, 
             "trigger_name": "Normal rooms", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {

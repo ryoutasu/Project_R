@@ -16882,14 +16882,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10357, 
    "Starting zone spawn", 
    1024
@@ -16972,6 +16964,30 @@
   "items": [
    10366, 
    "Boss room 1 hero spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10367, 
+   "Boss room 1 exit", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10368, 
+   "Boss room 1 boss spawn", 
    1024
   ]
  }
