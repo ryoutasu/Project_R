@@ -259,7 +259,6 @@
   "ui_view_draging_comp_2": 1306434348, 
   "main_panel": 2079243513, 
   "image_3": 1698885115, 
-  "image_4": 1873257056, 
   "image_5": 1919064304, 
   "image_6": 1185095026, 
   "desc": 1011527011, 
@@ -268,7 +267,8 @@
   "art_left": 1390944796, 
   "dash_cd": 2130621258, 
   "enemies_count": 1412899050, 
-  "boss_health": 2130680144
+  "boss_health": 2130680144, 
+  "Tooltip_MoveAttack": 1721138924
  }, 
  "tv1": {
   "UI_widget": 2023802187, 
@@ -284,5 +284,8 @@
  "tv4": {
   "attack_speed": 1941371019, 
   "damage_bunus": 2001718722
+ }, 
+ "ui_anim": {
+  "AnimFade": 2030624702
  }
 }

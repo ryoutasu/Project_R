@@ -42648,22 +42648,63 @@
                     8
                 ]
             }, 
-            "children": [], 
+            "bold": true, 
+            "children": [
+                {
+                    "children": [], 
+                    "comp_anims": [], 
+                    "event_list": [], 
+                    "image": 134258600, 
+                    "name": "image_3", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            122.0, 
+                            50.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            49.96760233263205, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            512.0, 
+                            93.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "f7f03033-7fa4-4aaa-ba93-c806487b84f5"
+                }
+            ], 
             "comp_anims": [], 
             "event_list": [], 
+            "label_effect": {
+                "__tuple__": true, 
+                "items": [
+                    true, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
             "name": "enemies_count", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    981.0
+                    1037.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
                     50.0, 
-                    90.83333333333333
+                    96.01851851851852
                 ]
             }, 
             "size": {
@@ -42681,8 +42722,7 @@
                 ]
             }, 
             "type": 3, 
-            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425", 
-            "visible": false
+            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425"
         }, 
         {
             "adapter_option": [
@@ -42703,10 +42743,10 @@
                         true, 
                         true, 
                         true, 
-                        0.0, 
-                        0.0, 
-                        0.0, 
-                        0.0
+                        37.41666603088379, 
+                        -37.41666603088379, 
+                        -0.453521728515625, 
+                        0.453521728515625
                     ], 
                     "alignment": {
                         "__tuple__": true, 
@@ -42730,15 +42770,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            296.4535217285156, 
-                            18.41666603088379
+                            296.0, 
+                            -19.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.000002144629285, 
-                            49.999998273892636
+                            49.92351093863449, 
+                            -51.58371040723981
                         ]
                     }, 
                     "size": {
@@ -42755,7 +42795,7 @@
             ], 
             "comp_anims": [], 
             "event_list": [], 
-            "image": 134242510, 
+            "image": 120093, 
             "name": "boss_health", 
             "open_adapter": true, 
             "pos": {
@@ -42789,6 +42829,92 @@
             "type": 5, 
             "uid": "2f79906d-6147-482b-877d-cdb80e797db6", 
             "visible": false
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [
+                1
+            ], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 7, 
+                            "comp": "e19f4d5e-5b60-4ab8-9663-af7999008f64", 
+                            "ease_type": 0, 
+                            "name": "Anim_2", 
+                            "open_timeline": true, 
+                            "type": 1
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "Tooltip_MoveAttack_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "image": 134225751, 
+            "name": "Tooltip_MoveAttack", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    512.0, 
+                    176.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "e19f4d5e-5b60-4ab8-9663-af7999008f64"
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 7, 
+                            "comp": "a6dfee2b-b20c-4bde-a1f8-024a45d57af9", 
+                            "ease_type": 0, 
+                            "name": "Anim_1", 
+                            "open_timeline": true, 
+                            "type": 1
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "image_5_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "image": 134275214, 
+            "name": "image_5", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    512.0, 
+                    176.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "a6dfee2b-b20c-4bde-a1f8-024a45d57af9"
         }
     ], 
     "editor_visible": false, 

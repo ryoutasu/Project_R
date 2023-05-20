@@ -12725,6 +12725,326 @@
                                 "bp": false, 
                                 "element_id": 1863999550000005, 
                                 "enable": true
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100700
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10390
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000013, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100700
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10396
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000045, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100700
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10391
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000021, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100700
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10394
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000041, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100701
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10390
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000025, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100701
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10396
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000049, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100701
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10391
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000017, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
+                            }, 
+                            {
+                                "action_type": "CREATE_SFX_ON_POINT", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100066, 
+                                        "args_list": [
+                                            100701
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            10394
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1863999550000037, 
+                                "enable": true, 
+                                "op_arg": [
+                                    null, 
+                                    null, 
+                                    null, 
+                                    {
+                                        "arg_type": 100000, 
+                                        "args_list": [
+                                            20.0
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "op_arg_enable": [
+                                    false, 
+                                    false, 
+                                    false, 
+                                    true
+                                ]
                             }
                         ], 
                         "sub_type": 1
@@ -13027,6 +13347,65 @@
                     false, 
                     false
                 ]
+            }, 
+            {
+                "action_type": "UPDATE_GLOBAL_WEATHER", 
+                "args_list": [
+                    {
+                        "arg_type": 100215, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1875570739000069, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_PLAYER_VIGNETTING_ENABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1875570739000177, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_PLAYER_VIGNETTING_STRENGTH", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            0.3
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1875570739000182, 
+                "enable": true
             }
         ], 
         "comment_str": {}, 
@@ -13038,27 +13417,6 @@
                 "element_id": 1875570739000038, 
                 "enable": true, 
                 "event_type": "INIT_FINISHED"
-            }, 
-            {
-                "args_list": [
-                    {
-                        "arg_type": 100044, 
-                        "args_list": [
-                            1
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100009, 
-                        "args_list": [
-                            10252
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "element_id": 1875570739000064, 
-                "enable": true, 
-                "event_type": "UNIT_ANY_REGION_EVENT"
             }
         ], 
         "group_id": 0, 

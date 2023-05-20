@@ -4754,30 +4754,6 @@
  {
   "__tuple__": true, 
   "items": [
-   1, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   3, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   14, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10143, 
    "Point Light", 
    131072
@@ -6490,14 +6466,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10154, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    566, 
    "Wall", 
    16777216
@@ -6517,14 +6485,6 @@
    10155, 
    "Localized Fog", 
    1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10156, 
-   "Point Light", 
-   131072
   ]
  }, 
  {
@@ -7002,14 +6962,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10157, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10159, 
    "Localized Fog", 
    1048576
@@ -7234,14 +7186,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10169, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10175, 
    "Localized Fog", 
    1048576
@@ -7261,14 +7205,6 @@
    10177, 
    "Localized Fog", 
    1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10178, 
-   "Point Light", 
-   131072
   ]
  }, 
  {
@@ -7845,38 +7781,6 @@
    10196, 
    "Rectangle", 
    2048
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10202, 
-   "Point", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10203, 
-   "Point", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10204, 
-   "Point", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10205, 
-   "Point", 
-   1024
   ]
  }, 
  {
@@ -14810,30 +14714,6 @@
  {
   "__tuple__": true, 
   "items": [
-   18, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   19, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   20, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    21, 
    "Relic Crawler", 
    4
@@ -14843,70 +14723,6 @@
   "__tuple__": true, 
   "items": [
    22, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   23, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   24, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   25, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   26, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   27, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   28, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   29, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   30, 
    "Relic Crawler", 
    4
   ]
@@ -16626,30 +16442,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10347, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10348, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10351, 
-   "Point Light", 
-   131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    1628, 
    "Door", 
    16777216
@@ -16661,14 +16453,6 @@
    1629, 
    "Door", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10353, 
-   "Point Light", 
-   131072
   ]
  }, 
  {
@@ -16899,7 +16683,7 @@
   "__tuple__": true, 
   "items": [
    10359, 
-   "Room 1 hero spawn", 
+   "[ROOM_1] Hero Spawn", 
    1024
   ]
  }, 
@@ -16939,7 +16723,7 @@
   "__tuple__": true, 
   "items": [
    10364, 
-   "Room 1 exit 1", 
+   "[ROOM_1] Exit 1 ", 
    4096
   ]
  }, 
@@ -16947,7 +16731,7 @@
   "__tuple__": true, 
   "items": [
    10365, 
-   "Room 1 exit 2", 
+   "[ROOM_1] Exit 2", 
    4096
   ]
  }, 
@@ -16986,9 +16770,257 @@
  {
   "__tuple__": true, 
   "items": [
+   10370, 
+   "Room 2 3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10371, 
+   "Room 2 2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10372, 
+   "Room 2 1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10374, 
+   "Room 3 1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10376, 
+   "Room 3 2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10377, 
+   "Room 3 3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10378, 
+   "Room 4 2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10379, 
+   "Room 4 1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10380, 
+   "Room 4 3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10381, 
+   "Room 5 1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10382, 
+   "Room 5 3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10383, 
+   "Room 5 2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10384, 
+   "[ROOM_5] Exit 1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10385, 
+   "[ROOM_5] Exit 2", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10387, 
+   "[ROOM_3] Exit 1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10388, 
+   "[ROOM_3] Exit 2", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10389, 
+   "[ROOM_3] Exit 2 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10390, 
+   "[ROOM_1] exit 1 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10391, 
+   "[ROOM_2] Exit 2 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10392, 
+   "[ROOM_2] Exit 2", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10393, 
+   "[ROOM_2] Exit 1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10394, 
+   "[ROOM_2] Exit 1 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10395, 
+   "[ROOM_2] Hero Spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10396, 
+   "[ROOM_1] Exit 2 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10397, 
+   "[ROOM_3] Hero Spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10399, 
+   "[ROOM_3] Exit 1 [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10400, 
+   "[ROOM_4] Exit 1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10402, 
+   "Circle", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10403, 
+   "[ROOM_4] Hero Spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10404, 
+   "[ROOM_4] Exit [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "Initial Camera", 
    32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10405, 
+   "[ROOM_5] Hero Spawn", 
+   1024
   ]
  }
 ]

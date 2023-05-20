@@ -8,12 +8,12 @@
     "disappear_when_dead": true, 
     "get_effect_list": [
         [
-            100389, 
+            101390, 
             {
                 "__tuple__": true, 
                 "items": [
                     0.0, 
-                    1.0725, 
+                    0.0, 
                     0.0
                 ]
             }, 
@@ -37,6 +37,37 @@
             "origin", 
             true, 
             0
+        ], 
+        [
+            102163, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    1.0024, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.7, 
+                    1.0, 
+                    0.7
+                ]
+            }, 
+            1.0, 
+            "origin", 
+            true, 
+            2
         ]
     ], 
     "halo_effect": 0, 
@@ -52,12 +83,12 @@
     "layer_change_of_cover": 1, 
     "layer_max": 1, 
     "lose_effect_list": [], 
-    "material_alpha": 0.2, 
+    "material_alpha": 1.0, 
     "material_change": 10, 
     "material_color": [
-        79, 
-        115, 
-        140
+        0, 
+        75, 
+        103
     ], 
     "material_color_intensity": 1.0, 
     "modifier_cover_type": 3, 
