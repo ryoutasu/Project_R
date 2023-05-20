@@ -253,6 +253,59 @@
                 "unit": false
             }
         }, 
+        "653217856": {
+            "variable_dict": {
+                "INTEGER": {
+                    "enemies_count": 0, 
+                    "i": 0, 
+                    "r": 0, 
+                    "room_passed": 0
+                }, 
+                "RECTANGLE": {
+                    "rect": 0
+                }, 
+                "ROUND_AREA": {
+                    "exit_1": 0, 
+                    "exit_2": 0
+                }, 
+                "TABLE": {
+                    "room": null, 
+                    "spawns": null
+                }, 
+                "UNIT_ENTITY": {
+                    "enemy": 0
+                }, 
+                "UNIT_GROUP": {
+                    "enemies": []
+                }
+            }, 
+            "variable_length_dict": {
+                "enemies": 0, 
+                "enemies_count": 0, 
+                "enemy": 0, 
+                "exit_1": 0, 
+                "exit_2": 0, 
+                "i": 0, 
+                "r": 0, 
+                "rect": 0, 
+                "room": 0, 
+                "room_passed": 0, 
+                "spawns": 0
+            }, 
+            "variable_type_dict": {
+                "enemies": false, 
+                "enemies_count": false, 
+                "enemy": false, 
+                "exit_1": false, 
+                "exit_2": false, 
+                "i": false, 
+                "r": false, 
+                "rect": false, 
+                "room": false, 
+                "room_passed": false, 
+                "spawns": false
+            }
+        }, 
         "671428624": {
             "variable_dict": {
                 "DYNAMIC_TRIGGER_INSTANCE": {
@@ -498,6 +551,20 @@
                 "rect": false, 
                 "room": false, 
                 "spawns": false
+            }
+        }, 
+        "1241104443": {
+            "variable_dict": {
+                "NEW_TIMER": {}, 
+                "UNIT_NAME_POOL": {
+                    "unit_pool": null
+                }
+            }, 
+            "variable_length_dict": {
+                "unit_pool": 0
+            }, 
+            "variable_type_dict": {
+                "unit_pool": false
             }
         }, 
         "1270726670": {
@@ -932,6 +999,9 @@
                     "exit_1": 0, 
                     "exit_2": 0
                 }, 
+                "STRING": {
+                    "tag": ""
+                }, 
                 "TABLE": {
                     "room": null, 
                     "spawn_rects": null
@@ -943,7 +1013,8 @@
                 "exit_2": 0, 
                 "room": 0, 
                 "spawn": 0, 
-                "spawn_rects": 0
+                "spawn_rects": 0, 
+                "tag": 0
             }, 
             "variable_type_dict": {
                 "enemies_number": false, 
@@ -951,7 +1022,8 @@
                 "exit_2": false, 
                 "room": false, 
                 "spawn": false, 
-                "spawn_rects": false
+                "spawn_rects": false, 
+                "tag": false
             }
         }, 
         "2010271789": {
@@ -1041,6 +1113,9 @@
             "normal_rooms": null, 
             "unvisited_rooms": null
         }, 
+        "UI_ANIM": {
+            "anim": 0
+        }, 
         "UI_COMP_TYPE": {}, 
         "UNIT_ENTITY": {
             "hero": 0
@@ -1096,12 +1171,20 @@
                 "boss_rooms", 
                 "boss_rooms"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "anim", 
+                "anim"
+            ]
         }
     ], 
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
         "UI_Manager": 0, 
         "UI_widget": 0, 
+        "anim": 0, 
         "boss_rooms": 0, 
         "hero": 0, 
         "normal_rooms": 0, 
@@ -1111,6 +1194,7 @@
         "GLOBAL_BAG_MAX_NUM": false, 
         "UI_Manager": false, 
         "UI_widget": false, 
+        "anim": false, 
         "boss_rooms": false, 
         "hero": false, 
         "normal_rooms": false, 
