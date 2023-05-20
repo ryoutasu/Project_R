@@ -4,7 +4,7 @@
     "key_order": {
         "KF0OsLKSEe2XPAD-+E6xse": 2, 
         "k-yOwLG2Ee2YRwD-+E6xsS": 1, 
-        "kyRJwPcbEe22ZQD-bCuBBO": 49
+        "kyRJwPcbEe22ZQD-bCuBBO": 48
     }, 
     "name": "trigger", 
     "sub_trigger": {
@@ -326,25 +326,18 @@
         "47": {
             "__tuple__": true, 
             "items": [
-                1964662849, 
-                "All enemies dead_3"
-            ]
-        }, 
-        "48": {
-            "__tuple__": true, 
-            "items": [
                 1830445122, 
                 "Exits_2"
             ]
         }, 
-        "50": {
+        "49": {
             "__tuple__": true, 
             "items": [
                 169500740, 
                 "Starting zone enter"
             ]
         }, 
-        "51": {
+        "50": {
             "__tuple__": true, 
             "items": [
                 790257733, 

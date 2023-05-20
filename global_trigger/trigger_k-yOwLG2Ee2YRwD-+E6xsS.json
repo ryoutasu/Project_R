@@ -133,7 +133,7 @@
                 ]
             }, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [], 
@@ -2651,7 +2651,7 @@
             ], 
             "comment_str": {}, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [], 
@@ -4085,7 +4085,7 @@
                 ]
             }, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [], 
@@ -5075,7 +5075,7 @@
                 ]
             }, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [], 

@@ -16970,14 +16970,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10367, 
    "Boss room 1 exit", 
    4096
@@ -16989,6 +16981,14 @@
    10368, 
    "Boss room 1 boss spawn", 
    1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]

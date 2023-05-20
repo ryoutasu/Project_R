@@ -1035,106 +1035,20 @@
     "169500740": {
         "action": [
             {
-                "action_type": "SET_UI_COMP_VISIBLE", 
+                "action_type": "CALL_TRIGGER_FUNC", 
                 "args_list": [
                     {
-                        "arg_type": 100025, 
-                        "args_list": [
-                            1
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100001, 
-                        "args_list": [
-                            true
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100070, 
-                        "args_list": [
-                            "e080b5db-a796-4669-8146-a20b99e99120"
-                        ], 
-                        "sub_type": 1
+                        "arg_type": 100177, 
+                        "args_list": [], 
+                        "op_arg": [], 
+                        "op_arg_enable": [], 
+                        "sub_type": "4d4dfc0ff6ea11ed9e8b00ff6c2b8104"
                     }
                 ], 
                 "bp": false, 
-                "element_id": 169500740000002, 
+                "call_rt_arg_idxes": [], 
+                "element_id": 169500740000004, 
                 "enable": true
-            }, 
-            {
-                "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
-                "args_list": [
-                    {
-                        "arg_type": 100000, 
-                        "args_list": [
-                            1.0
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100022, 
-                        "args_list": [
-                            {
-                                "action_type": "SET_UI_COMP_VISIBLE", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100025, 
-                                        "args_list": [
-                                            1
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100001, 
-                                        "args_list": [
-                                            true
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100070, 
-                                        "args_list": [
-                                            "e080b5db-a796-4669-8146-a20b99e99120"
-                                        ], 
-                                        "sub_type": 1
-                                    }
-                                ], 
-                                "bp": false, 
-                                "element_id": 169500740000003, 
-                                "enable": true
-                            }, 
-                            {
-                                "action_type": "CALL_TRIGGER_FUNC", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100177, 
-                                        "args_list": [], 
-                                        "op_arg": [], 
-                                        "op_arg_enable": [], 
-                                        "sub_type": "4d4dfc0ff6ea11ed9e8b00ff6c2b8104"
-                                    }
-                                ], 
-                                "bp": false, 
-                                "call_rt_arg_idxes": [], 
-                                "element_id": 169500740000004, 
-                                "enable": true
-                            }
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 169500740000005, 
-                "enable": true, 
-                "local_var": {
-                    "__tuple__": true, 
-                    "items": [
-                        {}, 
-                        {}
-                    ]
-                }
             }
         ], 
         "comment_str": {}, 
@@ -1928,167 +1842,81 @@
     "354050108": {
         "action": [
             {
-                "action_type": "SET_UI_COMP_VISIBLE", 
+                "action_type": "SET_VARIABLE", 
                 "args_list": [
                     {
-                        "arg_type": 100025, 
-                        "args_list": [
-                            1
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100001, 
-                        "args_list": [
-                            true
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100070, 
-                        "args_list": [
-                            "e080b5db-a796-4669-8146-a20b99e99120"
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 354050108000001, 
-                "enable": true
-            }, 
-            {
-                "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
-                "args_list": [
-                    {
-                        "arg_type": 100000, 
-                        "args_list": [
-                            1.0
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100022, 
+                        "arg_type": 100030, 
                         "args_list": [
                             {
-                                "action_type": "SET_UI_COMP_VISIBLE", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100025, 
-                                        "args_list": [
-                                            1
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100001, 
-                                        "args_list": [
-                                            true
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100070, 
-                                        "args_list": [
-                                            "e080b5db-a796-4669-8146-a20b99e99120"
-                                        ], 
-                                        "sub_type": 1
-                                    }
-                                ], 
-                                "bp": false, 
-                                "element_id": 354050108000002, 
-                                "enable": true
-                            }, 
-                            {
-                                "action_type": "SET_VARIABLE", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100030, 
-                                        "args_list": [
-                                            {
-                                                "__tuple__": true, 
-                                                "items": [
-                                                    "TABLE", 
-                                                    "unvisited_rooms"
-                                                ]
-                                            }
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100011, 
-                                        "args_list": [
-                                            {
-                                                "arg_type": 100011, 
-                                                "args_list": [
-                                                    {
-                                                        "__tuple__": true, 
-                                                        "items": [
-                                                            "TABLE", 
-                                                            "normal_rooms"
-                                                        ]
-                                                    }
-                                                ], 
-                                                "sub_type": "VARIABLE"
-                                            }
-                                        ], 
-                                        "sub_type": "GET_COPY_OF_TABLE"
-                                    }
-                                ], 
-                                "bp": false, 
-                                "element_id": 354050108000003, 
-                                "enable": true
-                            }, 
-                            {
-                                "action_type": "FORCE_TRANSMIT_UNIT", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100006, 
-                                        "args_list": [
-                                            [
-                                                "UNIT_ENTITY", 
-                                                "hero"
-                                            ]
-                                        ], 
-                                        "sub_type": 11
-                                    }, 
-                                    {
-                                        "arg_type": 100004, 
-                                        "args_list": [
-                                            10357
-                                        ], 
-                                        "sub_type": 1
-                                    }
-                                ], 
-                                "bp": false, 
-                                "element_id": 354050108000004, 
-                                "enable": true, 
-                                "op_arg": [
-                                    {
-                                        "arg_type": 100001, 
-                                        "args_list": [
-                                            false
-                                        ], 
-                                        "sub_type": 1
-                                    }
-                                ], 
-                                "op_arg_enable": [
-                                    true
+                                "__tuple__": true, 
+                                "items": [
+                                    "TABLE", 
+                                    "unvisited_rooms"
                                 ]
                             }
                         ], 
                         "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100011, 
+                        "args_list": [
+                            {
+                                "arg_type": 100011, 
+                                "args_list": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "TABLE", 
+                                            "normal_rooms"
+                                        ]
+                                    }
+                                ], 
+                                "sub_type": "VARIABLE"
+                            }
+                        ], 
+                        "sub_type": "GET_COPY_OF_TABLE"
                     }
                 ], 
                 "bp": false, 
-                "element_id": 354050108000005, 
+                "element_id": 354050108000003, 
+                "enable": true
+            }, 
+            {
+                "action_type": "FORCE_TRANSMIT_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            [
+                                "UNIT_ENTITY", 
+                                "hero"
+                            ]
+                        ], 
+                        "sub_type": 11
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            10357
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 354050108000004, 
                 "enable": true, 
-                "local_var": {
-                    "__tuple__": true, 
-                    "items": [
-                        {}, 
-                        {}
-                    ]
-                }
+                "op_arg": [
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "op_arg_enable": [
+                    true
+                ]
             }
         ], 
         "comment_str": {}, 
@@ -2818,7 +2646,50 @@
                 "element_id": 387604544000004, 
                 "enable": true
             }, 
-            1964662849, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100030, 
+                        "args_list": [
+                            [
+                                "ROUND_AREA", 
+                                "exit", 
+                                "local"
+                            ]
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            {
+                                "arg_type": 100011, 
+                                "args_list": [
+                                    [
+                                        "TABLE", 
+                                        "room", 
+                                        "local"
+                                    ]
+                                ], 
+                                "sub_type": "VARIABLE"
+                            }, 
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "exit"
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "GET_ROUND_AREA_TABLE_VAR_1D"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1310351421000008, 
+                "enable": true
+            }, 
+            1830445122, 
             {
                 "action_type": "FORCE_TRANSMIT_UNIT", 
                 "args_list": [
@@ -3039,6 +2910,39 @@
                 "enable": true
             }, 
             {
+                "action_type": "UI_COMP_BIND_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100070, 
+                        "args_list": [
+                            "cfb35e96-cd29-4ac5-8953-08ce11061991"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            [
+                                "UNIT_ENTITY", 
+                                "enemy", 
+                                "local"
+                            ]
+                        ], 
+                        "sub_type": 11
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 387604544000017, 
+                "enable": true
+            }, 
+            {
                 "action_type": "SET_UI_COMP_VISIBLE", 
                 "args_list": [
                     {
@@ -3091,7 +2995,7 @@
         "script": "", 
         "trigger_id": 387604544, 
         "trigger_name": "Enter boss room", 
-        "valid": false
+        "valid": true
     }, 
     "416448551": {
         "action": [
@@ -5152,114 +5056,28 @@
     "790257733": {
         "action": [
             {
-                "action_type": "SET_UI_COMP_VISIBLE", 
+                "action_type": "CALL_TRIGGER_FUNC", 
                 "args_list": [
                     {
-                        "arg_type": 100025, 
-                        "args_list": [
-                            1
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100001, 
-                        "args_list": [
-                            true
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100070, 
-                        "args_list": [
-                            "e080b5db-a796-4669-8146-a20b99e99120"
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 790257733000002, 
-                "enable": true
-            }, 
-            {
-                "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
-                "args_list": [
-                    {
-                        "arg_type": 100000, 
-                        "args_list": [
-                            1.0
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100022, 
+                        "arg_type": 100177, 
                         "args_list": [
                             {
-                                "action_type": "SET_UI_COMP_VISIBLE", 
+                                "arg_type": 100002, 
                                 "args_list": [
-                                    {
-                                        "arg_type": 100025, 
-                                        "args_list": [
-                                            1
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100001, 
-                                        "args_list": [
-                                            false
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100070, 
-                                        "args_list": [
-                                            "e080b5db-a796-4669-8146-a20b99e99120"
-                                        ], 
-                                        "sub_type": 1
-                                    }
+                                    1
                                 ], 
-                                "bp": false, 
-                                "element_id": 790257733000003, 
-                                "enable": true
-                            }, 
-                            {
-                                "action_type": "CALL_TRIGGER_FUNC", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100177, 
-                                        "args_list": [
-                                            {
-                                                "arg_type": 100002, 
-                                                "args_list": [
-                                                    1
-                                                ], 
-                                                "sub_type": 1
-                                            }
-                                        ], 
-                                        "op_arg": [], 
-                                        "op_arg_enable": [], 
-                                        "sub_type": "5e34e82ef6e611edaa2a00ff6c2b8104"
-                                    }
-                                ], 
-                                "bp": false, 
-                                "call_rt_arg_idxes": [], 
-                                "element_id": 790257733000004, 
-                                "enable": true
+                                "sub_type": 1
                             }
                         ], 
-                        "sub_type": 1
+                        "op_arg": [], 
+                        "op_arg_enable": [], 
+                        "sub_type": "5e34e82ef6e611edaa2a00ff6c2b8104"
                     }
                 ], 
                 "bp": false, 
-                "element_id": 790257733000005, 
-                "enable": true, 
-                "local_var": {
-                    "__tuple__": true, 
-                    "items": [
-                        {}, 
-                        {}
-                    ]
-                }
+                "call_rt_arg_idxes": [], 
+                "element_id": 790257733000004, 
+                "enable": true
             }
         ], 
         "comment_str": {}, 
@@ -9411,9 +9229,35 @@
                     {
                         "arg_type": 100003, 
                         "args_list": [
-                            "hero enters exit"
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "hero enters exit; rooms passed: "
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100002, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "INTEGER", 
+                                                    "room_passed", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 6
+                                    }
+                                ], 
+                                "sub_type": "ANY_VAR_TO_STR"
+                            }
                         ], 
-                        "sub_type": 1
+                        "sub_type": "STR_JOIN"
                     }
                 ], 
                 "bp": false, 
@@ -9512,7 +9356,7 @@
                                                     {
                                                         "arg_type": 100002, 
                                                         "args_list": [
-                                                            3
+                                                            1
                                                         ], 
                                                         "sub_type": 1
                                                     }
@@ -9637,7 +9481,26 @@
                                                                     {
                                                                         "arg_type": 100177, 
                                                                         "args_list": [
-                                                                            null
+                                                                            {
+                                                                                "arg_type": 100002, 
+                                                                                "args_list": [
+                                                                                    {
+                                                                                        "arg_type": 100002, 
+                                                                                        "args_list": [
+                                                                                            {
+                                                                                                "__tuple__": true, 
+                                                                                                "items": [
+                                                                                                    "INTEGER", 
+                                                                                                    "room_passed", 
+                                                                                                    "local"
+                                                                                                ]
+                                                                                            }
+                                                                                        ], 
+                                                                                        "sub_type": 6
+                                                                                    }
+                                                                                ], 
+                                                                                "sub_type": "INT_PLUS_ONE"
+                                                                            }
                                                                         ], 
                                                                         "op_arg": [], 
                                                                         "op_arg_enable": [], 
@@ -9782,7 +9645,7 @@
         "script": "", 
         "trigger_id": 1260019775, 
         "trigger_name": "Exits", 
-        "valid": false
+        "valid": true
     }, 
     "1302442017": {
         "action": [
@@ -10703,7 +10566,7 @@
         "script": "", 
         "trigger_id": 1310351421, 
         "trigger_name": "Enter normal room", 
-        "valid": false
+        "valid": true
     }, 
     "1523929134": {
         "action": [
@@ -12375,7 +12238,42 @@
             }
         ], 
         "comment_str": {}, 
-        "condition": [], 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "UNIT_ENTITY", 
+                                                    "enemy", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 11
+                                    }
+                                ], 
+                                "condition_type": "IS_UNIT_ALIVE", 
+                                "element_id": 1830445122000044, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "NOT", 
+                "element_id": 1830445122000015, 
+                "enable": true
+            }
+        ], 
         "enabled": false, 
         "event": [
             {
@@ -12401,28 +12299,15 @@
                         "arg_type": 100023, 
                         "args_list": [
                             {
-                                "arg_type": 100011, 
-                                "args_list": [
-                                    {
-                                        "__tuple__": true, 
-                                        "items": [
-                                            "TABLE", 
-                                            "room", 
-                                            "local"
-                                        ]
-                                    }
-                                ], 
-                                "sub_type": "VARIABLE"
-                            }, 
-                            {
-                                "arg_type": 100003, 
-                                "args_list": [
-                                    "exit"
-                                ], 
-                                "sub_type": 1
+                                "__tuple__": true, 
+                                "items": [
+                                    "ROUND_AREA", 
+                                    "exit", 
+                                    "local"
+                                ]
                             }
                         ], 
-                        "sub_type": "GET_ROUND_AREA_TABLE_VAR_1D"
+                        "sub_type": 2
                     }
                 ], 
                 "element_id": 1830445122000001, 
@@ -12432,11 +12317,11 @@
         ], 
         "group_id": 0, 
         "is_conf": true, 
-        "p_trigger_id": 1964662849, 
+        "p_trigger_id": 387604544, 
         "script": "", 
         "trigger_id": 1830445122, 
         "trigger_name": "Exits_2", 
-        "valid": false
+        "valid": true
     }, 
     "1859280934": {
         "action": [
@@ -12894,7 +12779,7 @@
         "script": "", 
         "trigger_id": 1863999550, 
         "trigger_name": "All enemies dead", 
-        "valid": false
+        "valid": true
     }, 
     "1872433179": {
         "action": [
@@ -13281,51 +13166,6 @@
         "script": "", 
         "trigger_id": 1913552945, 
         "trigger_name": "minimap_btn1", 
-        "valid": false
-    }, 
-    "1964662849": {
-        "action": [
-            1830445122
-        ], 
-        "comment_str": {}, 
-        "condition": [], 
-        "enabled": false, 
-        "event": [
-            {
-                "args_list": [
-                    {
-                        "arg_type": 100006, 
-                        "args_list": [
-                            {
-                                "__tuple__": true, 
-                                "items": [
-                                    "UNIT_ENTITY", 
-                                    "enemy", 
-                                    "local"
-                                ]
-                            }
-                        ], 
-                        "sub_type": 11
-                    }, 
-                    {
-                        "arg_type": 100007, 
-                        "args_list": [
-                            "ET_UNIT_DIE"
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "element_id": 1964662849000001, 
-                "enable": true, 
-                "event_type": "SPECIAL_UNIT_EVENT"
-            }
-        ], 
-        "group_id": 0, 
-        "is_conf": true, 
-        "p_trigger_id": 387604544, 
-        "script": "", 
-        "trigger_id": 1964662849, 
-        "trigger_name": "All enemies dead_3", 
         "valid": false
     }, 
     "2010271789": {

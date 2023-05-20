@@ -139,6 +139,9 @@
                     "boss_number": 0, 
                     "r": 0
                 }, 
+                "ROUND_AREA": {
+                    "exit": 0
+                }, 
                 "TABLE": {
                     "room": null
                 }, 
@@ -149,12 +152,14 @@
             "variable_length_dict": {
                 "boss_number": 0, 
                 "enemy": 0, 
+                "exit": 0, 
                 "r": 0, 
                 "room": 0
             }, 
             "variable_type_dict": {
                 "boss_number": false, 
                 "enemy": false, 
+                "exit": false, 
                 "r": false, 
                 "room": false
             }
