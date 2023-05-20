@@ -1,0 +1,30 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "2119835649": {
+            "action": [], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2119835649000003, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134252208, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 2119835649, 
+            "trigger_name": "New Trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}, 
+    "variable_type_dict": {}
+}

@@ -1,0 +1,107 @@
+{
+    "3": 315.0, 
+    "4": 1.1, 
+    "_custom_": true, 
+    "_ref_": 134235074, 
+    "alive_height_box_data": 0, 
+    "body_size": 1.0, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points_alive": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points_dead": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "dead_height_box_data": 0, 
+    "default_rate": 1.0, 
+    "description": -286544844, 
+    "destroy_delay": 5, 
+    "destroy_on_die": true, 
+    "die_effect_list": [
+        {
+            "effect": 101509, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "speed": 1.0
+        }
+    ], 
+    "die_on_source_run_out": false, 
+    "effect_list": [], 
+    "hp_max": 100.0, 
+    "icon": 100000, 
+    "is_ability_target": true, 
+    "is_attacked": true, 
+    "is_collected": true, 
+    "is_selected": false, 
+    "key": 134235074, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "mini_map_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "model": 202236, 
+    "name": -484669273, 
+    "passable": false, 
+    "receive_decal": false, 
+    "show_on_mini_map": true, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "source_desc": 607949014, 
+    "source_item": 10000, 
+    "source_nums_init": 0, 
+    "source_nums_max": 10000.0, 
+    "source_player_prop": "official_res_1", 
+    "source_refresh_count": 0, 
+    "source_refresh_interval": 5, 
+    "source_type": 0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134235074"
+}

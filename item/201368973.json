@@ -1,0 +1,70 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1928650754": {
+            "action": [
+                {
+                    "action_type": "UNIT_ADD_EXP", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100031, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ITEM"
+                                }
+                            ], 
+                            "sub_type": "ITEM_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                500
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 19286507540006, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "REMOVE_ITEM", 
+                    "args_list": [
+                        {
+                            "arg_type": 100031, 
+                            "args_list": [], 
+                            "sub_type": "CUR_ITEM"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 19286507540003, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 19286507540001, 
+                    "enable": true, 
+                    "event_type": "ITEM_ADD_EVENT"
+                }
+            ], 
+            "group_id": 201368973, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1928650754, 
+            "trigger_name": "ItemGained", 
+            "valid": true
+        }
+    }, 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}, 
+    "variable_type_dict": {}
+}

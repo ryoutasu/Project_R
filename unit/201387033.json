@@ -1,0 +1,23 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "2023927809": {
+            "action": [], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": 201387033, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 2023927809, 
+            "trigger_name": "The_new_trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}, 
+    "variable_type_dict": {}
+}

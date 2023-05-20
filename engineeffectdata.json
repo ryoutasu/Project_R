@@ -1,0 +1,124 @@
+{
+    "bloom": {
+        "bloom_decay": 0.3, 
+        "bloom_open": false, 
+        "bloom_strength": 0.3
+    }, 
+    "color_grading": {
+        "color_grading_type": 1
+    }, 
+    "fog": {
+        "height_fog": false, 
+        "height_fog_color": {
+            "__tuple__": true, 
+            "items": [
+                36, 
+                36, 
+                36, 
+                1
+            ]
+        }, 
+        "height_fog_end": 28.0
+    }, 
+    "fog_war": {
+        "fog_war_put_gray_color": {
+            "__tuple__": true, 
+            "items": [
+                163, 
+                163, 
+                163, 
+                1
+            ]
+        }, 
+        "fog_war_put_gray_noise_enable": false
+    }, 
+    "post_style": {
+        "post_style_shader_params": {
+            "1": {
+                "DepthScale": 3.0, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.05, 
+                        0.03, 
+                        0.03
+                    ]
+                }, 
+                "PixelIntensity": 2.0
+            }, 
+            "4": {
+                "DepthScale": 1.5, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.05, 
+                        0.05, 
+                        0.05
+                    ]
+                }, 
+                "TotalControl": 1.0
+            }
+        }, 
+        "post_style_type": 0
+    }, 
+    "shadow_quality": {
+        "dynamic_shadow_cascades": 2.0, 
+        "dynamic_shadow_distance_movable_light": 200.0, 
+        "enable_ue4_csm": false, 
+        "fix_sun_shadow_range": 20.0
+    }, 
+    "sky_box": {
+        "sky_box_choose_list": {
+            "__tuple__": true, 
+            "items": [
+                100000, 
+                100001, 
+                100010
+            ]
+        }, 
+        "sky_box_type": 100010
+    }, 
+    "terrain": {
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.051, 
+                        0.123, 
+                        0.341
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.3, 
+                "mat_id": 1, 
+                "name": "Water", 
+                "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.947, 
+                        0.117, 
+                        0.007
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 0.3, 
+                "flow_speed": 0.2, 
+                "mat_id": 2, 
+                "name": "Magma", 
+                "original": true
+            }
+        ]
+    }, 
+    "vignetting": {
+        "vignetting_open": false, 
+        "vignetting_size": 0.4
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "-2123441221": {
+        "key": -2123441221, 
+        "value": "Template"
+    }, 
+    "-2107751307": {
+        "key": -2107751307, 
+        "value": "<html><body><p>Description</p></body></html>"
+    }, 
+    "-2090207331": {
+        "key": -2090207331, 
+        "value": "unityPillarWood"
+    }, 
+    "-2086109686": {
+        "key": -2086109686, 
+        "value": "_newUnityColumn"
+    }, 
+    "-2079676476": {
+        "key": -2079676476, 
+        "value": "wall_5"
+    }, 
+    "-1975868113": {
+        "key": -1975868113, 
+        "value": "<html><body><p><br /></p></body></html>"
+    }, 
+    "-1867098098": {
+        "key": -1867098098, 
+        "value": "Create New Sound"
+    }, 
+    "-1855741838": {
+        "key": -1855741838, 
+        "value": "ROOM_1"
+    }, 
+    "-1838996899": {
+        "key": -1838996899, 
+        "value": "Create New Sound"
+    }, 
+    "-1786898492": {
+        "key": -1786898492, 
+        "value": "WALLS"
+    }, 
+    "-1698719975": {
+        "key": -1698719975, 
+        "value": "+wall base"
+    }, 
+    "-1688978811": {
+        "key": -1688978811, 
+        "value": "newUnityWall"
+    }, 
+    "-1676591497": {
+        "key": -1676591497, 
+        "value": "WALLS"
+    }, 
+    "-1669412034": {
+        "key": -1669412034, 
+        "value": "Template"
+    }, 
+    "-1579869200": {
+        "key": -1579869200, 
+        "value": "Template"
+    }, 
+    "-1520587042": {
+        "key": -1520587042, 
+        "value": "Enemy attack"
+    }, 
+    "-1397911843": {
+        "key": -1397911843, 
+        "value": "+wall base"
+    }, 
+    "-1391065808": {
+        "key": -1391065808, 
+        "value": "Shield"
+    }, 
+    "-1321483397": {
+        "key": -1321483397, 
+        "value": "unityColumnWood"
+    }, 
+    "-1264561856": {
+        "key": -1264561856, 
+        "value": "unityColumnWood"
+    }, 
+    "-1260701399": {
+        "key": -1260701399, 
+        "value": "DEVIL_star_last"
+    }, 
+    "-1251766707": {
+        "key": -1251766707, 
+        "value": "Template"
+    }, 
+    "-1232327758": {
+        "key": -1232327758, 
+        "value": "ROOM_3(new)"
+    }, 
+    "-1169689932": {
+        "key": -1169689932, 
+        "value": "Enemy attack"
+    }, 
+    "-1117592129": {
+        "key": -1117592129, 
+        "value": "?"
+    }, 
+    "-1077840566": {
+        "key": -1077840566, 
+        "value": ""
+    }, 
+    "-1009826104": {
+        "key": -1009826104, 
+        "value": ""
+    }, 
+    "-969644625": {
+        "key": -969644625, 
+        "value": "wall_4"
+    }, 
+    "-951583051": {
+        "key": -951583051, 
+        "value": "Hammer"
+    }, 
+    "-866456493": {
+        "key": -866456493, 
+        "value": "wall_5"
+    }, 
+    "-838531807": {
+        "key": -838531807, 
+        "value": "Relic Believer"
+    }, 
+    "-793426550": {
+        "key": -793426550, 
+        "value": "Template"
+    }, 
+    "-685263285": {
+        "key": -685263285, 
+        "value": "wall end 2"
+    }, 
+    "-649447640": {
+        "key": -649447640, 
+        "value": "wall_4"
+    }, 
+    "-626488859": {
+        "key": -626488859, 
+        "value": "_newUnityColumn"
+    }, 
+    "-603058004": {
+        "key": -603058004, 
+        "value": "Create New Sound"
+    }, 
+    "-563074935": {
+        "key": -563074935, 
+        "value": "Pillar Wood"
+    }, 
+    "-484669273": {
+        "key": -484669273, 
+        "value": "PILLAR"
+    }, 
+    "-470576456": {
+        "key": -470576456, 
+        "value": "Common Attack"
+    }, 
+    "-370050399": {
+        "key": -370050399, 
+        "value": "+floor_1"
+    }, 
+    "-302249044": {
+        "key": -302249044, 
+        "value": "attack 2"
+    }, 
+    "-286544844": {
+        "key": -286544844, 
+        "value": "Template"
+    }, 
+    "-212682383": {
+        "key": -212682383, 
+        "value": "ROOM_3"
+    }, 
+    "-96884384": {
+        "key": -96884384, 
+        "value": "Create New Projectile"
+    }, 
+    "1338758": {
+        "key": 1338758, 
+        "value": "wallStandardLong"
+    }, 
+    "4394890": {
+        "key": 4394890, 
+        "value": "Create New Projectile"
+    }, 
+    "20481394": {
+        "key": 20481394, 
+        "value": ""
+    }, 
+    "66959907": {
+        "key": 66959907, 
+        "value": "code_temp_dec_desc_01"
+    }, 
+    "124679257": {
+        "key": 124679257, 
+        "value": "<html><body><p>1</p><p>2</p></body></html>"
+    }, 
+    "240594411": {
+        "key": 240594411, 
+        "value": "ROOM_1"
+    }, 
+    "258542872": {
+        "key": 258542872, 
+        "value": "wall end 1"
+    }, 
+    "297805243": {
+        "key": 297805243, 
+        "value": "floor_1C"
+    }, 
+    "299033463": {
+        "key": 299033463, 
+        "value": "Template"
+    }, 
+    "318258080": {
+        "key": 318258080, 
+        "value": "<html><body><p>1</p><p>2</p><p>3</p><p>4</p><p>5</p></body></html>"
+    }, 
+    "370094987": {
+        "key": 370094987, 
+        "value": "ROOM_2"
+    }, 
+    "398224771": {
+        "key": 398224771, 
+        "value": "Template"
+    }, 
+    "428647211": {
+        "key": 428647211, 
+        "value": "DEVIL PILLAR"
+    }, 
+    "437127998": {
+        "key": 437127998, 
+        "value": "Template"
+    }, 
+    "502240086": {
+        "key": 502240086, 
+        "value": "ROOM_3(new)"
+    }, 
+    "571155289": {
+        "key": 571155289, 
+        "value": "newUnityWallLong"
+    }, 
+    "598689301": {
+        "key": 598689301, 
+        "value": "Enrage"
+    }, 
+    "607949014": {
+        "key": 607949014, 
+        "value": ""
+    }, 
+    "660158720": {
+        "key": 660158720, 
+        "value": "DEVIL PILLAR"
+    }, 
+    "673134717": {
+        "key": 673134717, 
+        "value": "+BUILDING1"
+    }, 
+    "727596208": {
+        "key": 727596208, 
+        "value": "Template"
+    }, 
+    "826165397": {
+        "key": 826165397, 
+        "value": "wall end 2"
+    }, 
+    "877265663": {
+        "key": 877265663, 
+        "value": "<html><body><p>1</p><p>2</p><p>3</p></body></html>"
+    }, 
+    "901179648": {
+        "key": 901179648, 
+        "value": "ROOM_3"
+    }, 
+    "968097002": {
+        "key": 968097002, 
+        "value": "ROOM_3"
+    }, 
+    "977158815": {
+        "key": 977158815, 
+        "value": "Firestorm"
+    }, 
+    "1121897098": {
+        "key": 1121897098, 
+        "value": "?"
+    }, 
+    "1158003110": {
+        "key": 1158003110, 
+        "value": "newUnityWall"
+    }, 
+    "1159653740": {
+        "key": 1159653740, 
+        "value": "ROOM_3"
+    }, 
+    "1211029584": {
+        "key": 1211029584, 
+        "value": "Template"
+    }, 
+    "1237159717": {
+        "key": 1237159717, 
+        "value": "attack 3"
+    }, 
+    "1251042857": {
+        "key": 1251042857, 
+        "value": "ROOM_2"
+    }, 
+    "1463174197": {
+        "key": 1463174197, 
+        "value": "FOREST"
+    }, 
+    "1474678948": {
+        "key": 1474678948, 
+        "value": "DEVIL_star_last"
+    }, 
+    "1559350655": {
+        "key": 1559350655, 
+        "value": "wallStandardLong"
+    }, 
+    "1583991119": {
+        "key": 1583991119, 
+        "value": "Create New Projectile"
+    }, 
+    "1608358631": {
+        "key": 1608358631, 
+        "value": "wallStandardLong"
+    }, 
+    "1729444257": {
+        "key": 1729444257, 
+        "value": "Enrage"
+    }, 
+    "1742681946": {
+        "key": 1742681946, 
+        "value": "DOOR"
+    }, 
+    "1745386829": {
+        "key": 1745386829, 
+        "value": "Template"
+    }, 
+    "1748776479": {
+        "key": 1748776479, 
+        "value": "Template"
+    }, 
+    "1768283002": {
+        "key": 1768283002, 
+        "value": "wallALPHA"
+    }, 
+    "1789848371": {
+        "key": 1789848371, 
+        "value": "wall end 1"
+    }, 
+    "1861471392": {
+        "key": 1861471392, 
+        "value": "Hero"
+    }, 
+    "1870780546": {
+        "key": 1870780546, 
+        "value": "newUnityWallLong"
+    }, 
+    "1890323132": {
+        "key": 1890323132, 
+        "value": "ROOM_3"
+    }, 
+    "1914092416": {
+        "key": 1914092416, 
+        "value": "+floor_1F"
+    }, 
+    "1919532977": {
+        "key": 1919532977, 
+        "value": ""
+    }, 
+    "1959189357": {
+        "key": 1959189357, 
+        "value": ""
+    }, 
+    "2020530662": {
+        "key": 2020530662, 
+        "value": "Shield"
+    }, 
+    "2023650366": {
+        "key": 2023650366, 
+        "value": "ROOM_3"
+    }, 
+    "2027898073": {
+        "key": 2027898073, 
+        "value": "attack 1"
+    }, 
+    "#2b8f0ae8-2da9-489e-843d-82d7a8876d20#text": {
+        "key": "#2b8f0ae8-2da9-489e-843d-82d7a8876d20#text", 
+        "value": "G"
+    }, 
+    "#3c379499-bd22-49d0-831c-444fa76d6d9f#text": {
+        "key": "#3c379499-bd22-49d0-831c-444fa76d6d9f#text", 
+        "value": "F"
+    }, 
+    "#6c034e07-ce4f-4997-8e56-749152eff935#text": {
+        "key": "#6c034e07-ce4f-4997-8e56-749152eff935#text", 
+        "value": "R"
+    }, 
+    "#ae2f2aa1-60a2-49bd-afd3-b37a2ae19e37#text": {
+        "key": "#ae2f2aa1-60a2-49bd-afd3-b37a2ae19e37#text", 
+        "value": "E"
+    }, 
+    "#e0aa2c92-102a-4541-bcfa-2f3d691d2425#text": {
+        "key": "#e0aa2c92-102a-4541-bcfa-2f3d691d2425#text", 
+        "value": "Enemies remain: 0"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}

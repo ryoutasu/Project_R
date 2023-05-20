@@ -1,0 +1,145 @@
+{
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 134238676, 
+            "name": "loading_background", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": [
+                1920.0, 
+                1080.0
+            ], 
+            "type": 4, 
+            "uid": "e080b5db-a796-4669-8146-a20b99e99120"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                996.0, 
+                30.0, 
+                38.0, 
+                38.0
+            ], 
+            "bg_image": 134258981, 
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 106408, 
+            "name": "loading_bar_percent", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    57.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    5.277777777777778
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1844.0, 
+                    54.0
+                ]
+            }, 
+            "type": 5, 
+            "uid": "d499d639-48d1-43a5-b25c-a33920f95488"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                938.0, 
+                106.0, 
+                860.0, 
+                860.0
+            ], 
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    36
+                ]
+            }, 
+            "name": "label_percent", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    124.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    11.481481481481481
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    36.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "50%", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "bc56ae59-3271-4729-beb8-28edcc544484"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "LoadingPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "aa7ea525-8c73-4585-a6b6-ac706cf0e2f6", 
+    "visible": true, 
+    "zorder": 400
+}

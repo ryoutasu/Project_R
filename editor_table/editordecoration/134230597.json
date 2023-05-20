@@ -1,0 +1,188 @@
+{
+    "3": 270.0, 
+    "_custom_": true, 
+    "_ref_": 134251045, 
+    "attach_models": [
+        {
+            "cast_shadow": false, 
+            "material_alpha": 0.3, 
+            "material_change": 1, 
+            "material_color": [
+                0, 
+                0, 
+                0
+            ], 
+            "material_color_intensity": 0.5, 
+            "model": 202280, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    3.577, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    0.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 0.3, 
+            "material_change": 1, 
+            "material_color": [
+                0, 
+                0, 
+                0
+            ], 
+            "material_color_intensity": 0.5, 
+            "model": 202280, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -0.0835, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    0.5
+                ]
+            }, 
+            "use_physics": false
+        }, 
+        {
+            "cast_shadow": false, 
+            "material_alpha": 0.3, 
+            "material_change": 1, 
+            "material_color": [
+                0, 
+                0, 
+                0
+            ], 
+            "material_color_intensity": 0.5, 
+            "model": 202280, 
+            "offset": {
+                "__tuple__": true, 
+                "items": [
+                    -3.4934, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "receive_decal": false, 
+            "rotate": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    0.5
+                ]
+            }, 
+            "use_physics": false
+        }
+    ], 
+    "cast_shadow": false, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -5, 
+                5
+            ], 
+            [
+                -5, 
+                -5
+            ], 
+            [
+                5, 
+                -5
+            ], 
+            [
+                5, 
+                5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                1, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": 1338758, 
+    "effect_list": [], 
+    "icon": 100000, 
+    "key": 134230597, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 103014, 
+    "name": 1768283002, 
+    "receive_decal": false, 
+    "scale": 1.0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134230597", 
+    "use_physics": false
+}

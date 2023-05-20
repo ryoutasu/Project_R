@@ -1,0 +1,144 @@
+{
+    "_custom_": true, 
+    "_ref_": 134281458, 
+    "async_effect": false, 
+    "description": -96884384, 
+    "effect_foes": [
+        102136, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.4, 
+                0.4, 
+                0.4
+            ]
+        }, 
+        1.0
+    ], 
+    "effect_friend": [
+        102136, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.4, 
+                0.4, 
+                0.4
+            ]
+        }, 
+        1.0
+    ], 
+    "icon": 100000, 
+    "key": 134281458, 
+    "kv": {
+        "collision_radius": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "collision_radius", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 2, 
+            "type": 1, 
+            "value": 75.0
+        }, 
+        "damage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "damage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 3, 
+            "type": 1, 
+            "value": 1.0
+        }, 
+        "damage_effect": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "damage_effect", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 4, 
+            "type": 15, 
+            "value": 102137
+        }, 
+        "distance": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "distance", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 1, 
+            "value": 1000.0
+        }, 
+        "finish_effect": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "finish_effect", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 5, 
+            "type": 15, 
+            "value": 102137
+        }, 
+        "speed": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "speed", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 1, 
+            "value": 1500.0
+        }
+    }, 
+    "max_duration": 60, 
+    "move_channel": 0, 
+    "move_limitation": 1, 
+    "name": 2027898073, 
+    "sfx_loop": false, 
+    "sound_event_list": [], 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134281458"
+}

@@ -1,0 +1,22 @@
+{
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "\u9635\u8425 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "\u4e2d\u7acb"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "\u73a9\u5bb6 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "\u4e2d\u7acb \u654c\u5bf9"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "\u4e2d\u7acb \u53cb\u5584"
+    }
+}

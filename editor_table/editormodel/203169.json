@@ -1,0 +1,39 @@
+{
+    "describe": 650391490, 
+    "editor_res": false, 
+    "key": 203169, 
+    "map_name": "guofeng", 
+    "model_id": 504686, 
+    "name": -1768085097, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Chinese style", 
+            "code_Three Kingdoms", 
+            "code_Buildings", 
+            "code_Building components", 
+            "code_Stone", 
+            "code_Yellow", 
+            "code_Pillar"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.71, 
+            3.82
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/203169", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.7, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_203169"
+}

@@ -1,0 +1,68 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "OmC8D-PiEe2JtAD-bCuBBP", 
+    "Hero"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "NaLl4fPiEe26xAD-bCuBBF", 
+    "Enemies"
+   ]
+  }
+ ], 
+ "d": {
+  "134279476": {
+   "__tuple__": true, 
+   "items": [
+    "OmC8D-PiEe2JtAD-bCuBBP", 
+    0
+   ]
+  }, 
+  "134264148": {
+   "__tuple__": true, 
+   "items": [
+    "OmC8D-PiEe2JtAD-bCuBBP", 
+    1
+   ]
+  }, 
+  "134236860": {
+   "__tuple__": true, 
+   "items": [
+    "OmC8D-PiEe2JtAD-bCuBBP", 
+    2
+   ]
+  }, 
+  "134273532": {
+   "__tuple__": true, 
+   "items": [
+    "OmC8D-PiEe2JtAD-bCuBBP", 
+    3
+   ]
+  }, 
+  "134231749": {
+   "__tuple__": true, 
+   "items": [
+    "NaLl4fPiEe26xAD-bCuBBF", 
+    0
+   ]
+  }
+ }
+}

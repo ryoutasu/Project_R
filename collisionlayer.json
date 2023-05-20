@@ -1,0 +1,40 @@
+{
+    "names": {
+        "32": "Ground Collision", 
+        "64": "Aerial Collision", 
+        "128": "Water Collision", 
+        "256": "Object Collision"
+    }, 
+    "orders": [
+        32, 
+        64, 
+        128, 
+        256
+    ], 
+    "relations": {
+        "32": [
+            true, 
+            false, 
+            false, 
+            false
+        ], 
+        "64": [
+            false, 
+            true, 
+            false, 
+            false
+        ], 
+        "128": [
+            false, 
+            false, 
+            true, 
+            false
+        ], 
+        "256": [
+            false, 
+            false, 
+            false, 
+            true
+        ]
+    }
+}
