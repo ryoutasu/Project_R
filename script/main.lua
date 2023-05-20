@@ -17,7 +17,17 @@ SUMMON_UNITS = {}
 MAX_SUMMON_NUM = 5
 PLAYER_MAX = 1
 ALL_PLAYER = GameAPI.get_all_role_ids()
-UI_EVENT_LIST = {}
+UI_EVENT_LIST = {
+    ['none'] = -1,
+    ['click_start'] = 1,
+    ['click_end'] = 2,
+    ['click_hover'] = 3,
+    ['double_click'] = 22,
+    ['hover'] = 23,
+    ['move_in'] = 24,
+    ['move_out'] = 25,
+    ['right_click'] = 26,
+}
 
 -- GLOBAL_TABLES - tables
 -- cli.copy_table - deep copy
@@ -41,14 +51,18 @@ function GetArgs(func)
 end
 
 up.game:event('Game-Init', function ()
-
     -- up.wait(0, function()
         print 'Game start'
         local point = up.actor_point(10039)
         local player = up.player(1)
         local hero = up.create_unit(134252905, point, 270, player)
-        -- GameAPI.set_trigger_variable_unit_entity('hero', hero._base)
+        GameAPI.set_trigger_variable_unit_entity('hero', hero._base)
         set_player_movement(player, hero)
+
+        local tg = new_global_trigger(70001, "New Event", "ET_EVENT_CUSTOM", true)
+        tg.on_event = function ()
+            print 'custom event'
+        end
 
         local main_panel = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel')
         for i = 1, 4 do
@@ -57,7 +71,10 @@ up.game:event('Game-Init', function ()
             if skill then
                 GameAPI.set_skill_on_ui_comp(player._base, skill._base, btn)
                 GameAPI.set_ui_comp_visible(player._base, true, btn)
-                -- GameAPI.set_role_key_float_kv(player._base, 'skill_btn_'..i, skill._base)
+                
+                local icon = GameAPI.get_comp_by_path(player._base, btn, 'icon')
+                GameAPI.create_ui_comp_event_ex_ex(icon, 24, 'show_skill_tip')
+                GameAPI.create_ui_comp_event_ex_ex(icon, 25, 'hide_tip')
             else
                 GameAPI.unbind_ui_comp(player._base, btn)
                 GameAPI.set_ui_comp_visible(player._base, false, btn)

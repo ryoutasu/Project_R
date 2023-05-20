@@ -7794,14 +7794,6 @@
  {
   "__tuple__": true, 
   "items": [
-   41, 
-   "Relic Believer", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10194, 
    "Localized Fog", 
    1048576
@@ -14803,7 +14795,7 @@
   "__tuple__": true, 
   "items": [
    10333, 
-   "DUNGEON ENTRY [START]", 
+   "Starting zone entry", 
    4096
   ]
  }, 
@@ -16762,14 +16754,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    162, 
    "wallALPHA", 
    16384
@@ -16893,6 +16877,102 @@
    1640, 
    "Brick", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10357, 
+   "Starting zone spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10358, 
+   "Dungeon entry", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10359, 
+   "Room 1 hero spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10360, 
+   "Room 1 1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10361, 
+   "Room 1 2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10362, 
+   "Room 1 3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10363, 
+   "Room 1 4", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10364, 
+   "Room 1 exit 1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10365, 
+   "Room 1 exit 2", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   41, 
+   "Relic Believer", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10366, 
+   "Boss room 1 hero spawn", 
+   1024
   ]
  }
 ]

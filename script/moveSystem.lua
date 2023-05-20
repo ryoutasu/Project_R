@@ -240,10 +240,14 @@ function set_player_movement(player, unit)
 
     p.unit = unit
     
+    local dash_cd = GameAPI.get_unit_key_float_kv(unit:get_key(), 'dash_cd'):float()
+    local dash_cd_time = 0
     local attack_time = 0
     local attack_count = 0
     local state = 'idle'
     local facing = 270
+
+    local dash_cd_bar = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel.dash_cd')
 
     local anticipation_start = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_start'):float()
     local anticipation_end = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_end'):float()
@@ -257,6 +261,17 @@ function set_player_movement(player, unit)
             attack_time = attack_time - tickrate
             if attack_time <= 0 then attack_count = 0 end
         end
+        
+        if dash_cd_time > 0 then
+            dash_cd_time = dash_cd_time - tickrate
+            
+            GameAPI.set_progress_bar_max_value(player._base, dash_cd_bar, dash_cd)
+            GameAPI.set_progress_bar_current_value(player._base, dash_cd_bar, dash_cd_time)
+
+            if dash_cd_time <= 0 then
+                GameAPI.set_ui_comp_visible(player._base, false, dash_cd_bar)
+            end
+        end
 
         if unit:is_alive() then
             if p.cast_state == 'start' then
@@ -267,7 +282,6 @@ function set_player_movement(player, unit)
             else
                 if p.lmb_pressed and state ~= 'dash' then
                     if state ~= 'attack' then
-                        print('attack start')
                         local point = player:get_mouse_pos()
                         if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
                         state = 'attack'
@@ -301,9 +315,12 @@ function set_player_movement(player, unit)
                 
                 if p.space_pressed then
                     p.space_pressed = false
-                    if state ~= 'dash' and state ~= 'attack' then
+                    if state ~= 'dash' and state ~= 'attack' and dash_cd_time <= 0 then
                         if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
                         state = 'dash'
+
+                        dash_cd_time = dash_cd
+                        GameAPI.set_ui_comp_visible(player._base, true, dash_cd_bar)
 
                         local direction = unit:get_facing()
                         if moved then

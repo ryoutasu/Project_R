@@ -266,7 +266,10 @@
  "tv1": {
   "UI_widget": 2023802187, 
   "Default_Var_Name": 1623222898, 
-  "hero": 1422305604
+  "hero": 1422305604, 
+  "boss_rooms": 1312180825, 
+  "unvisited_rooms": 2007571179, 
+  "normal_rooms": 1866405952
  }, 
  "tv3": {
   "timer": 1687451793

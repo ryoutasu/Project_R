@@ -176,6 +176,17 @@
             "type": 1, 
             "value": 0.0
         }, 
+        "dash_cd": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "dash_cd", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 6, 
+            "type": 1, 
+            "value": 1.0
+        }, 
         "dash_distance": {
             "annotation": "", 
             "desc": "", 

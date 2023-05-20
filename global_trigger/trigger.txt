@@ -3,7 +3,8 @@
     "key": -1, 
     "key_order": {
         "KF0OsLKSEe2XPAD-+E6xse": 2, 
-        "k-yOwLG2Ee2YRwD-+E6xsS": 1
+        "k-yOwLG2Ee2YRwD-+E6xsS": 1, 
+        "kyRJwPcbEe22ZQD-bCuBBO": 49
     }, 
     "name": "trigger", 
     "sub_trigger": {
@@ -271,6 +272,83 @@
             "items": [
                 1772101690, 
                 "hide_tip"
+            ]
+        }, 
+        "40": {
+            "__tuple__": true, 
+            "items": [
+                1025138746, 
+                "Add dungeon room"
+            ]
+        }, 
+        "41": {
+            "__tuple__": true, 
+            "items": [
+                1562009659, 
+                "Add boss room"
+            ]
+        }, 
+        "42": {
+            "__tuple__": true, 
+            "items": [
+                354050108, 
+                "Restart"
+            ]
+        }, 
+        "43": {
+            "__tuple__": true, 
+            "items": [
+                1310351421, 
+                "Enter normal room"
+            ]
+        }, 
+        "44": {
+            "__tuple__": true, 
+            "items": [
+                1863999550, 
+                "All enemies dead"
+            ]
+        }, 
+        "45": {
+            "__tuple__": true, 
+            "items": [
+                1260019775, 
+                "Exits"
+            ]
+        }, 
+        "46": {
+            "__tuple__": true, 
+            "items": [
+                387604544, 
+                "Enter boss room"
+            ]
+        }, 
+        "47": {
+            "__tuple__": true, 
+            "items": [
+                1964662849, 
+                "All enemies dead_3"
+            ]
+        }, 
+        "48": {
+            "__tuple__": true, 
+            "items": [
+                1830445122, 
+                "Exits_2"
+            ]
+        }, 
+        "50": {
+            "__tuple__": true, 
+            "items": [
+                169500740, 
+                "Starting zone enter"
+            ]
+        }, 
+        "51": {
+            "__tuple__": true, 
+            "items": [
+                790257733, 
+                "Start dungeon"
             ]
         }
     }
