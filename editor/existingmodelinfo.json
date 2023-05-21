@@ -17018,14 +17018,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10406, 
    "Boss room 2 hero spawn", 
    1024
@@ -17069,6 +17061,14 @@
    10411, 
    "Boss room 3 exit", 
    4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]

@@ -229,7 +229,7 @@
             "remark": "", 
             "sort": 9, 
             "type": 1, 
-            "value": 100.0
+            "value": 40.0
         }, 
         "lightning_distance": {
             "annotation": "", 
@@ -240,7 +240,7 @@
             "remark": "", 
             "sort": 8, 
             "type": 1, 
-            "value": 600.0
+            "value": 1000.0
         }, 
         "lightning_effect": {
             "annotation": "", 
@@ -251,7 +251,7 @@
             "remark": "", 
             "sort": 7, 
             "type": 33, 
-            "value": 102744
+            "value": 101068
         }, 
         "lightning_end_effect": {
             "annotation": "", 
@@ -262,7 +262,7 @@
             "remark": "", 
             "sort": 10, 
             "type": 15, 
-            "value": 102629
+            "value": 101069
         }, 
         "mana_regen": {
             "annotation": "", 

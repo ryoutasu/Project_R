@@ -44,7 +44,7 @@
     "billboard_scale_y": 1.3, 
     "blood_bar": 262147, 
     "blood_show_type": 0, 
-    "body_size": 1.4, 
+    "body_size": 2.0, 
     "build_res_cost_list": {
         "__tuple__": true, 
         "items": []
