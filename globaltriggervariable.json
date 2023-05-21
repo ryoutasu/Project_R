@@ -937,6 +937,19 @@
                 "player": false
             }
         }, 
+        "1875570739": {
+            "variable_dict": {
+                "SFX_ENTITY": {
+                    "effect": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "effect": 0
+            }, 
+            "variable_type_dict": {
+                "effect": false
+            }
+        }, 
         "2010271789": {
             "variable_dict": {
                 "FLOAT": {

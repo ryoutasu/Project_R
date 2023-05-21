@@ -57,7 +57,7 @@ function mt:get_height()
 end
 
 function mt:set_point(point)
-    GameAPI.set_sfx_position(self._base,point)
+    GameAPI.set_sfx_position(self._base, point._base)
     self.point = point
 end
 

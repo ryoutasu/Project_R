@@ -253,6 +253,17 @@
             "type": 33, 
             "value": 102744
         }, 
+        "lightning_end_effect": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "lightning_end_effect", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 10, 
+            "type": 15, 
+            "value": 102629
+        }, 
         "mana_regen": {
             "annotation": "", 
             "desc": "", 
