@@ -255,7 +255,11 @@ function set_player_movement(player, unit)
 
     p.timer = up.loop(tickrate, function ()
         local unit_point = unit:get_point()
-        player:set_camera(unit_point, 0.25)
+        -- local h = GameAPI.get_point_ground_height(unit_point)
+        -- player:camera_set_focus_y(h, 0.25)
+        -- player:set_camera(unit_point, 0.25, 1)
+        player:use_camera({ x = unit_point.x, y = unit_point.y, dis = 3000, height = unit_point.z, yaw = 0, pitch = 56, fov = 35, time = 0.25 })
+        -- local c = GameAPI.add_camera_conf(Fix32Vec3(data.x/100, h, data.y/100),data.dis/100,(data.height/100),data.yaw-90,360-data.pitch,data.fov)
 
         if attack_time > 0 then
             attack_time = attack_time - tickrate

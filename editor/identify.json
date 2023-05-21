@@ -156,7 +156,7 @@
   "tips_node": 1856546689, 
   "exit_btn": 1388870387, 
   "GameHUD": 1964550707, 
-  "loading_background": 2127577106, 
+  "loading_background": 1800837834, 
   "loading_bar_percent": 1531193198, 
   "label_percent": 1661224287, 
   "loading...": 2061149918, 
@@ -258,8 +258,6 @@
   "chat_box_1": 1128511775, 
   "ui_view_draging_comp_2": 1306434348, 
   "main_panel": 2079243513, 
-  "image_3": 1698885115, 
-  "image_5": 1919064304, 
   "image_6": 1185095026, 
   "desc": 1011527011, 
   "background2": 1510955101, 
@@ -268,7 +266,8 @@
   "dash_cd": 2130621258, 
   "enemies_count": 1412899050, 
   "boss_health": 2130680144, 
-  "Tooltip_MoveAttack": 1721138924
+  "Tooltip_MoveAttack": 1721138924, 
+  "tooltip_fury": 1302657569
  }, 
  "tv1": {
   "UI_widget": 2023802187, 

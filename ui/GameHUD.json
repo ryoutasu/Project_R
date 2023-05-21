@@ -1,6 +1,38 @@
 {
     "children": [
         {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 134238676, 
+            "name": "background", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": [
+                1920.0, 
+                1080.0
+            ], 
+            "type": 4, 
+            "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a", 
+            "visible": false
+        }, 
+        {
             "children": [
                 {
                     "bg_image": 107333, 
@@ -42655,26 +42687,26 @@
                     "comp_anims": [], 
                     "event_list": [], 
                     "image": 134258600, 
-                    "name": "image_3", 
+                    "name": "background", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
                             122.0, 
-                            50.0
+                            30.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
                             49.96760233263205, 
-                            50.0
+                            30.0
                         ]
                     }, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            512.0, 
-                            93.0
+                            505.3333740234375, 
+                            106.33331298828125
                         ]
                     }, 
                     "type": 4, 
@@ -42697,14 +42729,14 @@
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    1037.0
+                    1047.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
                     50.0, 
-                    96.01851851851852
+                    96.94444444444444
                 ]
             }, 
             "size": {
@@ -42722,7 +42754,8 @@
                 ]
             }, 
             "type": 3, 
-            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425"
+            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425", 
+            "visible": false
         }, 
         {
             "adapter_option": [
@@ -42861,7 +42894,14 @@
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    821.5328369140625
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    76.06785526982061
                 ]
             }, 
             "size": {
@@ -42872,7 +42912,8 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "e19f4d5e-5b60-4ab8-9663-af7999008f64"
+            "uid": "e19f4d5e-5b60-4ab8-9663-af7999008f64", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -42898,12 +42939,19 @@
                 }
             ], 
             "image": 134275214, 
-            "name": "image_5", 
+            "name": "tooltip_fury", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    821.5328369140625
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    76.06785526982061
                 ]
             }, 
             "size": {
@@ -42914,7 +42962,8 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "a6dfee2b-b20c-4bde-a1f8-024a45d57af9"
+            "uid": "a6dfee2b-b20c-4bde-a1f8-024a45d57af9", 
+            "visible": false
         }
     ], 
     "editor_visible": false, 

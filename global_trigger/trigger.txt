@@ -344,6 +344,13 @@
                 790257733, 
                 "Start dungeon"
             ]
+        }, 
+        "52": {
+            "__tuple__": true, 
+            "items": [
+                1700372553, 
+                "Boss death"
+            ]
         }
     }
 }

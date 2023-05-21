@@ -17010,17 +17010,17 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
+   10405, 
+   "[ROOM_5] Hero Spawn", 
+   1024
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   10405, 
-   "[ROOM_5] Hero Spawn", 
-   1024
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]
