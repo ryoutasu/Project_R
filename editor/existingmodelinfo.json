@@ -3282,14 +3282,6 @@
  {
   "__tuple__": true, 
   "items": [
-   320, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    40, 
    "wall_4", 
    16384
@@ -7565,14 +7557,6 @@
    457, 
    "Platform", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10196, 
-   "Rectangle", 
-   2048
   ]
  }, 
  {
@@ -16771,7 +16755,7 @@
   "__tuple__": true, 
   "items": [
    10408, 
-   "Boss room 2 exit", 
+   "[BOSSROOM_2] Exit", 
    4096
   ]
  }, 
@@ -17237,6 +17221,94 @@
    9999, 
    "Initial Camera", 
    32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10417, 
+   "[BOSSROOM_2] Exit [PARTICLE]", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10418, 
+   "Point", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   179, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   267, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   268, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   269, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   272, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   273, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   274, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   275, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   277, 
+   "PillarNew", 
+   16384
   ]
  }
 ]
