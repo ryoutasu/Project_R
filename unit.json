@@ -1,6 +1,6 @@
 {
     "unit": {
-        "2": {
+        "3": {
             "components": {
                 "__attr": {
                     "hp_percent": 100, 
@@ -9,11 +9,11 @@
                 }, 
                 "ability": {
                     "1_1": [
-                        201347498, 
+                        134228210, 
                         1
                     ], 
                     "2_1": [
-                        201333466, 
+                        134265874, 
                         1
                     ]
                 }, 
@@ -41,16 +41,237 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                -79, 
-                                720568320
+                                -88, 
+                                1267171328
+                            ], 
+                            [
+                                5, 
+                                4058865664
+                            ], 
+                            [
+                                78, 
+                                1938849792
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            3077643634
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134275126, 
+            "name": "RANGED CREEP", 
+            "type": 4, 
+            "unit_id": 3
+        }, 
+        "8": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201381387, 
+                        1
+                    ], 
+                    "2_1": [
+                        201329353, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -52, 
+                                653721600
+                            ], 
+                            [
+                                5, 
+                                4156848128
+                            ], 
+                            [
+                                77, 
+                                3768188928
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134267891, 
+            "name": "MELEE CREEP", 
+            "type": 4, 
+            "unit_id": 8
+        }, 
+        "9": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201381387, 
+                        1
+                    ], 
+                    "2_1": [
+                        201329353, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -73, 
+                                3284959232
+                            ], 
+                            [
+                                5, 
+                                3172458496
+                            ], 
+                            [
+                                56, 
+                                3502768128
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            -2, 
+                            2892616859
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134267891, 
+            "name": "MELEE CREEP", 
+            "type": 4, 
+            "unit_id": 9
+        }, 
+        "11": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201381387, 
+                        1
+                    ], 
+                    "2_1": [
+                        201329353, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -82, 
+                                3647569920
                             ], 
                             [
                                 1, 
-                                3623391744
+                                2310525952
                             ], 
                             [
-                                112, 
-                                286228480
+                                110, 
+                                2862022656
                             ]
                         ]
                     }, 
@@ -65,15 +286,236 @@
                         "__tuple__": true, 
                         "items": [
                             -3, 
-                            3337281017
+                            2691036737
                         ]
                     }
                 }
             }, 
-            "entity_id": 201391110, 
-            "name": "Relic Crawler", 
+            "entity_id": 134267891, 
+            "name": "MELEE CREEP", 
             "type": 4, 
-            "unit_id": 2
+            "unit_id": 11
+        }, 
+        "12": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201381387, 
+                        1
+                    ], 
+                    "2_1": [
+                        201329353, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -58, 
+                                2018574336
+                            ], 
+                            [
+                                1, 
+                                4240424448
+                            ], 
+                            [
+                                102, 
+                                3844702208
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            -1, 
+                            1791585939
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134267891, 
+            "name": "MELEE CREEP", 
+            "type": 4, 
+            "unit_id": 12
+        }, 
+        "13": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201381387, 
+                        1
+                    ], 
+                    "2_1": [
+                        201329353, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -61, 
+                                903577600
+                            ], 
+                            [
+                                1, 
+                                3890395648
+                            ], 
+                            [
+                                103, 
+                                641630208
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134267891, 
+            "name": "MELEE CREEP", 
+            "type": 4, 
+            "unit_id": 13
+        }, 
+        "15": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        134228210, 
+                        1
+                    ], 
+                    "2_1": [
+                        134265874, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -74, 
+                                3393454080
+                            ], 
+                            [
+                                5, 
+                                2802661376
+                            ], 
+                            [
+                                53, 
+                                4020322304
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            -1, 
+                            2157900397
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134275126, 
+            "name": "RANGED CREEP", 
+            "type": 4, 
+            "unit_id": 15
         }, 
         "16": {
             "components": {
@@ -225,220 +667,7 @@
             "type": 4, 
             "unit_id": 17
         }, 
-        "21": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ], 
-                    "2_1": [
-                        201333466, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                -89, 
-                                3759603712
-                            ], 
-                            [
-                                6, 
-                                2077208576
-                            ], 
-                            [
-                                69, 
-                                1654521856
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 201391110, 
-            "name": "Relic Crawler", 
-            "type": 4, 
-            "unit_id": 21
-        }, 
-        "22": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ], 
-                    "2_1": [
-                        201333466, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                -90, 
-                                1269170176
-                            ], 
-                            [
-                                5, 
-                                3343601664
-                            ], 
-                            [
-                                67, 
-                                450494464
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 201391110, 
-            "name": "Relic Crawler", 
-            "type": 4, 
-            "unit_id": 22
-        }, 
-        "31": {
-            "components": {
-                "__attr": {}, 
-                "ability": {
-                    "1_1": [
-                        201347498, 
-                        1
-                    ], 
-                    "2_1": [
-                        201333466, 
-                        1
-                    ]
-                }, 
-                "camp": {
-                    "role_id": 31
-                }, 
-                "display": {
-                    "real_scale": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "drop_item": null, 
-                "item": {}, 
-                "movement": {
-                    "pitch": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "position": {
-                        "__tuple__": true, 
-                        "items": [
-                            [
-                                -28, 
-                                1406640128
-                            ], 
-                            [
-                                5, 
-                                4228700160
-                            ], 
-                            [
-                                75, 
-                                4174118912
-                            ]
-                        ]
-                    }, 
-                    "roll": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }, 
-                    "yaw": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "entity_id": 201391110, 
-            "name": "Relic Crawler", 
-            "type": 4, 
-            "unit_id": 31
-        }, 
-        "41": {
+        "18": {
             "components": {
                 "__attr": {
                     "hp_percent": 100, 
@@ -447,11 +676,11 @@
                 }, 
                 "ability": {
                     "1_1": [
-                        134231749, 
+                        134228210, 
                         1
                     ], 
                     "2_1": [
-                        134251344, 
+                        134265874, 
                         1
                     ]
                 }, 
@@ -460,9 +689,9 @@
                 }, 
                 "display": {
                     "real_scale": [
-                        1.1999999999534339, 
-                        1.1999999999534339, 
-                        1.1999999999534339
+                        1.0, 
+                        1.0, 
+                        1.0
                     ]
                 }, 
                 "drop_item": null, 
@@ -479,16 +708,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                -12, 
-                                1611227136
+                                -54, 
+                                317571072
                             ], 
                             [
-                                0, 
-                                0
+                                6, 
+                                2281488384
                             ], 
                             [
-                                -133, 
-                                3157065728
+                                79, 
+                                2863693824
                             ]
                         ]
                     }, 
@@ -502,16 +731,91 @@
                     "yaw": {
                         "__tuple__": true, 
                         "items": [
-                            -1, 
-                            4160718146
+                            3, 
+                            171055019
                         ]
                     }
                 }
             }, 
-            "entity_id": 134271643, 
-            "name": "Relic Believer", 
+            "entity_id": 134275126, 
+            "name": "RANGED CREEP", 
             "type": 4, 
-            "unit_id": 41
+            "unit_id": 18
+        }, 
+        "19": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        134228210, 
+                        1
+                    ], 
+                    "2_1": [
+                        134265874, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -51, 
+                                3259465728
+                            ], 
+                            [
+                                6, 
+                                283637760
+                            ], 
+                            [
+                                79, 
+                                2320007168
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            -3, 
+                            439545798
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134275126, 
+            "name": "RANGED CREEP", 
+            "type": 4, 
+            "unit_id": 19
         }, 
         "46": {
             "components": {

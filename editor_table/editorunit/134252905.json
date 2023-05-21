@@ -1,11 +1,13 @@
 {
     "1": 1, 
-    "3": 360.0, 
-    "4": 1.5, 
+    "3": 270.0, 
+    "4": 2.0, 
     "5": 1, 
     "6": 0, 
     "15": 100.0, 
     "16": 1500.0, 
+    "100": 0.0, 
+    "101": 0.0, 
     "4001": 2.5, 
     "4002": 0.8, 
     "_custom_": true, 
@@ -33,15 +35,12 @@
     "bar_show_name": 0, 
     "bar_show_scale": true, 
     "bar_slot_size": 6, 
-    "base_tint_color": {
-        "__tuple__": true, 
-        "items": [
-            255, 
-            255, 
-            255, 
-            0.5
-        ]
-    }, 
+    "base_tint_color": [
+        30, 
+        10, 
+        0, 
+        1.0
+    ], 
     "billboard_height_offset": 0.0, 
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1.0, 
@@ -89,8 +88,8 @@
     "default_behaviour_type": "", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
-    "defense_phy": 10.0, 
-    "defense_phy_grow": 5.0, 
+    "defense_phy": 0.0, 
+    "defense_phy_grow": 0.0, 
     "description": -1579869200, 
     "destroy_after_die": true, 
     "die_anim": "die", 
@@ -136,9 +135,9 @@
     ], 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 1000.0, 
+    "hp_max": 750.0, 
     "hp_max_grow": 100.0, 
-    "hp_rec": 10, 
+    "hp_rec": 2.0, 
     "hp_rec_grow": 1, 
     "icon": 133739, 
     "idle_anim": "idle1", 
@@ -185,7 +184,7 @@
             "remark": "", 
             "sort": 6, 
             "type": 1, 
-            "value": 1.0
+            "value": 0.5
         }, 
         "dash_distance": {
             "annotation": "", 
@@ -229,7 +228,7 @@
             "remark": "", 
             "sort": 9, 
             "type": 1, 
-            "value": 40.0
+            "value": 30.0
         }, 
         "lightning_distance": {
             "annotation": "", 
@@ -314,7 +313,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 1000.0, 
+    "preview_billboard_health_value": 750.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
@@ -394,7 +393,7 @@
     "type": 1, 
     "uid": "134252905", 
     "use_base_tint_color": false, 
-    "use_simple_mini_map_icon": false, 
+    "use_simple_mini_map_icon": true, 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 
     "vampire_phy": 0.0, 

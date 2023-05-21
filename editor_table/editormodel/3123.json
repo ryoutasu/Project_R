@@ -18,6 +18,13 @@
             "code_Black"
         ]
     }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.4, 
+            1.8
+        ]
+    }, 
     "preview_icon": "UP1ModelPreview/3123", 
     "release_delete": {
         "__tuple__": true, 
@@ -25,7 +32,7 @@
     }, 
     "release_hide": false, 
     "res_identify": "all", 
-    "select_effect_scale": 1.25, 
+    "select_effect_scale": 0.8, 
     "socket_info": {
         "attack1": {
             "__tuple__": true, 

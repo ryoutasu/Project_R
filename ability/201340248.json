@@ -435,7 +435,7 @@
                                         {
                                             "arg_type": 100066, 
                                             "args_list": [
-                                                104022
+                                                102632
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -605,7 +605,7 @@
             "script": "", 
             "trigger_id": 1644036097, 
             "trigger_name": "Attack", 
-            "valid": false
+            "valid": true
         }, 
         "1865752579": {
             "action": [

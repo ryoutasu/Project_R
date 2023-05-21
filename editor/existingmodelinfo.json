@@ -26,14 +26,6 @@
  {
   "__tuple__": true, 
   "items": [
-   134, 
-   "Wall", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    135, 
    "Wall", 
    16777216
@@ -4618,142 +4610,6 @@
  {
   "__tuple__": true, 
   "items": [
-   514, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   515, 
-   "Pillar", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   4, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   5, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   6, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   7, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   8, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   9, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   11, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   12, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   13, 
-   "PILLAR", 
-   256
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10133, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10134, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10139, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10140, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10141, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10143, 
    "Point Light", 
    131072
@@ -5578,14 +5434,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10152, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    548, 
    "Tent", 
    16777216
@@ -5834,14 +5682,6 @@
  {
   "__tuple__": true, 
   "items": [
-   148, 
-   "Massif", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    389, 
    "Massif", 
    16777216
@@ -5876,14 +5716,6 @@
   "items": [
    339, 
    "Brick", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   149, 
-   "Massif", 
    16777216
   ]
  }, 
@@ -7194,14 +7026,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10176, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10177, 
    "Localized Fog", 
    1048576
@@ -7349,30 +7173,6 @@
    10181, 
    "Point Light", 
    131072
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10184, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10186, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10187, 
-   "Localized Fog", 
-   1048576
   ]
  }, 
  {
@@ -7730,14 +7530,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10194, 
-   "Localized Fog", 
-   1048576
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10195, 
    "Point Light", 
    131072
@@ -7821,14 +7613,6 @@
    161, 
    "wallStandardLong", 
    16384
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10206, 
-   "Localized Fog", 
-   1048576
   ]
  }, 
  {
@@ -9933,14 +9717,6 @@
    772, 
    "9vm_vampire_retainingwall01", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10208, 
-   "Localized Fog", 
-   1048576
   ]
  }, 
  {
@@ -14706,38 +14482,6 @@
  {
   "__tuple__": true, 
   "items": [
-   2, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   21, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   22, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   31, 
-   "Relic Crawler", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    1468, 
    "Moss stone", 
    16777216
@@ -16738,14 +16482,6 @@
  {
   "__tuple__": true, 
   "items": [
-   41, 
-   "Relic Believer", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10366, 
    "Boss room 1 hero spawn", 
    1024
@@ -17060,6 +16796,438 @@
   "items": [
    10411, 
    "Boss room 3 exit", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "RANGED CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1643, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1644, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1645, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1646, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1647, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1648, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1649, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1650, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1652, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1654, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   15, 
+   "RANGED CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   18, 
+   "RANGED CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   19, 
+   "RANGED CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1641, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1657, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1658, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1659, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1660, 
+   "NPC3052", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1661, 
+   "NPC3052", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1662, 
+   "NPC3052", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1663, 
+   "NPC3052", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1664, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1665, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1666, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   170, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   173, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   185, 
+   "wallStandardLong", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10412, 
+   "Spot Light", 
+   262144
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10413, 
+   "Localized Fog", 
+   1048576
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1642, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1667, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1668, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1669, 
+   "Door", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1670, 
+   "Wall", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1671, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1672, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1674, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   213, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   262, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   263, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   264, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   265, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   266, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   270, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   271, 
+   "PillarNew", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "MELEE CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9, 
+   "MELEE CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   11, 
+   "MELEE CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   12, 
+   "MELEE CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   13, 
+   "MELEE CREEP", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10414, 
+   "Circle", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10415, 
+   "Circle", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10416, 
+   "Circle", 
    4096
   ]
  }, 

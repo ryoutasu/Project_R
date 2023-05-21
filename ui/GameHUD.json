@@ -14,7 +14,7 @@
             "children": [], 
             "comp_anims": [], 
             "event_list": [], 
-            "image": 134238676, 
+            "image": 134267786, 
             "name": "blackout", 
             "opacity": 0.0, 
             "open_adapter": true, 
@@ -42900,20 +42900,20 @@
                     "type": 1
                 }
             ], 
-            "image": 134225751, 
-            "name": "Tooltip_MoveAttack", 
+            "image": 134282005, 
+            "name": "Tooltip_WASD", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    821.5328369140625
+                    823.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
                     50.0, 
-                    76.06785526982061
+                    76.20370370370371
                 ]
             }, 
             "size": {
@@ -42945,25 +42945,25 @@
                         }
                     ], 
                     "enabled": true, 
-                    "name": "image_5_0", 
+                    "name": "Tooltip_Attack_0", 
                     "sound_id": null, 
                     "type": 1
                 }
             ], 
-            "image": 134275214, 
-            "name": "tooltip_fury", 
+            "image": 134263274, 
+            "name": "Tooltip_Attack", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    821.5328369140625
+                    823.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
                     50.0, 
-                    76.06785526982061
+                    76.20370370370371
                 ]
             }, 
             "size": {
@@ -42976,9 +42976,109 @@
             "type": 4, 
             "uid": "a6dfee2b-b20c-4bde-a1f8-024a45d57af9", 
             "visible": false
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 7, 
+                            "comp": "e84c4c13-af35-4e65-b1ce-b528e9ba4401", 
+                            "ease_type": 0, 
+                            "name": "Anim_3", 
+                            "open_timeline": true, 
+                            "type": 1
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "Tooltip_Dash_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "image": 134245966, 
+            "name": "Tooltip_Dash", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    823.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    76.20370370370371
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    512.0, 
+                    176.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "e84c4c13-af35-4e65-b1ce-b528e9ba4401", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 7, 
+                            "comp": "09fff193-3710-42bf-b2ce-1a2ea2ce1edf", 
+                            "ease_type": 0, 
+                            "name": "Anim_4", 
+                            "open_timeline": true, 
+                            "type": 1
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "Tooltip_Enrage_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "image": 134275214, 
+            "name": "Tooltip_Enrage", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    823.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    76.20370370370371
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    512.0, 
+                    176.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "09fff193-3710-42bf-b2ce-1a2ea2ce1edf", 
+            "visible": false
         }
     ], 
-    "editor_visible": true, 
+    "editor_visible": false, 
     "name": "GameHUD", 
     "opacity": 1.0, 
     "type": 2, 

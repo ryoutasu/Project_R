@@ -12,13 +12,14 @@
         "height_fog_color": {
             "__tuple__": true, 
             "items": [
-                36, 
-                36, 
-                36, 
+                137, 
+                137, 
+                137, 
                 1
             ]
         }, 
-        "height_fog_end": 28.0
+        "height_fog_end": 17.5, 
+        "height_fog_fall_off": 1.0
     }, 
     "fog_war": {
         "fog_war_put_gray_color": {
@@ -120,6 +121,6 @@
     "vignetting": {
         "vignetting_change_range": 0.9999999999999999, 
         "vignetting_open": true, 
-        "vignetting_size": 0.40000000000000013
+        "vignetting_size": 0.5
     }
 }

@@ -266,9 +266,11 @@
   "dash_cd": 2130621258, 
   "enemies_count": 1412899050, 
   "boss_health": 2130680144, 
-  "Tooltip_MoveAttack": 1721138924, 
-  "tooltip_fury": 1302657569, 
-  "blackout": 2044178210
+  "blackout": 2044178210, 
+  "Tooltip_WASD": 2017304939, 
+  "Tooltip_Attack": 1655553285, 
+  "Tooltip_Dash": 1951551389, 
+  "Tooltip_Enrage": 1853699569
  }, 
  "tv1": {
   "UI_widget": 2023802187, 
