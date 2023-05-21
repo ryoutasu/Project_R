@@ -1,5 +1,30 @@
 {
-    "b": [], 
+    "b": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "hp_rec", 
+                {
+                    "default": 1.0, 
+                    "desc": "HP\u00a0Recovery\u00a0(/s)", 
+                    "maximun": 1000000000.0, 
+                    "minimun": -1000000000.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "hp_max", 
+                {
+                    "default": 10.0, 
+                    "desc": "Max HP", 
+                    "maximun": 1000000000.0, 
+                    "minimun": 1.0
+                }
+            ]
+        }
+    ], 
     "c": [], 
     "p": [
         {

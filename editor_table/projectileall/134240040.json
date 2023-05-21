@@ -1,0 +1,80 @@
+{
+    "_custom_": true, 
+    "_ref_": 134240040, 
+    "async_effect": false, 
+    "description": 1362980229, 
+    "effect_foes": [
+        100492, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1.0, 
+                1.0, 
+                1.0
+            ]
+        }, 
+        3.0
+    ], 
+    "effect_friend": [
+        100492, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1.0, 
+                1.0, 
+                1.0
+            ]
+        }, 
+        3.0
+    ], 
+    "icon": 100000, 
+    "key": 134240040, 
+    "kv": {}, 
+    "max_duration": 60, 
+    "move_channel": 0, 
+    "move_limitation": 1, 
+    "name": -426999877, 
+    "sfx_loop": false, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "134240040"
+}

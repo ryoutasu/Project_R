@@ -100,7 +100,7 @@
                     "desc": "gold", 
                     "icon_id": 100000, 
                     "is_coin": true, 
-                    "is_editored": false, 
+                    "is_editored": true, 
                     "key": "official_res_1", 
                     "maximun": [
                         1000000, 

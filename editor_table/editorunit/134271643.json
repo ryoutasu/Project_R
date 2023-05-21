@@ -62,7 +62,12 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_ability_list": [], 
+    "common_ability_list": [
+        [
+            134251344, 
+            1
+        ]
+    ], 
     "common_atk": [
         134231749, 
         1
