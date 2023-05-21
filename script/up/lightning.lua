@@ -45,13 +45,13 @@ up.lightning = function(data)
         data.target_height = Fix32(data.target_height)
     end
     if data.source.type == 'unit' and data.target.type == 'point' then
-        lightning.light = GameAPI.create_link_sfx_from_unit_to_point(data.id,data.source,data.source_socket,data.target._base,data.target_height)
+        lightning.light = GameAPI.create_link_sfx_from_unit_to_point(data.id, data.source._base, data.source_socket, data.target._base, data.target_height)
     elseif data.source.type == 'unit' and data.target.type == 'unit' then
-        lightning.light = GameAPI.create_link_sfx_from_unit_to_unit(data.id,data.source,data.source_socket,data.target,data.target_socket)
+        lightning.light = GameAPI.create_link_sfx_from_unit_to_unit(data.id, data.source._base, data.source_socket, data.target, data.target_socket)
     elseif data.source.type == 'point' and data.target.type == 'unit' then
-        lightning.light = GameAPI.create_link_sfx_from_point_to_unit(data.id,data.source._base,data.source_height,data.target,data.target_socket)
+        lightning.light = GameAPI.create_link_sfx_from_point_to_unit(data.id, data.source._base, data.source_height, data.target, data.target_socket)
     elseif data.source.type == 'point' and data.target.type == 'point' then
-        lightning.light = GameAPI.create_link_sfx_from_point_to_point(data.id,data.source._base,data.source_height,data.target._base,data.target_height)
+        lightning.light = GameAPI.create_link_sfx_from_point_to_point(data.id, data.source._base, data.source_height, data.target._base, data.target_height)
     else
         up.print('Lightning effect creation that does not meet the requirements')
     end

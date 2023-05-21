@@ -111,7 +111,7 @@ end
 
 function mt:offset(angle,distance)
     local x, y = self.x, self.y
-    return up.actor_point(GlobalAPI.get_point_offset_vector(Fix32Vec3(x, 0, y),Fix32(angle),Fix32(distance)))
+    return up.actor_point(GlobalAPI.get_point_offset_vector(self._base, Fix32(angle), Fix32(distance)))
 end
 
 

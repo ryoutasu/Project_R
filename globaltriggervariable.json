@@ -420,21 +420,11 @@
         }, 
         "857366595": {
             "variable_dict": {
-                "ROUND_AREA": {
-                    "exit_1": 0
-                }, 
-                "SFX_ENTITY": {
-                    "particle_1": 0
-                }
+                "ROUND_AREA": {}, 
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "exit_1": 0, 
-                "particle_1": 0
-            }, 
-            "variable_type_dict": {
-                "exit_1": false, 
-                "particle_1": false
-            }
+            "variable_length_dict": {}, 
+            "variable_type_dict": {}
         }, 
         "863993900": {
             "variable_dict": {

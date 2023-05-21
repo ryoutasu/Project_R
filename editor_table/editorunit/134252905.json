@@ -161,7 +161,7 @@
             "key": "anticipation_end", 
             "prop_cls": "PFloat", 
             "remark": "", 
-            "sort": 1, 
+            "sort": 2, 
             "type": 1, 
             "value": 0.4
         }, 
@@ -172,7 +172,7 @@
             "key": "anticipation_start", 
             "prop_cls": "PFloat", 
             "remark": "", 
-            "sort": 0, 
+            "sort": 1, 
             "type": 1, 
             "value": 0.0
         }, 
@@ -194,7 +194,7 @@
             "key": "dash_distance", 
             "prop_cls": "PFloat", 
             "remark": "", 
-            "sort": 4, 
+            "sort": 5, 
             "type": 1, 
             "value": 400.0
         }, 
@@ -205,7 +205,7 @@
             "key": "dash_effect", 
             "prop_cls": "PInt", 
             "remark": "", 
-            "sort": 2, 
+            "sort": 3, 
             "type": 15, 
             "value": 103563
         }, 
@@ -216,9 +216,42 @@
             "key": "dash_speed", 
             "prop_cls": "PFloat", 
             "remark": "", 
-            "sort": 3, 
+            "sort": 4, 
             "type": 1, 
             "value": 2000.0
+        }, 
+        "lightning_damage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "lightning_damage", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 9, 
+            "type": 1, 
+            "value": 100.0
+        }, 
+        "lightning_distance": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "lightning_distance", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "sort": 8, 
+            "type": 1, 
+            "value": 600.0
+        }, 
+        "lightning_effect": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 89, 
+            "key": "lightning_effect", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 7, 
+            "type": 33, 
+            "value": 102744
         }, 
         "mana_regen": {
             "annotation": "", 
@@ -227,7 +260,7 @@
             "key": "mana_regen", 
             "prop_cls": "PFloat", 
             "remark": "", 
-            "sort": 5, 
+            "sort": 0, 
             "type": 1, 
             "value": 5.0
         }

@@ -240,26 +240,30 @@ function set_player_movement(player, unit)
 
     p.unit = unit
     
-    local dash_cd = GameAPI.get_unit_key_float_kv(unit:get_key(), 'dash_cd'):float()
-    local dash_cd_time = 0
     local attack_time = 0
     local attack_count = 0
     local state = 'idle'
     local facing = 270
-
-    local dash_cd_bar = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel.dash_cd')
-
+    
     local anticipation_start = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_start'):float()
     local anticipation_end = GameAPI.get_unit_key_float_kv(unit:get_key(), 'anticipation_end'):float()
+    
+    local dash_cd = GameAPI.get_unit_key_float_kv(unit:get_key(), 'dash_cd'):float()
+    local dash_cd_time = 0
+
+    local lightning
+    local lightning_effect = GameAPI.get_unit_key_model_kv(unit:get_key(), 'lightning_effect')
+    local lightning_distance = GameAPI.get_unit_key_float_kv(unit:get_key(), 'lightning_distance'):float()
+    local lightning_damage = GameAPI.get_unit_key_float_kv(unit:get_key(), 'lightning_damage'):float()
+
+    local dash_cd_bar = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel.dash_cd')
+    local selector = up.selector():is_enemy(unit)
+
     player:set_camera(unit:get_point(), 0)
 
     p.timer = up.loop(tickrate, function ()
         local unit_point = unit:get_point()
-        -- local h = GameAPI.get_point_ground_height(unit_point)
-        -- player:camera_set_focus_y(h, 0.25)
-        -- player:set_camera(unit_point, 0.25, 1)
         player:use_camera({ x = unit_point.x, y = unit_point.y, dis = 3000, height = unit_point.z, yaw = 0, pitch = 56, fov = 35, time = 0.25 })
-        -- local c = GameAPI.add_camera_conf(Fix32Vec3(data.x/100, h, data.y/100),data.dis/100,(data.height/100),data.yaw-90,360-data.pitch,data.fov)
 
         if attack_time > 0 then
             attack_time = attack_time - tickrate
@@ -287,7 +291,10 @@ function set_player_movement(player, unit)
                 if p.lmb_pressed and state ~= 'dash' then
                     if state ~= 'attack' then
                         local point = player:get_mouse_pos()
-                        if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
+                        if state == 'defend' then
+                            unit:add('move_speed', defend_slow, 'AllRatio')
+                            if lightning then lightning:show(false); lightning:remove() end
+                        end
                         state = 'attack'
 
                         local attack_speed = unit:get('attack_speed') / 100
@@ -320,7 +327,10 @@ function set_player_movement(player, unit)
                 if p.space_pressed then
                     p.space_pressed = false
                     if state ~= 'dash' and state ~= 'attack' and dash_cd_time <= 0 then
-                        if state == 'defend' then unit:add('move_speed', defend_slow, 'AllRatio') end
+                        if state == 'defend' then
+                            unit:add('move_speed', defend_slow, 'AllRatio')
+                            if lightning then lightning:show(false); lightning:remove() end
+                        end
                         state = 'dash'
 
                         dash_cd_time = dash_cd
@@ -334,6 +344,8 @@ function set_player_movement(player, unit)
                             state = 'idle'
                             unit:stop_animation()
                             unit:remove_restriction('ForbidAbilities')
+                            point = up.actor_point(unit._base.api_find_nearest_valid_position())
+                            unit:set_point(point, true)
                         end
                         dash(player, direction, end_dash)
                         unit:add_animation({ name = 'walk', loop = true, speed = 2, })
@@ -343,10 +355,21 @@ function set_player_movement(player, unit)
 
                 if state ~= 'dash' then
                     if p.rmb_pressed and state ~= 'attack' then
+                        facing = unit_point / player:get_mouse_pos()
+
                         if state ~= 'defend' then
                             state = 'defend'
                             unit:add('move_speed', -defend_slow, 'AllRatio')
                             unit:add_animation({ name = 'defend', init_time = 0, end_time = 0.15, loop = false, speed = 0.5, return_idle = false })
+
+                            -- if lightning then lightning:show(false); lightning:remove() end
+                            lightning = up.lightning({
+                                source = unit,
+                                target = unit_point:offset(unit:get_facing(), lightning_distance),
+                                target_height = 60,
+                                id = lightning_effect,
+                                source_socket = 'weapon1',
+                            })
 
                             up.wait(0.3, function()
                                 if state == 'defend' then
@@ -355,10 +378,23 @@ function set_player_movement(player, unit)
                             end)
                         end
 
-                        facing = unit:get_point() / player:get_mouse_pos()
+                        if lightning then
+                            lightning:set({
+                                target = unit_point:offset(unit:get_facing(), lightning_distance),
+                                point_type = 'end',
+                                height = 60
+                            })
+                            
+                            selector:in_line(unit_point:offset(unit:get_facing(), lightning_distance/2), unit:get_facing(), lightning_distance, 50)
+                                :select(function (u)
+                                    unit:damage{ target = u, damage = lightning_damage*tickrate, type = 2 }
+                                end)
+                        end
                     end
 
                     if not p.rmb_pressed and state == 'defend' then
+                        print('stop defend')
+                        if lightning then lightning:show(false); lightning:remove() end
                         state = 'idle'
                         unit:add('move_speed', defend_slow, 'AllRatio')
                         unit:stop_animation()
