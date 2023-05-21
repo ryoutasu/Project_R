@@ -17022,5 +17022,53 @@
    "Initial Camera", 
    32768
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10406, 
+   "Boss room 2 hero spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10407, 
+   "Boss room 2 boss spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10408, 
+   "Boss room 2 exit", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10409, 
+   "Boss room 3 hero spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10410, 
+   "Boss room 3 boss spawn", 
+   1024
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10411, 
+   "Boss room 3 exit", 
+   4096
+  ]
  }
 ]

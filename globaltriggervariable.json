@@ -115,6 +115,19 @@
                 "is_bag_open": false
             }
         }, 
+        "354050108": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "reset_bosses": false
+                }
+            }, 
+            "variable_length_dict": {
+                "reset_bosses": 0
+            }, 
+            "variable_type_dict": {
+                "reset_bosses": false
+            }
+        }, 
         "366354479": {
             "variable_dict": {
                 "PLAYER": {
@@ -139,12 +152,14 @@
                     "boss_number": 0, 
                     "r": 0
                 }, 
+                "NEW_TIMER": {
+                    "timer": -1
+                }, 
                 "ROUND_AREA": {
-                    "exit": 0, 
-                    "exit_1": 0
+                    "exit": 0
                 }, 
                 "SFX_ENTITY": {
-                    "particle_1": 0
+                    "particle": 0
                 }, 
                 "TABLE": {
                     "room": null
@@ -157,19 +172,19 @@
                 "boss_number": 0, 
                 "enemy": 0, 
                 "exit": 0, 
-                "exit_1": 0, 
-                "particle_1": 0, 
+                "particle": 0, 
                 "r": 0, 
-                "room": 0
+                "room": 0, 
+                "timer": 0
             }, 
             "variable_type_dict": {
                 "boss_number": false, 
                 "enemy": false, 
                 "exit": false, 
-                "exit_1": false, 
-                "particle_1": false, 
+                "particle": false, 
                 "r": false, 
-                "room": false
+                "room": false, 
+                "timer": false
             }
         }, 
         "503767069": {
@@ -997,7 +1012,8 @@
     "variable_comments": {}, 
     "variable_dict": {
         "INTEGER": {
-            "GLOBAL_BAG_MAX_NUM": 0
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "next_boss": 0
         }, 
         "NEW_TIMER": {}, 
         "SCENE_UI": {
@@ -1064,6 +1080,13 @@
                 "normal_rooms", 
                 "normal_rooms"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "next_boss", 
+                "next_boss"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -1072,6 +1095,7 @@
         "UI_widget": 0, 
         "boss_rooms": 0, 
         "hero": 0, 
+        "next_boss": 0, 
         "normal_rooms": 0, 
         "unvisited_rooms": 0
     }, 
@@ -1081,6 +1105,7 @@
         "UI_widget": false, 
         "boss_rooms": false, 
         "hero": false, 
+        "next_boss": false, 
         "normal_rooms": false, 
         "unvisited_rooms": false
     }

@@ -275,7 +275,9 @@
   "hero": 1422305604, 
   "boss_rooms": 1312180825, 
   "unvisited_rooms": 2007571179, 
-  "normal_rooms": 1866405952
+  "normal_rooms": 1866405952, 
+  "bosses_passed": 1570166182, 
+  "next_boss": 1673109460
  }, 
  "tv3": {
   "timer": 1687451793
