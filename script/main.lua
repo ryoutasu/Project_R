@@ -39,6 +39,7 @@ require 'up'
 local setmetatable = setmetatable
 
 require 'moveSystem'
+require 'ui'
 
 local MAP_RECT = GameAPI.get_usable_map_range()
 
@@ -53,51 +54,29 @@ end
 up.game:event('Game-Init', function ()
     -- up.wait(0, function()
         print 'Game start'
-        local point = up.actor_point(10039)
         local player = up.player(1)
-        local hero = up.create_unit(134252905, point, 270, player)
-        GameAPI.set_trigger_variable_unit_entity('hero', hero._base)
-        set_player_movement(player, hero)
+        local point = up.actor_point(10039)
+        player:set_camera(point, 0)
 
-        local tg = new_global_trigger(70001, "New Event", "ET_EVENT_CUSTOM", true)
-        tg.on_event = function ()
-            print 'custom event'
-        end
+        local opacity = 100
+        local blackout = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.blackout')
+        GameAPI.set_ui_comp_opacity(player._base, blackout, opacity)
+        GameAPI.set_ui_comp_visible(player._base, true, blackout)
 
-        local main_panel = GameAPI.get_comp_by_absolute_path(player._base, 'GameHUD.main_panel')
-        for i = 1, 4 do
-            local skill = hero:find_skill('Hero', nil, i)
-            local btn = GameAPI.get_comp_by_path(player._base, main_panel, 'skill_list.skill_btn_' .. i .. '.skill_btn')
-            if skill then
-                GameAPI.set_skill_on_ui_comp(player._base, skill._base, btn)
-                GameAPI.set_ui_comp_visible(player._base, true, btn)
-                
-                local icon = GameAPI.get_comp_by_path(player._base, btn, 'icon')
-                GameAPI.create_ui_comp_event_ex_ex(icon, 24, 'show_skill_tip')
-                GameAPI.create_ui_comp_event_ex_ex(icon, 25, 'hide_tip')
-            else
-                GameAPI.unbind_ui_comp(player._base, btn)
-                GameAPI.set_ui_comp_visible(player._base, false, btn)
+        local t
+        t = up.loop(1/30, function()
+            opacity = opacity - 1
+            GameAPI.set_ui_comp_opacity(player._base, blackout, opacity)
+            if opacity <= 0 then
+                GameAPI.set_ui_comp_visible(player._base, false, blackout)
+
+                local hero = up.create_unit(134252905, point, 270, player)
+                GameAPI.set_trigger_variable_unit_entity('hero', hero._base)
+                set_player_movement(player, hero)
+                init_ui(player, hero)
+
+                t:remove()
             end
-        end
-
-        local hp_bar = GameAPI.get_comp_by_path(player._base, main_panel, 'hp_bar')
-        GameAPI.set_ui_comp_bind_attr(player._base, hp_bar, 'current_value_bind', 'hp_cur', 2)
-        GameAPI.set_ui_comp_bind_attr(player._base, hp_bar, 'max_value_bind', 'hp_max', 2)
-        GameAPI.ui_comp_bind_unit(player._base, hp_bar, hero._base)
-        
-        local mp_bar = GameAPI.get_comp_by_path(player._base, main_panel, 'mp_bar')
-        GameAPI.set_ui_comp_bind_attr(player._base, mp_bar, 'current_value_bind', 'mp_cur', 2)
-        GameAPI.set_ui_comp_bind_attr(player._base, mp_bar, 'max_value_bind', 'mp_max', 2)
-        GameAPI.ui_comp_bind_unit(player._base, mp_bar, hero._base)
-        
-        local hp_text = GameAPI.get_comp_by_path(player._base, hp_bar, 'hp_value')
-        local mp_text = GameAPI.get_comp_by_path(player._base, mp_bar, 'mp_value')
-        up.loop(1/30, function ()
-            local hp = tostring(math.floor(hero:get('hp_cur'))) .. '/' .. tostring(math.floor(hero:get('hp_max')))
-            local mp = tostring(math.floor(hero:get('mp_cur'))) .. '/' .. tostring(math.floor(hero:get('mp_max')))
-            GameAPI.set_ui_comp_text(player._base, hp_text, hp)
-            GameAPI.set_ui_comp_text(player._base, mp_text, mp)
         end)
     -- end)
 end)
