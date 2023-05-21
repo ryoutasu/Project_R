@@ -15,7 +15,8 @@
             "comp_anims": [], 
             "event_list": [], 
             "image": 134238676, 
-            "name": "background", 
+            "name": "blackout", 
+            "opacity": 0.0, 
             "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
@@ -24,10 +25,13 @@
                     540.0
                 ]
             }, 
-            "size": [
-                1920.0, 
-                1080.0
-            ], 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
             "type": 4, 
             "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a", 
             "visible": false
@@ -42974,7 +42978,7 @@
             "visible": false
         }
     ], 
-    "editor_visible": false, 
+    "editor_visible": true, 
     "name": "GameHUD", 
     "opacity": 1.0, 
     "type": 2, 

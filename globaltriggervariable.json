@@ -84,6 +84,20 @@
                 "switch": false
             }
         }, 
+        "169500740": {
+            "variable_dict": {
+                "CUS_EVENT": {
+                    "event": 0
+                }, 
+                "FLOAT": {}
+            }, 
+            "variable_length_dict": {
+                "event": 0
+            }, 
+            "variable_type_dict": {
+                "event": false
+            }
+        }, 
         "210653238": {
             "variable_dict": {
                 "UNIT_ENTITY": {
@@ -119,13 +133,34 @@
             "variable_dict": {
                 "BOOLEAN": {
                     "reset_bosses": false
+                }, 
+                "FLOAT": {
+                    "alpha": 0.0, 
+                    "blackout_speed": 0.0
                 }
             }, 
             "variable_length_dict": {
+                "alpha": 0, 
+                "blackout_speed": 0, 
                 "reset_bosses": 0
             }, 
             "variable_type_dict": {
+                "alpha": false, 
+                "blackout_speed": false, 
                 "reset_bosses": false
+            }
+        }, 
+        "355287116": {
+            "variable_dict": {
+                "INTEGER": {
+                    "enemies_count": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "enemies_count": 0
+            }, 
+            "variable_type_dict": {
+                "enemies_count": false
             }
         }, 
         "366354479": {
@@ -148,6 +183,14 @@
         }, 
         "387604544": {
             "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "death": 0, 
+                    "exits": 0
+                }, 
+                "FLOAT": {
+                    "alpha": 0.0, 
+                    "blackout_speed": 0.0
+                }, 
                 "INTEGER": {
                     "boss_number": 0, 
                     "r": 0
@@ -166,21 +209,30 @@
                 }, 
                 "UNIT_ENTITY": {
                     "enemy": 0
-                }
+                }, 
+                "UNIT_GROUP": {}
             }, 
             "variable_length_dict": {
+                "alpha": 0, 
+                "blackout_speed": 0, 
                 "boss_number": 0, 
+                "death": 0, 
                 "enemy": 0, 
                 "exit": 0, 
+                "exits": 0, 
                 "particle": 0, 
                 "r": 0, 
                 "room": 0, 
                 "timer": 0
             }, 
             "variable_type_dict": {
+                "alpha": false, 
+                "blackout_speed": false, 
                 "boss_number": false, 
+                "death": false, 
                 "enemy": false, 
                 "exit": false, 
+                "exits": false, 
                 "particle": false, 
                 "r": false, 
                 "room": false, 
@@ -521,6 +573,21 @@
                 "tips_size": true
             }
         }, 
+        "1149886540": {
+            "variable_dict": {
+                "CUS_EVENT": {}, 
+                "DYNAMIC_TRIGGER_INSTANCE": {}, 
+                "FLOAT": {
+                    "alpha": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "alpha": 0
+            }, 
+            "variable_type_dict": {
+                "alpha": false
+            }
+        }, 
         "1270726670": {
             "variable_dict": {
                 "NEW_TIMER": {
@@ -564,6 +631,14 @@
         }, 
         "1310351421": {
             "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "death": 0, 
+                    "exits": 0
+                }, 
+                "FLOAT": {
+                    "alpha": 0.0, 
+                    "blackout_speed": 0.0
+                }, 
                 "INTEGER": {
                     "enemies_count": 0, 
                     "i": 0, 
@@ -594,11 +669,15 @@
                 }
             }, 
             "variable_length_dict": {
+                "alpha": 0, 
+                "blackout_speed": 0, 
+                "death": 0, 
                 "enemies": 0, 
                 "enemies_count": 0, 
                 "enemy": 0, 
                 "exit_1": 0, 
                 "exit_2": 0, 
+                "exits": 0, 
                 "i": 0, 
                 "particle_1": 0, 
                 "particle_2": 0, 
@@ -609,11 +688,15 @@
                 "spawns": 0
             }, 
             "variable_type_dict": {
+                "alpha": false, 
+                "blackout_speed": false, 
+                "death": false, 
                 "enemies": false, 
                 "enemies_count": false, 
                 "enemy": false, 
                 "exit_1": false, 
                 "exit_2": false, 
+                "exits": false, 
                 "i": false, 
                 "particle_1": false, 
                 "particle_2": false, 
@@ -891,32 +974,6 @@
             }, 
             "variable_type_dict": {
                 "dis": false
-            }
-        }, 
-        "1830445122": {
-            "variable_dict": {
-                "TABLE": {
-                    "room": null
-                }
-            }, 
-            "variable_length_dict": {
-                "room": 0
-            }, 
-            "variable_type_dict": {
-                "room": false
-            }
-        }, 
-        "1863999550": {
-            "variable_dict": {
-                "INTEGER": {
-                    "enemies_count": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "enemies_count": 0
-            }, 
-            "variable_type_dict": {
-                "enemies_count": false
             }
         }, 
         "1872433179": {

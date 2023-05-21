@@ -4,7 +4,7 @@
     "key_order": {
         "KF0OsLKSEe2XPAD-+E6xse": 3, 
         "k-yOwLG2Ee2YRwD-+E6xsS": 2, 
-        "kyRJwPcbEe22ZQD-bCuBBO": 49, 
+        "kyRJwPcbEe22ZQD-bCuBBO": 46, 
         "loVdAPdFEe20Q+DVXoMa9J": 1
     }, 
     "name": "trigger", 
@@ -306,50 +306,71 @@
         "45": {
             "__tuple__": true, 
             "items": [
-                1863999550, 
-                "All enemies dead"
-            ]
-        }, 
-        "46": {
-            "__tuple__": true, 
-            "items": [
-                1260019775, 
-                "Exits"
-            ]
-        }, 
-        "47": {
-            "__tuple__": true, 
-            "items": [
                 387604544, 
                 "Enter boss room"
             ]
         }, 
-        "48": {
-            "__tuple__": true, 
-            "items": [
-                1830445122, 
-                "Exits_2"
-            ]
-        }, 
-        "50": {
-            "__tuple__": true, 
-            "items": [
-                169500740, 
-                "Starting zone enter"
-            ]
-        }, 
-        "51": {
+        "47": {
             "__tuple__": true, 
             "items": [
                 790257733, 
                 "Start dungeon"
             ]
         }, 
+        "48": {
+            "__tuple__": true, 
+            "items": [
+                1149886540, 
+                "Blackscreen"
+            ]
+        }, 
+        "49": {
+            "__tuple__": true, 
+            "items": [
+                169500740, 
+                "Starting zone enter"
+            ]
+        }, 
+        "50": {
+            "__tuple__": true, 
+            "items": [
+                355287116, 
+                "All enemies dead"
+            ]
+        }, 
+        "51": {
+            "__tuple__": true, 
+            "items": [
+                288198732, 
+                "Exits"
+            ]
+        }, 
         "52": {
             "__tuple__": true, 
             "items": [
-                1700372553, 
+                3002444, 
+                "Hero death"
+            ]
+        }, 
+        "53": {
+            "__tuple__": true, 
+            "items": [
+                875577420, 
                 "Boss death"
+            ]
+        }, 
+        "54": {
+            "__tuple__": true, 
+            "items": [
+                1278267468, 
+                "Exits_2"
+            ]
+        }, 
+        "55": {
+            "__tuple__": true, 
+            "items": [
+                1227948108, 
+                "Hero death_2"
             ]
         }
     }
