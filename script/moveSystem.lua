@@ -266,6 +266,7 @@ function set_player_movement(player, unit)
     local function remove_lightning()
         if lightning then lightning:show(false); lightning:remove() end
         if lightning_end then lightning_end:remove() end
+        unit:remove_restriction('ForbidAbilities')
     end
 
     p.timer = up.loop(tickrate, function ()
@@ -369,6 +370,7 @@ function set_player_movement(player, unit)
                             state = 'defend'
                             unit:add('move_speed', -defend_slow, 'AllRatio')
                             unit:add_animation({ name = 'defend', init_time = 0, end_time = 0.15, loop = false, speed = 0.5, return_idle = false })
+                            unit:add_restriction('ForbidAbilities')
 
                             -- if lightning then lightning:show(false); lightning:remove() end
                             lightning = up.lightning({

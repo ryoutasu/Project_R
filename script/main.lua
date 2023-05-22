@@ -75,6 +75,7 @@ up.game:event('Game-Init', function ()
                 set_player_movement(player, hero)
                 init_ui(player, hero)
 
+
                 t:remove()
             end
         end)

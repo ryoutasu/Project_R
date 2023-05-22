@@ -43057,7 +43057,6 @@
             "event_list": [], 
             "image": 134267786, 
             "name": "blackout", 
-            "opacity": 0.0, 
             "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
@@ -43074,8 +43073,7 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a", 
-            "visible": false
+            "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a"
         }
     ], 
     "editor_visible": false, 
