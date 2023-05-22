@@ -6090,14 +6090,6 @@
  {
   "__tuple__": true, 
   "items": [
-   624, 
-   "ZMOBA_Prop_Carpet_A_3", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    63, 
    "Template", 
    16384
@@ -6285,14 +6277,6 @@
    628, 
    "Door", 
    16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10155, 
-   "Localized Fog", 
-   1048576
   ]
  }, 
  {
@@ -9554,14 +9538,6 @@
  {
   "__tuple__": true, 
   "items": [
-   668, 
-   "Steps", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    675, 
    "Dead tree", 
    16777216
@@ -11795,14 +11771,6 @@
   "__tuple__": true, 
   "items": [
    1307, 
-   "Dead tree", 
-   16777216
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   893, 
    "Dead tree", 
    16777216
   ]
@@ -16602,30 +16570,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10389, 
-   "[ROOM_3] Exit 2 [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10390, 
-   "[ROOM_1] exit 1 [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10391, 
-   "[ROOM_2] Exit 2 [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10392, 
    "[ROOM_2] Exit 2", 
    4096
@@ -16642,14 +16586,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10394, 
-   "[ROOM_2] Exit 1 [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10395, 
    "[ROOM_2] Hero Spawn", 
    1024
@@ -16658,24 +16594,8 @@
  {
   "__tuple__": true, 
   "items": [
-   10396, 
-   "[ROOM_1] Exit 2 [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10397, 
    "[ROOM_3] Hero Spawn", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10399, 
-   "[ROOM_3] Exit 1 [PARTICLE]", 
    1024
   ]
  }, 
@@ -16691,7 +16611,7 @@
   "__tuple__": true, 
   "items": [
    10402, 
-   "Circle", 
+   "Tooltip_Attack", 
    4096
   ]
  }, 
@@ -16700,14 +16620,6 @@
   "items": [
    10403, 
    "[ROOM_4] Hero Spawn", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10404, 
-   "[ROOM_4] Exit [PARTICLE]", 
    1024
   ]
  }, 
@@ -17171,7 +17083,7 @@
   "__tuple__": true, 
   "items": [
    10414, 
-   "Circle", 
+   "Tooltip_Dash", 
    4096
   ]
  }, 
@@ -17179,7 +17091,7 @@
   "__tuple__": true, 
   "items": [
    10415, 
-   "Circle", 
+   "Tooltip_Enrage", 
    4096
   ]
  }, 
@@ -17187,24 +17099,8 @@
   "__tuple__": true, 
   "items": [
    10416, 
-   "Circle", 
+   "Tooltip_Movement", 
    4096
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10417, 
-   "[BOSSROOM_2] Exit [PARTICLE]", 
-   1024
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   10418, 
-   "[BOSSROOM_1] Exit [PARTICLE]", 
-   1024
   ]
  }, 
  {
@@ -17554,9 +17450,721 @@
  {
   "__tuple__": true, 
   "items": [
+   148, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1647, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1653, 
+   "Spruce tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1680, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1681, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1682, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1683, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1676, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1685, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1686, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1687, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1688, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1689, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1693, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1701, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1702, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1703, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1704, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1706, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1707, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1708, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1709, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1710, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1711, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1712, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1713, 
+   "Flowers", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1715, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1717, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1719, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1720, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1721, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1722, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1723, 
+   "Ruins", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1730, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1731, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1733, 
+   "Leaf", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1734, 
+   "Leaf", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1736, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1737, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1738, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1739, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1740, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1741, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1743, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1744, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1745, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1746, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1747, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1748, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1749, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1750, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1751, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1752, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1753, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1754, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1755, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1756, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1757, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1758, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1759, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1760, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1761, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1762, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1764, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1765, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1766, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1767, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1768, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1769, 
+   "Mushroom", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1770, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1771, 
+   "Dead tree", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1772, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1774, 
+   "Stairs", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1775, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1777, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1778, 
+   "Brick", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1779, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1780, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1781, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1782, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1783, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "Initial Camera", 
    32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   624, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   668, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   893, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1684, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   281, 
+   "wall_4", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1697, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1705, 
+   "Moss stone", 
+   16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1714, 
+   "Moss stone", 
+   16777216
   ]
  }
 ]

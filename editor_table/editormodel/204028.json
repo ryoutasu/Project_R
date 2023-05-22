@@ -1,0 +1,38 @@
+{
+    "describe": 826781970, 
+    "editor_res": false, 
+    "key": 204028, 
+    "map_name": "luoling", 
+    "model_id": 521031, 
+    "name": 1543599252, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Functional props", 
+            "code_tag_model_Golden", 
+            "code_Metal", 
+            "code_Coin"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.2, 
+            0.1
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204028", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "", 
+    "select_effect_scale": 0.15, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204028"
+}

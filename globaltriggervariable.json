@@ -655,7 +655,8 @@
                 }, 
                 "SFX_ENTITY": {
                     "particle_1": 0, 
-                    "particle_2": 0
+                    "particle_2": 0, 
+                    "particle_3": 0
                 }, 
                 "TABLE": {
                     "room": null, 
@@ -681,6 +682,7 @@
                 "i": 0, 
                 "particle_1": 0, 
                 "particle_2": 0, 
+                "particle_3": 0, 
                 "r": 0, 
                 "rect": 0, 
                 "room": 0, 
@@ -700,6 +702,7 @@
                 "i": false, 
                 "particle_1": false, 
                 "particle_2": false, 
+                "particle_3": false, 
                 "r": false, 
                 "rect": false, 
                 "room": false, 

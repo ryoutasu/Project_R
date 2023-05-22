@@ -17,7 +17,7 @@
                         {
                             "arg_type": 100066, 
                             "args_list": [
-                                102538
+                                101065
                             ], 
                             "sub_type": 1
                         }, 
@@ -198,7 +198,7 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                750
+                                                350
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -288,7 +288,7 @@
                         {
                             "arg_type": 100003, 
                             "args_list": [
-                                "skill1"
+                                "attack1"
                             ], 
                             "sub_type": 1
                         }, 

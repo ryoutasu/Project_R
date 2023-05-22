@@ -3722,6 +3722,149 @@
                                 "bp": false, 
                                 "element_id": 355287116000007, 
                                 "enable": true
+                            }, 
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100148, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "SFX_ENTITY", 
+                                                    "particle_3", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 4
+                                    }, 
+                                    {
+                                        "arg_type": 100148, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100066, 
+                                                "args_list": [
+                                                    100701
+                                                ], 
+                                                "sub_type": 1
+                                            }, 
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100023, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "ROUND_AREA", 
+                                                                    "exit_1", 
+                                                                    "local"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 2
+                                                    }
+                                                ], 
+                                                "sub_type": "ROUND_AREA_C_POINT"
+                                            }
+                                        ], 
+                                        "op_arg": [
+                                            null, 
+                                            null, 
+                                            null, 
+                                            {
+                                                "arg_type": 100000, 
+                                                "args_list": [
+                                                    20.0
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "op_arg_enable": [
+                                            false, 
+                                            false, 
+                                            false, 
+                                            false
+                                        ], 
+                                        "sub_type": "CREATE_SFX_ON_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 355287116000010, 
+                                "enable": true
+                            }, 
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100148, 
+                                        "args_list": [
+                                            [
+                                                "SFX_ENTITY", 
+                                                "particle_3", 
+                                                "local"
+                                            ]
+                                        ], 
+                                        "sub_type": 4
+                                    }, 
+                                    {
+                                        "arg_type": 100148, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100066, 
+                                                "args_list": [
+                                                    100701
+                                                ], 
+                                                "sub_type": 1
+                                            }, 
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100023, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "ROUND_AREA", 
+                                                                    "exit_2", 
+                                                                    "local"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 2
+                                                    }
+                                                ], 
+                                                "sub_type": "ROUND_AREA_C_POINT"
+                                            }
+                                        ], 
+                                        "op_arg": [
+                                            null, 
+                                            null, 
+                                            null, 
+                                            {
+                                                "arg_type": 100000, 
+                                                "args_list": [
+                                                    20.0
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "op_arg_enable": [
+                                            false, 
+                                            false, 
+                                            false, 
+                                            false
+                                        ], 
+                                        "sub_type": "CREATE_SFX_ON_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 355287116000017, 
+                                "enable": true
                             }
                         ], 
                         "sub_type": 1
@@ -16444,7 +16587,7 @@
                     {
                         "arg_type": 100000, 
                         "args_list": [
-                            0.5
+                            0.6
                         ], 
                         "sub_type": 1
                     }

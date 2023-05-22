@@ -4,7 +4,7 @@
     "async_effect": false, 
     "description": -1818298382, 
     "effect_foes": [
-        103373, 
+        103722, 
         {
             "__tuple__": true, 
             "items": [
@@ -24,15 +24,15 @@
         {
             "__tuple__": true, 
             "items": [
-                0.8, 
-                0.8, 
-                0.8
+                0.7, 
+                0.7, 
+                0.7
             ]
         }, 
         1.0
     ], 
     "effect_friend": [
-        103373, 
+        103722, 
         {
             "__tuple__": true, 
             "items": [
@@ -52,9 +52,9 @@
         {
             "__tuple__": true, 
             "items": [
-                0.8, 
-                0.8, 
-                0.8
+                0.7, 
+                0.7, 
+                0.7
             ]
         }, 
         1.0

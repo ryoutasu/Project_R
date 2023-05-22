@@ -121,6 +121,6 @@
     "vignetting": {
         "vignetting_change_range": 0.9999999999999999, 
         "vignetting_open": true, 
-        "vignetting_size": 0.5
+        "vignetting_size": 0.6
     }
 }

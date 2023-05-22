@@ -192,9 +192,9 @@
             "value": {
                 "__tuple__": true, 
                 "items": [
-                    "lambda unit: Fix32(100)", 
+                    "lambda unit: Fix32(75)", 
                     [], 
-                    "lambda unit: Fix32(100)", 
+                    "lambda unit: Fix32(75)", 
                     {}, 
                     []
                 ]

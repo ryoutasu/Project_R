@@ -68,6 +68,37 @@
             "origin", 
             true, 
             2
+        ], 
+        [
+            100388, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            1.0, 
+            "origin", 
+            true, 
+            2
         ]
     ], 
     "halo_effect": 0, 
@@ -99,7 +130,7 @@
     "same_origin_cover": true, 
     "shield_change_of_cover": 2, 
     "shield_type": 2, 
-    "shield_value": 600, 
+    "shield_value": 250, 
     "show_on_ui": true, 
     "sound_event_list": {
         "__tuple__": true, 

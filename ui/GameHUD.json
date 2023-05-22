@@ -39689,7 +39689,7 @@
                     ], 
                     "comp_anims": [], 
                     "event_list": [], 
-                    "image": 133825, 
+                    "image": 134271696, 
                     "name": "header", 
                     "pos": {
                         "__tuple__": true, 
@@ -39719,7 +39719,7 @@
                     "children": [], 
                     "comp_anims": [], 
                     "event_list": [], 
-                    "image": 133914, 
+                    "image": 134233929, 
                     "name": "line", 
                     "pos": {
                         "__tuple__": true, 
@@ -39756,7 +39756,7 @@
                         0.0, 
                         0.0
                     ], 
-                    "bg_image": 133914, 
+                    "bg_image": 134258600, 
                     "cap_insets": {
                         "__tuple__": true, 
                         "items": [
@@ -42572,11 +42572,11 @@
                         -18.926123046875006, 
                         -18.926123046874977
                     ], 
-                    "bg_image": 106320, 
+                    "bg_image": 134258981, 
                     "children": [], 
                     "comp_anims": [], 
                     "event_list": [], 
-                    "image": 106295, 
+                    "image": 134265475, 
                     "name": "dash_cd", 
                     "open_adapter": true, 
                     "pos": {
@@ -42660,21 +42660,21 @@
                         "__tuple__": true, 
                         "items": [
                             122.0, 
-                            30.0
+                            37.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
                             49.96760233263205, 
-                            30.0
+                            37.0
                         ]
                     }, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            505.3333740234375, 
-                            106.33331298828125
+                            512.0, 
+                            93.0
                         ]
                     }, 
                     "type": 4, 
@@ -42693,6 +42693,7 @@
                 ]
             }, 
             "name": "enemies_count", 
+            "over_pattern": true, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -42722,8 +42723,7 @@
                 ]
             }, 
             "type": 3, 
-            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425", 
-            "visible": false
+            "uid": "e0aa2c92-102a-4541-bcfa-2f3d691d2425"
         }, 
         {
             "adapter_option": [
@@ -42731,12 +42731,12 @@
                 false, 
                 true, 
                 true, 
-                81.89999999999998, 
-                953.9, 
-                604.2557891845703, 
-                604.2557891845704
+                94.39999999999998, 
+                966.4, 
+                652.8, 
+                652.8
             ], 
-            "bg_image": 134282663, 
+            "bg_image": 134258981, 
             "children": [
                 {
                     "adapter_option": [
@@ -42780,22 +42780,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            296.4535217285156, 
-                            18.41666603088379
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.000002144629285, 
-                            49.999998273892636
+                            256.0, 
+                            8.0
                         ]
                     }, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            592.9070434570312, 
-                            36.83333206176758
+                            512.0, 
+                            16.0
                         ]
                     }, 
                     "type": 3, 
@@ -42804,7 +42797,7 @@
             ], 
             "comp_anims": [], 
             "event_list": [], 
-            "image": 120093, 
+            "image": 134265475, 
             "name": "boss_health", 
             "open_adapter": true, 
             "pos": {
@@ -42831,8 +42824,8 @@
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    592.9070180257162, 
-                    36.833333333333336
+                    512.0, 
+                    16.0
                 ]
             }, 
             "type": 5, 
