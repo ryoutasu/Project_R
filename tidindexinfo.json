@@ -5,6 +5,12 @@
         "item_key": 134267891, 
         "prop_key": "name"
     }, 
+    "-838531807": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134271643, 
+        "prop_key": "name"
+    }, 
     "-624947823": {
         "editor_type": "ability_all", 
         "index_type": "object_editor", 

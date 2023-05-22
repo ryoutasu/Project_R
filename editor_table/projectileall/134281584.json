@@ -1,10 +1,13 @@
 {
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
     "_custom_": true, 
     "_ref_": 134281584, 
     "async_effect": false, 
     "description": -1077840566, 
     "effect_foes": [
-        102879, 
+        100425, 
         {
             "__tuple__": true, 
             "items": [
@@ -32,7 +35,7 @@
         1.0
     ], 
     "effect_friend": [
-        102879, 
+        100425, 
         {
             "__tuple__": true, 
             "items": [

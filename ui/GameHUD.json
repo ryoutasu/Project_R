@@ -1,42 +1,6 @@
 {
     "children": [
         {
-            "adapter_option": [
-                true, 
-                true, 
-                true, 
-                true, 
-                0.0, 
-                0.0, 
-                0.0, 
-                0.0
-            ], 
-            "children": [], 
-            "comp_anims": [], 
-            "event_list": [], 
-            "image": 134267786, 
-            "name": "blackout", 
-            "opacity": 0.0, 
-            "open_adapter": true, 
-            "pos": {
-                "__tuple__": true, 
-                "items": [
-                    960.0, 
-                    540.0
-                ]
-            }, 
-            "size": {
-                "__tuple__": true, 
-                "items": [
-                    1920.0, 
-                    1080.0
-                ]
-            }, 
-            "type": 4, 
-            "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a", 
-            "visible": false
-        }, 
-        {
             "children": [
                 {
                     "bg_image": 107333, 
@@ -43075,6 +43039,42 @@
             }, 
             "type": 4, 
             "uid": "09fff193-3710-42bf-b2ce-1a2ea2ce1edf", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [], 
+            "image": 134267786, 
+            "name": "blackout", 
+            "opacity": 0.0, 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "89ed6949-ae5c-4210-8c41-5e43492a484a", 
             "visible": false
         }
     ], 
