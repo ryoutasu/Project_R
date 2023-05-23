@@ -96,33 +96,16 @@
                 {
                     "args_list": [
                         {
-                            "arg_type": 100006, 
+                            "arg_type": 100000, 
                             "args_list": [
-                                [
-                                    "UNIT_ENTITY", 
-                                    "hero"
-                                ]
-                            ], 
-                            "sub_type": 11
-                        }, 
-                        {
-                            "arg_type": 100044, 
-                            "args_list": [
-                                1
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100023, 
-                            "args_list": [
-                                10416
+                                4.0
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "element_id": 988225608000004, 
                     "enable": true, 
-                    "event_type": "UNIT_REGION_EVENT"
+                    "event_type": "GAME_ELAPSE_ONCE"
                 }
             ], 
             "group_id": "loVdAPdFEe20Q+DVXoMa9J", 

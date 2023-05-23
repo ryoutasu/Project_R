@@ -1,0 +1,306 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "349974529": {
+            "action": [
+                {
+                    "action_type": "RUN_LOOP_TIMER_NO_SAVE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.5
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "IF_THEN_ELSE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100021, 
+                                            "args_list": [
+                                                {
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100014, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100182, 
+                                                                            "args_list": [
+                                                                                2
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100039, 
+                                                                            "args_list": [
+                                                                                134260648
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "GET_ABILITY_BY_AID"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "ABILITY_CD_LEFT_TIME"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100015, 
+                                                            "args_list": [
+                                                                "=="
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                0.0
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "condition_type": "FLOAT_COMPARE", 
+                                                    "element_id": 349974529000096, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "PICK_UNIT_DO_ACTION", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100026, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100004, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "UNIT_ENTITY_POINT"
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100211, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100002, 
+                                                                            "args_list": [
+                                                                                1000
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "CONST_CIRCULAR_SHAPE"
+                                                                }
+                                                            ], 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100027, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100025, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "arg_type": 100006, 
+                                                                                    "args_list": [], 
+                                                                                    "sub_type": "CUR_UNIT"
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": "OWNER_PLAYER"
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "PLAYER_ENEMY"
+                                                                }, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                null, 
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }, 
+                                                                null, 
+                                                                null
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                true, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false, 
+                                                                false
+                                                            ], 
+                                                            "sub_type": "UNIT_LIST_IN_SHAPE"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [
+                                                                {
+                                                                    "action_type": "UNIT_RELEASE_COMMAND", 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100216, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "arg_type": 100014, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "arg_type": 100006, 
+                                                                                            "args_list": [], 
+                                                                                            "sub_type": "CUR_UNIT"
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100182, 
+                                                                                            "args_list": [
+                                                                                                2
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }, 
+                                                                                        {
+                                                                                            "arg_type": 100039, 
+                                                                                            "args_list": [
+                                                                                                134260648
+                                                                                            ], 
+                                                                                            "sub_type": 1
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": "GET_ABILITY_BY_AID"
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100004, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "arg_type": 100006, 
+                                                                                            "args_list": [], 
+                                                                                            "sub_type": "FOR_EACH_SELECTED_UNIT"
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": "UNIT_ENTITY_POINT"
+                                                                                }, 
+                                                                                null, 
+                                                                                null, 
+                                                                                null, 
+                                                                                null
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                true, 
+                                                                                false, 
+                                                                                false, 
+                                                                                false, 
+                                                                                false
+                                                                            ], 
+                                                                            "sub_type": "UNIT_COMMAND_USE_SKILL"
+                                                                        }
+                                                                    ], 
+                                                                    "bp": false, 
+                                                                    "element_id": 349974529000110, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 349974529000040, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 349974529000065, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 349974529000016, 
+                    "enable": true, 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ]
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 349974529000002, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134242652, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 349974529, 
+            "trigger_name": "New Trigger", 
+            "valid": true
+        }
+    }, 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}, 
+    "variable_type_dict": {}
+}

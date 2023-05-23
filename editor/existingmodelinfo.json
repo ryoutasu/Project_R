@@ -17098,14 +17098,6 @@
  {
   "__tuple__": true, 
   "items": [
-   10416, 
-   "Tooltip_Movement", 
-   4096
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    179, 
    "PillarNew", 
    16384
@@ -18098,14 +18090,6 @@
  {
   "__tuple__": true, 
   "items": [
-   9999, 
-   "Initial Camera", 
-   32768
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    624, 
    "Moss stone", 
    16777216
@@ -18165,6 +18149,14 @@
    1714, 
    "Moss stone", 
    16777216
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "Initial Camera", 
+   32768
   ]
  }
 ]
